@@ -119,44 +119,126 @@
 
 # print(f"JSON file 'faction_data.json' updated successfully!")
 
+# import random
+# import json
+
+# # Function to generate random building data
+# def generate_building_data(num_buildings):
+#     buildings = []
+
+#     for i in range(1, num_buildings + 1):
+#         building = {
+#             "building_id": i,
+#             "name": f"Building {i}",
+#             "damage": random.randint(10, 100),
+#             "hp": random.randint(500, 2000),
+#             "type": random.choice(["Town Hall", "Barracks", "Tower", "Farm"]),  # Sample types, adjust as needed
+#             "base_id": random.randint(1, 1000)  # Foreign key linking to base ID
+#         }
+#         buildings.append(building)
+
+#     return buildings
+
+# # Specify the number of buildings you want to generate
+# num_buildings = 1000 # Change this number as per your requirement
+
+# # Generate building data
+# buildings = generate_building_data(num_buildings)
+
+# # Attempting to load existing building data from file
+# try:
+#     with open("building_data.json", "r") as json_file:
+#         data = json.load(json_file)
+# except FileNotFoundError:
+#     data = {"buildings": []}
+
+# # Appending new building data to existing data or creating new data if file not found
+# data["buildings"].extend(buildings)
+
+# # Writing data back to JSON file
+# with open("building_data.json", "w") as json_file:
+#     json.dump(data, json_file, indent=2)
+
+# print(f"JSON file 'building_data.json' updated successfully!")
+
+# import random
+# import json
+
+# # Function to generate random reward data
+# def generate_reward_data(num_rewards):
+#     rewards = []
+
+#     for i in range(1, num_rewards + 1):
+#         reward = {
+#             "ID": i,
+#             "name": f"Reward {i}",
+#             "type": random.choice(["Gold", "Gem", "Item"]),  # Sample types, adjust as needed
+#             "quantity": random.randint(1, 1000)
+#         }
+#         rewards.append(reward)
+
+#     return rewards
+
+# # Specify the number of rewards you want to generate
+# num_rewards = 1000  # Change this number as per your requirement
+
+# # Generate reward data
+# rewards = generate_reward_data(num_rewards)
+
+# # Attempting to load existing reward data from file
+# try:
+#     with open("rewards.json", "r") as json_file:
+#         data = json.load(json_file)
+# except FileNotFoundError:
+#     data = {"rewards": []}
+
+# # Appending new reward data to existing data or creating new data if file not found
+# data["rewards"].extend(rewards)
+
+# # Writing data back to JSON file
+# with open("rewards.json", "w") as json_file:
+#     json.dump(data, json_file, indent=2)
+
+# print(f"JSON file 'rewards.json' updated successfully!")
+
 import random
 import json
 
-# Function to generate random building data
-def generate_building_data(num_buildings):
-    buildings = []
+# Function to generate random reward data
+def generate_reward_data(num_rewards, session_id):
+    rewards = []
 
-    for i in range(1, num_buildings + 1):
-        building = {
-            "building_id": i,
-            "name": f"Building {i}",
-            "damage": random.randint(10, 100),
-            "hp": random.randint(500, 2000),
-            "type": random.choice(["Town Hall", "Barracks", "Tower", "Farm"]),  # Sample types, adjust as needed
-            "base_id": random.randint(1, 1000)  # Foreign key linking to base ID
+    for i in range(1, num_rewards + 1):
+        reward = {
+            "reward_id": i,
+            "name": f"Reward {i}",
+            "type": random.choice(["Gold", "Gem", "Item"]),
+            "quantity": random.randint(1, 1000),
+            "session_id": session_id  # Assigning the session_id as the foreign key
         }
-        buildings.append(building)
+        rewards.append(reward)
 
-    return buildings
+    return rewards
 
-# Specify the number of buildings you want to generate
-num_buildings = 1000 # Change this number as per your requirement
+# Specify the number of rewards you want to generate
+num_rewards = 1000  # Change this number as per your requirement
+session_id = 1  # Assuming a single session with session_id = 1, change as needed
 
-# Generate building data
-buildings = generate_building_data(num_buildings)
+# Generate reward data
+rewards = generate_reward_data(num_rewards, session_id)
 
-# Attempting to load existing building data from file
+# Attempting to load existing reward data from file
 try:
-    with open("building_data.json", "r") as json_file:
+    with open("rewards.json", "r") as json_file:
         data = json.load(json_file)
 except FileNotFoundError:
-    data = {"buildings": []}
+    data = {"rewards": []}
 
-# Appending new building data to existing data or creating new data if file not found
-data["buildings"].extend(buildings)
+# Appending new reward data to existing data or creating new data if file not found
+data["rewards"].extend(rewards)
 
 # Writing data back to JSON file
-with open("building_data.json", "w") as json_file:
+with open("rewards.json", "w") as json_file:
     json.dump(data, json_file, indent=2)
 
-print(f"JSON file 'building_data.json' updated successfully!")
+print(f"JSON file 'rewards.json' updated successfully!")
