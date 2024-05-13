@@ -1,0 +1,6004 @@
+{
+  "factions": [
+    {
+      "faction_id": 1,
+      "name": "Faction 1",
+      "base_location": "Location 1",
+      "player_id": 1
+    },
+    {
+      "faction_id": 2,
+      "name": "Faction 2",
+      "base_location": "Location 2",
+      "player_id": 2
+    },
+    {
+      "faction_id": 3,
+      "name": "Faction 3",
+      "base_location": "Location 3",
+      "player_id": 3
+    },
+    {
+      "faction_id": 4,
+      "name": "Faction 4",
+      "base_location": "Location 4",
+      "player_id": 4
+    },
+    {
+      "faction_id": 5,
+      "name": "Faction 5",
+      "base_location": "Location 5",
+      "player_id": 5
+    },
+    {
+      "faction_id": 6,
+      "name": "Faction 6",
+      "base_location": "Location 6",
+      "player_id": 6
+    },
+    {
+      "faction_id": 7,
+      "name": "Faction 7",
+      "base_location": "Location 7",
+      "player_id": 7
+    },
+    {
+      "faction_id": 8,
+      "name": "Faction 8",
+      "base_location": "Location 8",
+      "player_id": 8
+    },
+    {
+      "faction_id": 9,
+      "name": "Faction 9",
+      "base_location": "Location 9",
+      "player_id": 9
+    },
+    {
+      "faction_id": 10,
+      "name": "Faction 10",
+      "base_location": "Location 10",
+      "player_id": 10
+    },
+    {
+      "faction_id": 11,
+      "name": "Faction 11",
+      "base_location": "Location 11",
+      "player_id": 11
+    },
+    {
+      "faction_id": 12,
+      "name": "Faction 12",
+      "base_location": "Location 12",
+      "player_id": 12
+    },
+    {
+      "faction_id": 13,
+      "name": "Faction 13",
+      "base_location": "Location 13",
+      "player_id": 13
+    },
+    {
+      "faction_id": 14,
+      "name": "Faction 14",
+      "base_location": "Location 14",
+      "player_id": 14
+    },
+    {
+      "faction_id": 15,
+      "name": "Faction 15",
+      "base_location": "Location 15",
+      "player_id": 15
+    },
+    {
+      "faction_id": 16,
+      "name": "Faction 16",
+      "base_location": "Location 16",
+      "player_id": 16
+    },
+    {
+      "faction_id": 17,
+      "name": "Faction 17",
+      "base_location": "Location 17",
+      "player_id": 17
+    },
+    {
+      "faction_id": 18,
+      "name": "Faction 18",
+      "base_location": "Location 18",
+      "player_id": 18
+    },
+    {
+      "faction_id": 19,
+      "name": "Faction 19",
+      "base_location": "Location 19",
+      "player_id": 19
+    },
+    {
+      "faction_id": 20,
+      "name": "Faction 20",
+      "base_location": "Location 20",
+      "player_id": 20
+    },
+    {
+      "faction_id": 21,
+      "name": "Faction 21",
+      "base_location": "Location 21",
+      "player_id": 21
+    },
+    {
+      "faction_id": 22,
+      "name": "Faction 22",
+      "base_location": "Location 22",
+      "player_id": 22
+    },
+    {
+      "faction_id": 23,
+      "name": "Faction 23",
+      "base_location": "Location 23",
+      "player_id": 23
+    },
+    {
+      "faction_id": 24,
+      "name": "Faction 24",
+      "base_location": "Location 24",
+      "player_id": 24
+    },
+    {
+      "faction_id": 25,
+      "name": "Faction 25",
+      "base_location": "Location 25",
+      "player_id": 25
+    },
+    {
+      "faction_id": 26,
+      "name": "Faction 26",
+      "base_location": "Location 26",
+      "player_id": 26
+    },
+    {
+      "faction_id": 27,
+      "name": "Faction 27",
+      "base_location": "Location 27",
+      "player_id": 27
+    },
+    {
+      "faction_id": 28,
+      "name": "Faction 28",
+      "base_location": "Location 28",
+      "player_id": 28
+    },
+    {
+      "faction_id": 29,
+      "name": "Faction 29",
+      "base_location": "Location 29",
+      "player_id": 29
+    },
+    {
+      "faction_id": 30,
+      "name": "Faction 30",
+      "base_location": "Location 30",
+      "player_id": 30
+    },
+    {
+      "faction_id": 31,
+      "name": "Faction 31",
+      "base_location": "Location 31",
+      "player_id": 31
+    },
+    {
+      "faction_id": 32,
+      "name": "Faction 32",
+      "base_location": "Location 32",
+      "player_id": 32
+    },
+    {
+      "faction_id": 33,
+      "name": "Faction 33",
+      "base_location": "Location 33",
+      "player_id": 33
+    },
+    {
+      "faction_id": 34,
+      "name": "Faction 34",
+      "base_location": "Location 34",
+      "player_id": 34
+    },
+    {
+      "faction_id": 35,
+      "name": "Faction 35",
+      "base_location": "Location 35",
+      "player_id": 35
+    },
+    {
+      "faction_id": 36,
+      "name": "Faction 36",
+      "base_location": "Location 36",
+      "player_id": 36
+    },
+    {
+      "faction_id": 37,
+      "name": "Faction 37",
+      "base_location": "Location 37",
+      "player_id": 37
+    },
+    {
+      "faction_id": 38,
+      "name": "Faction 38",
+      "base_location": "Location 38",
+      "player_id": 38
+    },
+    {
+      "faction_id": 39,
+      "name": "Faction 39",
+      "base_location": "Location 39",
+      "player_id": 39
+    },
+    {
+      "faction_id": 40,
+      "name": "Faction 40",
+      "base_location": "Location 40",
+      "player_id": 40
+    },
+    {
+      "faction_id": 41,
+      "name": "Faction 41",
+      "base_location": "Location 41",
+      "player_id": 41
+    },
+    {
+      "faction_id": 42,
+      "name": "Faction 42",
+      "base_location": "Location 42",
+      "player_id": 42
+    },
+    {
+      "faction_id": 43,
+      "name": "Faction 43",
+      "base_location": "Location 43",
+      "player_id": 43
+    },
+    {
+      "faction_id": 44,
+      "name": "Faction 44",
+      "base_location": "Location 44",
+      "player_id": 44
+    },
+    {
+      "faction_id": 45,
+      "name": "Faction 45",
+      "base_location": "Location 45",
+      "player_id": 45
+    },
+    {
+      "faction_id": 46,
+      "name": "Faction 46",
+      "base_location": "Location 46",
+      "player_id": 46
+    },
+    {
+      "faction_id": 47,
+      "name": "Faction 47",
+      "base_location": "Location 47",
+      "player_id": 47
+    },
+    {
+      "faction_id": 48,
+      "name": "Faction 48",
+      "base_location": "Location 48",
+      "player_id": 48
+    },
+    {
+      "faction_id": 49,
+      "name": "Faction 49",
+      "base_location": "Location 49",
+      "player_id": 49
+    },
+    {
+      "faction_id": 50,
+      "name": "Faction 50",
+      "base_location": "Location 50",
+      "player_id": 50
+    },
+    {
+      "faction_id": 51,
+      "name": "Faction 51",
+      "base_location": "Location 51",
+      "player_id": 51
+    },
+    {
+      "faction_id": 52,
+      "name": "Faction 52",
+      "base_location": "Location 52",
+      "player_id": 52
+    },
+    {
+      "faction_id": 53,
+      "name": "Faction 53",
+      "base_location": "Location 53",
+      "player_id": 53
+    },
+    {
+      "faction_id": 54,
+      "name": "Faction 54",
+      "base_location": "Location 54",
+      "player_id": 54
+    },
+    {
+      "faction_id": 55,
+      "name": "Faction 55",
+      "base_location": "Location 55",
+      "player_id": 55
+    },
+    {
+      "faction_id": 56,
+      "name": "Faction 56",
+      "base_location": "Location 56",
+      "player_id": 56
+    },
+    {
+      "faction_id": 57,
+      "name": "Faction 57",
+      "base_location": "Location 57",
+      "player_id": 57
+    },
+    {
+      "faction_id": 58,
+      "name": "Faction 58",
+      "base_location": "Location 58",
+      "player_id": 58
+    },
+    {
+      "faction_id": 59,
+      "name": "Faction 59",
+      "base_location": "Location 59",
+      "player_id": 59
+    },
+    {
+      "faction_id": 60,
+      "name": "Faction 60",
+      "base_location": "Location 60",
+      "player_id": 60
+    },
+    {
+      "faction_id": 61,
+      "name": "Faction 61",
+      "base_location": "Location 61",
+      "player_id": 61
+    },
+    {
+      "faction_id": 62,
+      "name": "Faction 62",
+      "base_location": "Location 62",
+      "player_id": 62
+    },
+    {
+      "faction_id": 63,
+      "name": "Faction 63",
+      "base_location": "Location 63",
+      "player_id": 63
+    },
+    {
+      "faction_id": 64,
+      "name": "Faction 64",
+      "base_location": "Location 64",
+      "player_id": 64
+    },
+    {
+      "faction_id": 65,
+      "name": "Faction 65",
+      "base_location": "Location 65",
+      "player_id": 65
+    },
+    {
+      "faction_id": 66,
+      "name": "Faction 66",
+      "base_location": "Location 66",
+      "player_id": 66
+    },
+    {
+      "faction_id": 67,
+      "name": "Faction 67",
+      "base_location": "Location 67",
+      "player_id": 67
+    },
+    {
+      "faction_id": 68,
+      "name": "Faction 68",
+      "base_location": "Location 68",
+      "player_id": 68
+    },
+    {
+      "faction_id": 69,
+      "name": "Faction 69",
+      "base_location": "Location 69",
+      "player_id": 69
+    },
+    {
+      "faction_id": 70,
+      "name": "Faction 70",
+      "base_location": "Location 70",
+      "player_id": 70
+    },
+    {
+      "faction_id": 71,
+      "name": "Faction 71",
+      "base_location": "Location 71",
+      "player_id": 71
+    },
+    {
+      "faction_id": 72,
+      "name": "Faction 72",
+      "base_location": "Location 72",
+      "player_id": 72
+    },
+    {
+      "faction_id": 73,
+      "name": "Faction 73",
+      "base_location": "Location 73",
+      "player_id": 73
+    },
+    {
+      "faction_id": 74,
+      "name": "Faction 74",
+      "base_location": "Location 74",
+      "player_id": 74
+    },
+    {
+      "faction_id": 75,
+      "name": "Faction 75",
+      "base_location": "Location 75",
+      "player_id": 75
+    },
+    {
+      "faction_id": 76,
+      "name": "Faction 76",
+      "base_location": "Location 76",
+      "player_id": 76
+    },
+    {
+      "faction_id": 77,
+      "name": "Faction 77",
+      "base_location": "Location 77",
+      "player_id": 77
+    },
+    {
+      "faction_id": 78,
+      "name": "Faction 78",
+      "base_location": "Location 78",
+      "player_id": 78
+    },
+    {
+      "faction_id": 79,
+      "name": "Faction 79",
+      "base_location": "Location 79",
+      "player_id": 79
+    },
+    {
+      "faction_id": 80,
+      "name": "Faction 80",
+      "base_location": "Location 80",
+      "player_id": 80
+    },
+    {
+      "faction_id": 81,
+      "name": "Faction 81",
+      "base_location": "Location 81",
+      "player_id": 81
+    },
+    {
+      "faction_id": 82,
+      "name": "Faction 82",
+      "base_location": "Location 82",
+      "player_id": 82
+    },
+    {
+      "faction_id": 83,
+      "name": "Faction 83",
+      "base_location": "Location 83",
+      "player_id": 83
+    },
+    {
+      "faction_id": 84,
+      "name": "Faction 84",
+      "base_location": "Location 84",
+      "player_id": 84
+    },
+    {
+      "faction_id": 85,
+      "name": "Faction 85",
+      "base_location": "Location 85",
+      "player_id": 85
+    },
+    {
+      "faction_id": 86,
+      "name": "Faction 86",
+      "base_location": "Location 86",
+      "player_id": 86
+    },
+    {
+      "faction_id": 87,
+      "name": "Faction 87",
+      "base_location": "Location 87",
+      "player_id": 87
+    },
+    {
+      "faction_id": 88,
+      "name": "Faction 88",
+      "base_location": "Location 88",
+      "player_id": 88
+    },
+    {
+      "faction_id": 89,
+      "name": "Faction 89",
+      "base_location": "Location 89",
+      "player_id": 89
+    },
+    {
+      "faction_id": 90,
+      "name": "Faction 90",
+      "base_location": "Location 90",
+      "player_id": 90
+    },
+    {
+      "faction_id": 91,
+      "name": "Faction 91",
+      "base_location": "Location 91",
+      "player_id": 91
+    },
+    {
+      "faction_id": 92,
+      "name": "Faction 92",
+      "base_location": "Location 92",
+      "player_id": 92
+    },
+    {
+      "faction_id": 93,
+      "name": "Faction 93",
+      "base_location": "Location 93",
+      "player_id": 93
+    },
+    {
+      "faction_id": 94,
+      "name": "Faction 94",
+      "base_location": "Location 94",
+      "player_id": 94
+    },
+    {
+      "faction_id": 95,
+      "name": "Faction 95",
+      "base_location": "Location 95",
+      "player_id": 95
+    },
+    {
+      "faction_id": 96,
+      "name": "Faction 96",
+      "base_location": "Location 96",
+      "player_id": 96
+    },
+    {
+      "faction_id": 97,
+      "name": "Faction 97",
+      "base_location": "Location 97",
+      "player_id": 97
+    },
+    {
+      "faction_id": 98,
+      "name": "Faction 98",
+      "base_location": "Location 98",
+      "player_id": 98
+    },
+    {
+      "faction_id": 99,
+      "name": "Faction 99",
+      "base_location": "Location 99",
+      "player_id": 99
+    },
+    {
+      "faction_id": 100,
+      "name": "Faction 100",
+      "base_location": "Location 100",
+      "player_id": 100
+    },
+    {
+      "faction_id": 101,
+      "name": "Faction 101",
+      "base_location": "Location 101",
+      "player_id": 101
+    },
+    {
+      "faction_id": 102,
+      "name": "Faction 102",
+      "base_location": "Location 102",
+      "player_id": 102
+    },
+    {
+      "faction_id": 103,
+      "name": "Faction 103",
+      "base_location": "Location 103",
+      "player_id": 103
+    },
+    {
+      "faction_id": 104,
+      "name": "Faction 104",
+      "base_location": "Location 104",
+      "player_id": 104
+    },
+    {
+      "faction_id": 105,
+      "name": "Faction 105",
+      "base_location": "Location 105",
+      "player_id": 105
+    },
+    {
+      "faction_id": 106,
+      "name": "Faction 106",
+      "base_location": "Location 106",
+      "player_id": 106
+    },
+    {
+      "faction_id": 107,
+      "name": "Faction 107",
+      "base_location": "Location 107",
+      "player_id": 107
+    },
+    {
+      "faction_id": 108,
+      "name": "Faction 108",
+      "base_location": "Location 108",
+      "player_id": 108
+    },
+    {
+      "faction_id": 109,
+      "name": "Faction 109",
+      "base_location": "Location 109",
+      "player_id": 109
+    },
+    {
+      "faction_id": 110,
+      "name": "Faction 110",
+      "base_location": "Location 110",
+      "player_id": 110
+    },
+    {
+      "faction_id": 111,
+      "name": "Faction 111",
+      "base_location": "Location 111",
+      "player_id": 111
+    },
+    {
+      "faction_id": 112,
+      "name": "Faction 112",
+      "base_location": "Location 112",
+      "player_id": 112
+    },
+    {
+      "faction_id": 113,
+      "name": "Faction 113",
+      "base_location": "Location 113",
+      "player_id": 113
+    },
+    {
+      "faction_id": 114,
+      "name": "Faction 114",
+      "base_location": "Location 114",
+      "player_id": 114
+    },
+    {
+      "faction_id": 115,
+      "name": "Faction 115",
+      "base_location": "Location 115",
+      "player_id": 115
+    },
+    {
+      "faction_id": 116,
+      "name": "Faction 116",
+      "base_location": "Location 116",
+      "player_id": 116
+    },
+    {
+      "faction_id": 117,
+      "name": "Faction 117",
+      "base_location": "Location 117",
+      "player_id": 117
+    },
+    {
+      "faction_id": 118,
+      "name": "Faction 118",
+      "base_location": "Location 118",
+      "player_id": 118
+    },
+    {
+      "faction_id": 119,
+      "name": "Faction 119",
+      "base_location": "Location 119",
+      "player_id": 119
+    },
+    {
+      "faction_id": 120,
+      "name": "Faction 120",
+      "base_location": "Location 120",
+      "player_id": 120
+    },
+    {
+      "faction_id": 121,
+      "name": "Faction 121",
+      "base_location": "Location 121",
+      "player_id": 121
+    },
+    {
+      "faction_id": 122,
+      "name": "Faction 122",
+      "base_location": "Location 122",
+      "player_id": 122
+    },
+    {
+      "faction_id": 123,
+      "name": "Faction 123",
+      "base_location": "Location 123",
+      "player_id": 123
+    },
+    {
+      "faction_id": 124,
+      "name": "Faction 124",
+      "base_location": "Location 124",
+      "player_id": 124
+    },
+    {
+      "faction_id": 125,
+      "name": "Faction 125",
+      "base_location": "Location 125",
+      "player_id": 125
+    },
+    {
+      "faction_id": 126,
+      "name": "Faction 126",
+      "base_location": "Location 126",
+      "player_id": 126
+    },
+    {
+      "faction_id": 127,
+      "name": "Faction 127",
+      "base_location": "Location 127",
+      "player_id": 127
+    },
+    {
+      "faction_id": 128,
+      "name": "Faction 128",
+      "base_location": "Location 128",
+      "player_id": 128
+    },
+    {
+      "faction_id": 129,
+      "name": "Faction 129",
+      "base_location": "Location 129",
+      "player_id": 129
+    },
+    {
+      "faction_id": 130,
+      "name": "Faction 130",
+      "base_location": "Location 130",
+      "player_id": 130
+    },
+    {
+      "faction_id": 131,
+      "name": "Faction 131",
+      "base_location": "Location 131",
+      "player_id": 131
+    },
+    {
+      "faction_id": 132,
+      "name": "Faction 132",
+      "base_location": "Location 132",
+      "player_id": 132
+    },
+    {
+      "faction_id": 133,
+      "name": "Faction 133",
+      "base_location": "Location 133",
+      "player_id": 133
+    },
+    {
+      "faction_id": 134,
+      "name": "Faction 134",
+      "base_location": "Location 134",
+      "player_id": 134
+    },
+    {
+      "faction_id": 135,
+      "name": "Faction 135",
+      "base_location": "Location 135",
+      "player_id": 135
+    },
+    {
+      "faction_id": 136,
+      "name": "Faction 136",
+      "base_location": "Location 136",
+      "player_id": 136
+    },
+    {
+      "faction_id": 137,
+      "name": "Faction 137",
+      "base_location": "Location 137",
+      "player_id": 137
+    },
+    {
+      "faction_id": 138,
+      "name": "Faction 138",
+      "base_location": "Location 138",
+      "player_id": 138
+    },
+    {
+      "faction_id": 139,
+      "name": "Faction 139",
+      "base_location": "Location 139",
+      "player_id": 139
+    },
+    {
+      "faction_id": 140,
+      "name": "Faction 140",
+      "base_location": "Location 140",
+      "player_id": 140
+    },
+    {
+      "faction_id": 141,
+      "name": "Faction 141",
+      "base_location": "Location 141",
+      "player_id": 141
+    },
+    {
+      "faction_id": 142,
+      "name": "Faction 142",
+      "base_location": "Location 142",
+      "player_id": 142
+    },
+    {
+      "faction_id": 143,
+      "name": "Faction 143",
+      "base_location": "Location 143",
+      "player_id": 143
+    },
+    {
+      "faction_id": 144,
+      "name": "Faction 144",
+      "base_location": "Location 144",
+      "player_id": 144
+    },
+    {
+      "faction_id": 145,
+      "name": "Faction 145",
+      "base_location": "Location 145",
+      "player_id": 145
+    },
+    {
+      "faction_id": 146,
+      "name": "Faction 146",
+      "base_location": "Location 146",
+      "player_id": 146
+    },
+    {
+      "faction_id": 147,
+      "name": "Faction 147",
+      "base_location": "Location 147",
+      "player_id": 147
+    },
+    {
+      "faction_id": 148,
+      "name": "Faction 148",
+      "base_location": "Location 148",
+      "player_id": 148
+    },
+    {
+      "faction_id": 149,
+      "name": "Faction 149",
+      "base_location": "Location 149",
+      "player_id": 149
+    },
+    {
+      "faction_id": 150,
+      "name": "Faction 150",
+      "base_location": "Location 150",
+      "player_id": 150
+    },
+    {
+      "faction_id": 151,
+      "name": "Faction 151",
+      "base_location": "Location 151",
+      "player_id": 151
+    },
+    {
+      "faction_id": 152,
+      "name": "Faction 152",
+      "base_location": "Location 152",
+      "player_id": 152
+    },
+    {
+      "faction_id": 153,
+      "name": "Faction 153",
+      "base_location": "Location 153",
+      "player_id": 153
+    },
+    {
+      "faction_id": 154,
+      "name": "Faction 154",
+      "base_location": "Location 154",
+      "player_id": 154
+    },
+    {
+      "faction_id": 155,
+      "name": "Faction 155",
+      "base_location": "Location 155",
+      "player_id": 155
+    },
+    {
+      "faction_id": 156,
+      "name": "Faction 156",
+      "base_location": "Location 156",
+      "player_id": 156
+    },
+    {
+      "faction_id": 157,
+      "name": "Faction 157",
+      "base_location": "Location 157",
+      "player_id": 157
+    },
+    {
+      "faction_id": 158,
+      "name": "Faction 158",
+      "base_location": "Location 158",
+      "player_id": 158
+    },
+    {
+      "faction_id": 159,
+      "name": "Faction 159",
+      "base_location": "Location 159",
+      "player_id": 159
+    },
+    {
+      "faction_id": 160,
+      "name": "Faction 160",
+      "base_location": "Location 160",
+      "player_id": 160
+    },
+    {
+      "faction_id": 161,
+      "name": "Faction 161",
+      "base_location": "Location 161",
+      "player_id": 161
+    },
+    {
+      "faction_id": 162,
+      "name": "Faction 162",
+      "base_location": "Location 162",
+      "player_id": 162
+    },
+    {
+      "faction_id": 163,
+      "name": "Faction 163",
+      "base_location": "Location 163",
+      "player_id": 163
+    },
+    {
+      "faction_id": 164,
+      "name": "Faction 164",
+      "base_location": "Location 164",
+      "player_id": 164
+    },
+    {
+      "faction_id": 165,
+      "name": "Faction 165",
+      "base_location": "Location 165",
+      "player_id": 165
+    },
+    {
+      "faction_id": 166,
+      "name": "Faction 166",
+      "base_location": "Location 166",
+      "player_id": 166
+    },
+    {
+      "faction_id": 167,
+      "name": "Faction 167",
+      "base_location": "Location 167",
+      "player_id": 167
+    },
+    {
+      "faction_id": 168,
+      "name": "Faction 168",
+      "base_location": "Location 168",
+      "player_id": 168
+    },
+    {
+      "faction_id": 169,
+      "name": "Faction 169",
+      "base_location": "Location 169",
+      "player_id": 169
+    },
+    {
+      "faction_id": 170,
+      "name": "Faction 170",
+      "base_location": "Location 170",
+      "player_id": 170
+    },
+    {
+      "faction_id": 171,
+      "name": "Faction 171",
+      "base_location": "Location 171",
+      "player_id": 171
+    },
+    {
+      "faction_id": 172,
+      "name": "Faction 172",
+      "base_location": "Location 172",
+      "player_id": 172
+    },
+    {
+      "faction_id": 173,
+      "name": "Faction 173",
+      "base_location": "Location 173",
+      "player_id": 173
+    },
+    {
+      "faction_id": 174,
+      "name": "Faction 174",
+      "base_location": "Location 174",
+      "player_id": 174
+    },
+    {
+      "faction_id": 175,
+      "name": "Faction 175",
+      "base_location": "Location 175",
+      "player_id": 175
+    },
+    {
+      "faction_id": 176,
+      "name": "Faction 176",
+      "base_location": "Location 176",
+      "player_id": 176
+    },
+    {
+      "faction_id": 177,
+      "name": "Faction 177",
+      "base_location": "Location 177",
+      "player_id": 177
+    },
+    {
+      "faction_id": 178,
+      "name": "Faction 178",
+      "base_location": "Location 178",
+      "player_id": 178
+    },
+    {
+      "faction_id": 179,
+      "name": "Faction 179",
+      "base_location": "Location 179",
+      "player_id": 179
+    },
+    {
+      "faction_id": 180,
+      "name": "Faction 180",
+      "base_location": "Location 180",
+      "player_id": 180
+    },
+    {
+      "faction_id": 181,
+      "name": "Faction 181",
+      "base_location": "Location 181",
+      "player_id": 181
+    },
+    {
+      "faction_id": 182,
+      "name": "Faction 182",
+      "base_location": "Location 182",
+      "player_id": 182
+    },
+    {
+      "faction_id": 183,
+      "name": "Faction 183",
+      "base_location": "Location 183",
+      "player_id": 183
+    },
+    {
+      "faction_id": 184,
+      "name": "Faction 184",
+      "base_location": "Location 184",
+      "player_id": 184
+    },
+    {
+      "faction_id": 185,
+      "name": "Faction 185",
+      "base_location": "Location 185",
+      "player_id": 185
+    },
+    {
+      "faction_id": 186,
+      "name": "Faction 186",
+      "base_location": "Location 186",
+      "player_id": 186
+    },
+    {
+      "faction_id": 187,
+      "name": "Faction 187",
+      "base_location": "Location 187",
+      "player_id": 187
+    },
+    {
+      "faction_id": 188,
+      "name": "Faction 188",
+      "base_location": "Location 188",
+      "player_id": 188
+    },
+    {
+      "faction_id": 189,
+      "name": "Faction 189",
+      "base_location": "Location 189",
+      "player_id": 189
+    },
+    {
+      "faction_id": 190,
+      "name": "Faction 190",
+      "base_location": "Location 190",
+      "player_id": 190
+    },
+    {
+      "faction_id": 191,
+      "name": "Faction 191",
+      "base_location": "Location 191",
+      "player_id": 191
+    },
+    {
+      "faction_id": 192,
+      "name": "Faction 192",
+      "base_location": "Location 192",
+      "player_id": 192
+    },
+    {
+      "faction_id": 193,
+      "name": "Faction 193",
+      "base_location": "Location 193",
+      "player_id": 193
+    },
+    {
+      "faction_id": 194,
+      "name": "Faction 194",
+      "base_location": "Location 194",
+      "player_id": 194
+    },
+    {
+      "faction_id": 195,
+      "name": "Faction 195",
+      "base_location": "Location 195",
+      "player_id": 195
+    },
+    {
+      "faction_id": 196,
+      "name": "Faction 196",
+      "base_location": "Location 196",
+      "player_id": 196
+    },
+    {
+      "faction_id": 197,
+      "name": "Faction 197",
+      "base_location": "Location 197",
+      "player_id": 197
+    },
+    {
+      "faction_id": 198,
+      "name": "Faction 198",
+      "base_location": "Location 198",
+      "player_id": 198
+    },
+    {
+      "faction_id": 199,
+      "name": "Faction 199",
+      "base_location": "Location 199",
+      "player_id": 199
+    },
+    {
+      "faction_id": 200,
+      "name": "Faction 200",
+      "base_location": "Location 200",
+      "player_id": 200
+    },
+    {
+      "faction_id": 201,
+      "name": "Faction 201",
+      "base_location": "Location 201",
+      "player_id": 201
+    },
+    {
+      "faction_id": 202,
+      "name": "Faction 202",
+      "base_location": "Location 202",
+      "player_id": 202
+    },
+    {
+      "faction_id": 203,
+      "name": "Faction 203",
+      "base_location": "Location 203",
+      "player_id": 203
+    },
+    {
+      "faction_id": 204,
+      "name": "Faction 204",
+      "base_location": "Location 204",
+      "player_id": 204
+    },
+    {
+      "faction_id": 205,
+      "name": "Faction 205",
+      "base_location": "Location 205",
+      "player_id": 205
+    },
+    {
+      "faction_id": 206,
+      "name": "Faction 206",
+      "base_location": "Location 206",
+      "player_id": 206
+    },
+    {
+      "faction_id": 207,
+      "name": "Faction 207",
+      "base_location": "Location 207",
+      "player_id": 207
+    },
+    {
+      "faction_id": 208,
+      "name": "Faction 208",
+      "base_location": "Location 208",
+      "player_id": 208
+    },
+    {
+      "faction_id": 209,
+      "name": "Faction 209",
+      "base_location": "Location 209",
+      "player_id": 209
+    },
+    {
+      "faction_id": 210,
+      "name": "Faction 210",
+      "base_location": "Location 210",
+      "player_id": 210
+    },
+    {
+      "faction_id": 211,
+      "name": "Faction 211",
+      "base_location": "Location 211",
+      "player_id": 211
+    },
+    {
+      "faction_id": 212,
+      "name": "Faction 212",
+      "base_location": "Location 212",
+      "player_id": 212
+    },
+    {
+      "faction_id": 213,
+      "name": "Faction 213",
+      "base_location": "Location 213",
+      "player_id": 213
+    },
+    {
+      "faction_id": 214,
+      "name": "Faction 214",
+      "base_location": "Location 214",
+      "player_id": 214
+    },
+    {
+      "faction_id": 215,
+      "name": "Faction 215",
+      "base_location": "Location 215",
+      "player_id": 215
+    },
+    {
+      "faction_id": 216,
+      "name": "Faction 216",
+      "base_location": "Location 216",
+      "player_id": 216
+    },
+    {
+      "faction_id": 217,
+      "name": "Faction 217",
+      "base_location": "Location 217",
+      "player_id": 217
+    },
+    {
+      "faction_id": 218,
+      "name": "Faction 218",
+      "base_location": "Location 218",
+      "player_id": 218
+    },
+    {
+      "faction_id": 219,
+      "name": "Faction 219",
+      "base_location": "Location 219",
+      "player_id": 219
+    },
+    {
+      "faction_id": 220,
+      "name": "Faction 220",
+      "base_location": "Location 220",
+      "player_id": 220
+    },
+    {
+      "faction_id": 221,
+      "name": "Faction 221",
+      "base_location": "Location 221",
+      "player_id": 221
+    },
+    {
+      "faction_id": 222,
+      "name": "Faction 222",
+      "base_location": "Location 222",
+      "player_id": 222
+    },
+    {
+      "faction_id": 223,
+      "name": "Faction 223",
+      "base_location": "Location 223",
+      "player_id": 223
+    },
+    {
+      "faction_id": 224,
+      "name": "Faction 224",
+      "base_location": "Location 224",
+      "player_id": 224
+    },
+    {
+      "faction_id": 225,
+      "name": "Faction 225",
+      "base_location": "Location 225",
+      "player_id": 225
+    },
+    {
+      "faction_id": 226,
+      "name": "Faction 226",
+      "base_location": "Location 226",
+      "player_id": 226
+    },
+    {
+      "faction_id": 227,
+      "name": "Faction 227",
+      "base_location": "Location 227",
+      "player_id": 227
+    },
+    {
+      "faction_id": 228,
+      "name": "Faction 228",
+      "base_location": "Location 228",
+      "player_id": 228
+    },
+    {
+      "faction_id": 229,
+      "name": "Faction 229",
+      "base_location": "Location 229",
+      "player_id": 229
+    },
+    {
+      "faction_id": 230,
+      "name": "Faction 230",
+      "base_location": "Location 230",
+      "player_id": 230
+    },
+    {
+      "faction_id": 231,
+      "name": "Faction 231",
+      "base_location": "Location 231",
+      "player_id": 231
+    },
+    {
+      "faction_id": 232,
+      "name": "Faction 232",
+      "base_location": "Location 232",
+      "player_id": 232
+    },
+    {
+      "faction_id": 233,
+      "name": "Faction 233",
+      "base_location": "Location 233",
+      "player_id": 233
+    },
+    {
+      "faction_id": 234,
+      "name": "Faction 234",
+      "base_location": "Location 234",
+      "player_id": 234
+    },
+    {
+      "faction_id": 235,
+      "name": "Faction 235",
+      "base_location": "Location 235",
+      "player_id": 235
+    },
+    {
+      "faction_id": 236,
+      "name": "Faction 236",
+      "base_location": "Location 236",
+      "player_id": 236
+    },
+    {
+      "faction_id": 237,
+      "name": "Faction 237",
+      "base_location": "Location 237",
+      "player_id": 237
+    },
+    {
+      "faction_id": 238,
+      "name": "Faction 238",
+      "base_location": "Location 238",
+      "player_id": 238
+    },
+    {
+      "faction_id": 239,
+      "name": "Faction 239",
+      "base_location": "Location 239",
+      "player_id": 239
+    },
+    {
+      "faction_id": 240,
+      "name": "Faction 240",
+      "base_location": "Location 240",
+      "player_id": 240
+    },
+    {
+      "faction_id": 241,
+      "name": "Faction 241",
+      "base_location": "Location 241",
+      "player_id": 241
+    },
+    {
+      "faction_id": 242,
+      "name": "Faction 242",
+      "base_location": "Location 242",
+      "player_id": 242
+    },
+    {
+      "faction_id": 243,
+      "name": "Faction 243",
+      "base_location": "Location 243",
+      "player_id": 243
+    },
+    {
+      "faction_id": 244,
+      "name": "Faction 244",
+      "base_location": "Location 244",
+      "player_id": 244
+    },
+    {
+      "faction_id": 245,
+      "name": "Faction 245",
+      "base_location": "Location 245",
+      "player_id": 245
+    },
+    {
+      "faction_id": 246,
+      "name": "Faction 246",
+      "base_location": "Location 246",
+      "player_id": 246
+    },
+    {
+      "faction_id": 247,
+      "name": "Faction 247",
+      "base_location": "Location 247",
+      "player_id": 247
+    },
+    {
+      "faction_id": 248,
+      "name": "Faction 248",
+      "base_location": "Location 248",
+      "player_id": 248
+    },
+    {
+      "faction_id": 249,
+      "name": "Faction 249",
+      "base_location": "Location 249",
+      "player_id": 249
+    },
+    {
+      "faction_id": 250,
+      "name": "Faction 250",
+      "base_location": "Location 250",
+      "player_id": 250
+    },
+    {
+      "faction_id": 251,
+      "name": "Faction 251",
+      "base_location": "Location 251",
+      "player_id": 251
+    },
+    {
+      "faction_id": 252,
+      "name": "Faction 252",
+      "base_location": "Location 252",
+      "player_id": 252
+    },
+    {
+      "faction_id": 253,
+      "name": "Faction 253",
+      "base_location": "Location 253",
+      "player_id": 253
+    },
+    {
+      "faction_id": 254,
+      "name": "Faction 254",
+      "base_location": "Location 254",
+      "player_id": 254
+    },
+    {
+      "faction_id": 255,
+      "name": "Faction 255",
+      "base_location": "Location 255",
+      "player_id": 255
+    },
+    {
+      "faction_id": 256,
+      "name": "Faction 256",
+      "base_location": "Location 256",
+      "player_id": 256
+    },
+    {
+      "faction_id": 257,
+      "name": "Faction 257",
+      "base_location": "Location 257",
+      "player_id": 257
+    },
+    {
+      "faction_id": 258,
+      "name": "Faction 258",
+      "base_location": "Location 258",
+      "player_id": 258
+    },
+    {
+      "faction_id": 259,
+      "name": "Faction 259",
+      "base_location": "Location 259",
+      "player_id": 259
+    },
+    {
+      "faction_id": 260,
+      "name": "Faction 260",
+      "base_location": "Location 260",
+      "player_id": 260
+    },
+    {
+      "faction_id": 261,
+      "name": "Faction 261",
+      "base_location": "Location 261",
+      "player_id": 261
+    },
+    {
+      "faction_id": 262,
+      "name": "Faction 262",
+      "base_location": "Location 262",
+      "player_id": 262
+    },
+    {
+      "faction_id": 263,
+      "name": "Faction 263",
+      "base_location": "Location 263",
+      "player_id": 263
+    },
+    {
+      "faction_id": 264,
+      "name": "Faction 264",
+      "base_location": "Location 264",
+      "player_id": 264
+    },
+    {
+      "faction_id": 265,
+      "name": "Faction 265",
+      "base_location": "Location 265",
+      "player_id": 265
+    },
+    {
+      "faction_id": 266,
+      "name": "Faction 266",
+      "base_location": "Location 266",
+      "player_id": 266
+    },
+    {
+      "faction_id": 267,
+      "name": "Faction 267",
+      "base_location": "Location 267",
+      "player_id": 267
+    },
+    {
+      "faction_id": 268,
+      "name": "Faction 268",
+      "base_location": "Location 268",
+      "player_id": 268
+    },
+    {
+      "faction_id": 269,
+      "name": "Faction 269",
+      "base_location": "Location 269",
+      "player_id": 269
+    },
+    {
+      "faction_id": 270,
+      "name": "Faction 270",
+      "base_location": "Location 270",
+      "player_id": 270
+    },
+    {
+      "faction_id": 271,
+      "name": "Faction 271",
+      "base_location": "Location 271",
+      "player_id": 271
+    },
+    {
+      "faction_id": 272,
+      "name": "Faction 272",
+      "base_location": "Location 272",
+      "player_id": 272
+    },
+    {
+      "faction_id": 273,
+      "name": "Faction 273",
+      "base_location": "Location 273",
+      "player_id": 273
+    },
+    {
+      "faction_id": 274,
+      "name": "Faction 274",
+      "base_location": "Location 274",
+      "player_id": 274
+    },
+    {
+      "faction_id": 275,
+      "name": "Faction 275",
+      "base_location": "Location 275",
+      "player_id": 275
+    },
+    {
+      "faction_id": 276,
+      "name": "Faction 276",
+      "base_location": "Location 276",
+      "player_id": 276
+    },
+    {
+      "faction_id": 277,
+      "name": "Faction 277",
+      "base_location": "Location 277",
+      "player_id": 277
+    },
+    {
+      "faction_id": 278,
+      "name": "Faction 278",
+      "base_location": "Location 278",
+      "player_id": 278
+    },
+    {
+      "faction_id": 279,
+      "name": "Faction 279",
+      "base_location": "Location 279",
+      "player_id": 279
+    },
+    {
+      "faction_id": 280,
+      "name": "Faction 280",
+      "base_location": "Location 280",
+      "player_id": 280
+    },
+    {
+      "faction_id": 281,
+      "name": "Faction 281",
+      "base_location": "Location 281",
+      "player_id": 281
+    },
+    {
+      "faction_id": 282,
+      "name": "Faction 282",
+      "base_location": "Location 282",
+      "player_id": 282
+    },
+    {
+      "faction_id": 283,
+      "name": "Faction 283",
+      "base_location": "Location 283",
+      "player_id": 283
+    },
+    {
+      "faction_id": 284,
+      "name": "Faction 284",
+      "base_location": "Location 284",
+      "player_id": 284
+    },
+    {
+      "faction_id": 285,
+      "name": "Faction 285",
+      "base_location": "Location 285",
+      "player_id": 285
+    },
+    {
+      "faction_id": 286,
+      "name": "Faction 286",
+      "base_location": "Location 286",
+      "player_id": 286
+    },
+    {
+      "faction_id": 287,
+      "name": "Faction 287",
+      "base_location": "Location 287",
+      "player_id": 287
+    },
+    {
+      "faction_id": 288,
+      "name": "Faction 288",
+      "base_location": "Location 288",
+      "player_id": 288
+    },
+    {
+      "faction_id": 289,
+      "name": "Faction 289",
+      "base_location": "Location 289",
+      "player_id": 289
+    },
+    {
+      "faction_id": 290,
+      "name": "Faction 290",
+      "base_location": "Location 290",
+      "player_id": 290
+    },
+    {
+      "faction_id": 291,
+      "name": "Faction 291",
+      "base_location": "Location 291",
+      "player_id": 291
+    },
+    {
+      "faction_id": 292,
+      "name": "Faction 292",
+      "base_location": "Location 292",
+      "player_id": 292
+    },
+    {
+      "faction_id": 293,
+      "name": "Faction 293",
+      "base_location": "Location 293",
+      "player_id": 293
+    },
+    {
+      "faction_id": 294,
+      "name": "Faction 294",
+      "base_location": "Location 294",
+      "player_id": 294
+    },
+    {
+      "faction_id": 295,
+      "name": "Faction 295",
+      "base_location": "Location 295",
+      "player_id": 295
+    },
+    {
+      "faction_id": 296,
+      "name": "Faction 296",
+      "base_location": "Location 296",
+      "player_id": 296
+    },
+    {
+      "faction_id": 297,
+      "name": "Faction 297",
+      "base_location": "Location 297",
+      "player_id": 297
+    },
+    {
+      "faction_id": 298,
+      "name": "Faction 298",
+      "base_location": "Location 298",
+      "player_id": 298
+    },
+    {
+      "faction_id": 299,
+      "name": "Faction 299",
+      "base_location": "Location 299",
+      "player_id": 299
+    },
+    {
+      "faction_id": 300,
+      "name": "Faction 300",
+      "base_location": "Location 300",
+      "player_id": 300
+    },
+    {
+      "faction_id": 301,
+      "name": "Faction 301",
+      "base_location": "Location 301",
+      "player_id": 301
+    },
+    {
+      "faction_id": 302,
+      "name": "Faction 302",
+      "base_location": "Location 302",
+      "player_id": 302
+    },
+    {
+      "faction_id": 303,
+      "name": "Faction 303",
+      "base_location": "Location 303",
+      "player_id": 303
+    },
+    {
+      "faction_id": 304,
+      "name": "Faction 304",
+      "base_location": "Location 304",
+      "player_id": 304
+    },
+    {
+      "faction_id": 305,
+      "name": "Faction 305",
+      "base_location": "Location 305",
+      "player_id": 305
+    },
+    {
+      "faction_id": 306,
+      "name": "Faction 306",
+      "base_location": "Location 306",
+      "player_id": 306
+    },
+    {
+      "faction_id": 307,
+      "name": "Faction 307",
+      "base_location": "Location 307",
+      "player_id": 307
+    },
+    {
+      "faction_id": 308,
+      "name": "Faction 308",
+      "base_location": "Location 308",
+      "player_id": 308
+    },
+    {
+      "faction_id": 309,
+      "name": "Faction 309",
+      "base_location": "Location 309",
+      "player_id": 309
+    },
+    {
+      "faction_id": 310,
+      "name": "Faction 310",
+      "base_location": "Location 310",
+      "player_id": 310
+    },
+    {
+      "faction_id": 311,
+      "name": "Faction 311",
+      "base_location": "Location 311",
+      "player_id": 311
+    },
+    {
+      "faction_id": 312,
+      "name": "Faction 312",
+      "base_location": "Location 312",
+      "player_id": 312
+    },
+    {
+      "faction_id": 313,
+      "name": "Faction 313",
+      "base_location": "Location 313",
+      "player_id": 313
+    },
+    {
+      "faction_id": 314,
+      "name": "Faction 314",
+      "base_location": "Location 314",
+      "player_id": 314
+    },
+    {
+      "faction_id": 315,
+      "name": "Faction 315",
+      "base_location": "Location 315",
+      "player_id": 315
+    },
+    {
+      "faction_id": 316,
+      "name": "Faction 316",
+      "base_location": "Location 316",
+      "player_id": 316
+    },
+    {
+      "faction_id": 317,
+      "name": "Faction 317",
+      "base_location": "Location 317",
+      "player_id": 317
+    },
+    {
+      "faction_id": 318,
+      "name": "Faction 318",
+      "base_location": "Location 318",
+      "player_id": 318
+    },
+    {
+      "faction_id": 319,
+      "name": "Faction 319",
+      "base_location": "Location 319",
+      "player_id": 319
+    },
+    {
+      "faction_id": 320,
+      "name": "Faction 320",
+      "base_location": "Location 320",
+      "player_id": 320
+    },
+    {
+      "faction_id": 321,
+      "name": "Faction 321",
+      "base_location": "Location 321",
+      "player_id": 321
+    },
+    {
+      "faction_id": 322,
+      "name": "Faction 322",
+      "base_location": "Location 322",
+      "player_id": 322
+    },
+    {
+      "faction_id": 323,
+      "name": "Faction 323",
+      "base_location": "Location 323",
+      "player_id": 323
+    },
+    {
+      "faction_id": 324,
+      "name": "Faction 324",
+      "base_location": "Location 324",
+      "player_id": 324
+    },
+    {
+      "faction_id": 325,
+      "name": "Faction 325",
+      "base_location": "Location 325",
+      "player_id": 325
+    },
+    {
+      "faction_id": 326,
+      "name": "Faction 326",
+      "base_location": "Location 326",
+      "player_id": 326
+    },
+    {
+      "faction_id": 327,
+      "name": "Faction 327",
+      "base_location": "Location 327",
+      "player_id": 327
+    },
+    {
+      "faction_id": 328,
+      "name": "Faction 328",
+      "base_location": "Location 328",
+      "player_id": 328
+    },
+    {
+      "faction_id": 329,
+      "name": "Faction 329",
+      "base_location": "Location 329",
+      "player_id": 329
+    },
+    {
+      "faction_id": 330,
+      "name": "Faction 330",
+      "base_location": "Location 330",
+      "player_id": 330
+    },
+    {
+      "faction_id": 331,
+      "name": "Faction 331",
+      "base_location": "Location 331",
+      "player_id": 331
+    },
+    {
+      "faction_id": 332,
+      "name": "Faction 332",
+      "base_location": "Location 332",
+      "player_id": 332
+    },
+    {
+      "faction_id": 333,
+      "name": "Faction 333",
+      "base_location": "Location 333",
+      "player_id": 333
+    },
+    {
+      "faction_id": 334,
+      "name": "Faction 334",
+      "base_location": "Location 334",
+      "player_id": 334
+    },
+    {
+      "faction_id": 335,
+      "name": "Faction 335",
+      "base_location": "Location 335",
+      "player_id": 335
+    },
+    {
+      "faction_id": 336,
+      "name": "Faction 336",
+      "base_location": "Location 336",
+      "player_id": 336
+    },
+    {
+      "faction_id": 337,
+      "name": "Faction 337",
+      "base_location": "Location 337",
+      "player_id": 337
+    },
+    {
+      "faction_id": 338,
+      "name": "Faction 338",
+      "base_location": "Location 338",
+      "player_id": 338
+    },
+    {
+      "faction_id": 339,
+      "name": "Faction 339",
+      "base_location": "Location 339",
+      "player_id": 339
+    },
+    {
+      "faction_id": 340,
+      "name": "Faction 340",
+      "base_location": "Location 340",
+      "player_id": 340
+    },
+    {
+      "faction_id": 341,
+      "name": "Faction 341",
+      "base_location": "Location 341",
+      "player_id": 341
+    },
+    {
+      "faction_id": 342,
+      "name": "Faction 342",
+      "base_location": "Location 342",
+      "player_id": 342
+    },
+    {
+      "faction_id": 343,
+      "name": "Faction 343",
+      "base_location": "Location 343",
+      "player_id": 343
+    },
+    {
+      "faction_id": 344,
+      "name": "Faction 344",
+      "base_location": "Location 344",
+      "player_id": 344
+    },
+    {
+      "faction_id": 345,
+      "name": "Faction 345",
+      "base_location": "Location 345",
+      "player_id": 345
+    },
+    {
+      "faction_id": 346,
+      "name": "Faction 346",
+      "base_location": "Location 346",
+      "player_id": 346
+    },
+    {
+      "faction_id": 347,
+      "name": "Faction 347",
+      "base_location": "Location 347",
+      "player_id": 347
+    },
+    {
+      "faction_id": 348,
+      "name": "Faction 348",
+      "base_location": "Location 348",
+      "player_id": 348
+    },
+    {
+      "faction_id": 349,
+      "name": "Faction 349",
+      "base_location": "Location 349",
+      "player_id": 349
+    },
+    {
+      "faction_id": 350,
+      "name": "Faction 350",
+      "base_location": "Location 350",
+      "player_id": 350
+    },
+    {
+      "faction_id": 351,
+      "name": "Faction 351",
+      "base_location": "Location 351",
+      "player_id": 351
+    },
+    {
+      "faction_id": 352,
+      "name": "Faction 352",
+      "base_location": "Location 352",
+      "player_id": 352
+    },
+    {
+      "faction_id": 353,
+      "name": "Faction 353",
+      "base_location": "Location 353",
+      "player_id": 353
+    },
+    {
+      "faction_id": 354,
+      "name": "Faction 354",
+      "base_location": "Location 354",
+      "player_id": 354
+    },
+    {
+      "faction_id": 355,
+      "name": "Faction 355",
+      "base_location": "Location 355",
+      "player_id": 355
+    },
+    {
+      "faction_id": 356,
+      "name": "Faction 356",
+      "base_location": "Location 356",
+      "player_id": 356
+    },
+    {
+      "faction_id": 357,
+      "name": "Faction 357",
+      "base_location": "Location 357",
+      "player_id": 357
+    },
+    {
+      "faction_id": 358,
+      "name": "Faction 358",
+      "base_location": "Location 358",
+      "player_id": 358
+    },
+    {
+      "faction_id": 359,
+      "name": "Faction 359",
+      "base_location": "Location 359",
+      "player_id": 359
+    },
+    {
+      "faction_id": 360,
+      "name": "Faction 360",
+      "base_location": "Location 360",
+      "player_id": 360
+    },
+    {
+      "faction_id": 361,
+      "name": "Faction 361",
+      "base_location": "Location 361",
+      "player_id": 361
+    },
+    {
+      "faction_id": 362,
+      "name": "Faction 362",
+      "base_location": "Location 362",
+      "player_id": 362
+    },
+    {
+      "faction_id": 363,
+      "name": "Faction 363",
+      "base_location": "Location 363",
+      "player_id": 363
+    },
+    {
+      "faction_id": 364,
+      "name": "Faction 364",
+      "base_location": "Location 364",
+      "player_id": 364
+    },
+    {
+      "faction_id": 365,
+      "name": "Faction 365",
+      "base_location": "Location 365",
+      "player_id": 365
+    },
+    {
+      "faction_id": 366,
+      "name": "Faction 366",
+      "base_location": "Location 366",
+      "player_id": 366
+    },
+    {
+      "faction_id": 367,
+      "name": "Faction 367",
+      "base_location": "Location 367",
+      "player_id": 367
+    },
+    {
+      "faction_id": 368,
+      "name": "Faction 368",
+      "base_location": "Location 368",
+      "player_id": 368
+    },
+    {
+      "faction_id": 369,
+      "name": "Faction 369",
+      "base_location": "Location 369",
+      "player_id": 369
+    },
+    {
+      "faction_id": 370,
+      "name": "Faction 370",
+      "base_location": "Location 370",
+      "player_id": 370
+    },
+    {
+      "faction_id": 371,
+      "name": "Faction 371",
+      "base_location": "Location 371",
+      "player_id": 371
+    },
+    {
+      "faction_id": 372,
+      "name": "Faction 372",
+      "base_location": "Location 372",
+      "player_id": 372
+    },
+    {
+      "faction_id": 373,
+      "name": "Faction 373",
+      "base_location": "Location 373",
+      "player_id": 373
+    },
+    {
+      "faction_id": 374,
+      "name": "Faction 374",
+      "base_location": "Location 374",
+      "player_id": 374
+    },
+    {
+      "faction_id": 375,
+      "name": "Faction 375",
+      "base_location": "Location 375",
+      "player_id": 375
+    },
+    {
+      "faction_id": 376,
+      "name": "Faction 376",
+      "base_location": "Location 376",
+      "player_id": 376
+    },
+    {
+      "faction_id": 377,
+      "name": "Faction 377",
+      "base_location": "Location 377",
+      "player_id": 377
+    },
+    {
+      "faction_id": 378,
+      "name": "Faction 378",
+      "base_location": "Location 378",
+      "player_id": 378
+    },
+    {
+      "faction_id": 379,
+      "name": "Faction 379",
+      "base_location": "Location 379",
+      "player_id": 379
+    },
+    {
+      "faction_id": 380,
+      "name": "Faction 380",
+      "base_location": "Location 380",
+      "player_id": 380
+    },
+    {
+      "faction_id": 381,
+      "name": "Faction 381",
+      "base_location": "Location 381",
+      "player_id": 381
+    },
+    {
+      "faction_id": 382,
+      "name": "Faction 382",
+      "base_location": "Location 382",
+      "player_id": 382
+    },
+    {
+      "faction_id": 383,
+      "name": "Faction 383",
+      "base_location": "Location 383",
+      "player_id": 383
+    },
+    {
+      "faction_id": 384,
+      "name": "Faction 384",
+      "base_location": "Location 384",
+      "player_id": 384
+    },
+    {
+      "faction_id": 385,
+      "name": "Faction 385",
+      "base_location": "Location 385",
+      "player_id": 385
+    },
+    {
+      "faction_id": 386,
+      "name": "Faction 386",
+      "base_location": "Location 386",
+      "player_id": 386
+    },
+    {
+      "faction_id": 387,
+      "name": "Faction 387",
+      "base_location": "Location 387",
+      "player_id": 387
+    },
+    {
+      "faction_id": 388,
+      "name": "Faction 388",
+      "base_location": "Location 388",
+      "player_id": 388
+    },
+    {
+      "faction_id": 389,
+      "name": "Faction 389",
+      "base_location": "Location 389",
+      "player_id": 389
+    },
+    {
+      "faction_id": 390,
+      "name": "Faction 390",
+      "base_location": "Location 390",
+      "player_id": 390
+    },
+    {
+      "faction_id": 391,
+      "name": "Faction 391",
+      "base_location": "Location 391",
+      "player_id": 391
+    },
+    {
+      "faction_id": 392,
+      "name": "Faction 392",
+      "base_location": "Location 392",
+      "player_id": 392
+    },
+    {
+      "faction_id": 393,
+      "name": "Faction 393",
+      "base_location": "Location 393",
+      "player_id": 393
+    },
+    {
+      "faction_id": 394,
+      "name": "Faction 394",
+      "base_location": "Location 394",
+      "player_id": 394
+    },
+    {
+      "faction_id": 395,
+      "name": "Faction 395",
+      "base_location": "Location 395",
+      "player_id": 395
+    },
+    {
+      "faction_id": 396,
+      "name": "Faction 396",
+      "base_location": "Location 396",
+      "player_id": 396
+    },
+    {
+      "faction_id": 397,
+      "name": "Faction 397",
+      "base_location": "Location 397",
+      "player_id": 397
+    },
+    {
+      "faction_id": 398,
+      "name": "Faction 398",
+      "base_location": "Location 398",
+      "player_id": 398
+    },
+    {
+      "faction_id": 399,
+      "name": "Faction 399",
+      "base_location": "Location 399",
+      "player_id": 399
+    },
+    {
+      "faction_id": 400,
+      "name": "Faction 400",
+      "base_location": "Location 400",
+      "player_id": 400
+    },
+    {
+      "faction_id": 401,
+      "name": "Faction 401",
+      "base_location": "Location 401",
+      "player_id": 401
+    },
+    {
+      "faction_id": 402,
+      "name": "Faction 402",
+      "base_location": "Location 402",
+      "player_id": 402
+    },
+    {
+      "faction_id": 403,
+      "name": "Faction 403",
+      "base_location": "Location 403",
+      "player_id": 403
+    },
+    {
+      "faction_id": 404,
+      "name": "Faction 404",
+      "base_location": "Location 404",
+      "player_id": 404
+    },
+    {
+      "faction_id": 405,
+      "name": "Faction 405",
+      "base_location": "Location 405",
+      "player_id": 405
+    },
+    {
+      "faction_id": 406,
+      "name": "Faction 406",
+      "base_location": "Location 406",
+      "player_id": 406
+    },
+    {
+      "faction_id": 407,
+      "name": "Faction 407",
+      "base_location": "Location 407",
+      "player_id": 407
+    },
+    {
+      "faction_id": 408,
+      "name": "Faction 408",
+      "base_location": "Location 408",
+      "player_id": 408
+    },
+    {
+      "faction_id": 409,
+      "name": "Faction 409",
+      "base_location": "Location 409",
+      "player_id": 409
+    },
+    {
+      "faction_id": 410,
+      "name": "Faction 410",
+      "base_location": "Location 410",
+      "player_id": 410
+    },
+    {
+      "faction_id": 411,
+      "name": "Faction 411",
+      "base_location": "Location 411",
+      "player_id": 411
+    },
+    {
+      "faction_id": 412,
+      "name": "Faction 412",
+      "base_location": "Location 412",
+      "player_id": 412
+    },
+    {
+      "faction_id": 413,
+      "name": "Faction 413",
+      "base_location": "Location 413",
+      "player_id": 413
+    },
+    {
+      "faction_id": 414,
+      "name": "Faction 414",
+      "base_location": "Location 414",
+      "player_id": 414
+    },
+    {
+      "faction_id": 415,
+      "name": "Faction 415",
+      "base_location": "Location 415",
+      "player_id": 415
+    },
+    {
+      "faction_id": 416,
+      "name": "Faction 416",
+      "base_location": "Location 416",
+      "player_id": 416
+    },
+    {
+      "faction_id": 417,
+      "name": "Faction 417",
+      "base_location": "Location 417",
+      "player_id": 417
+    },
+    {
+      "faction_id": 418,
+      "name": "Faction 418",
+      "base_location": "Location 418",
+      "player_id": 418
+    },
+    {
+      "faction_id": 419,
+      "name": "Faction 419",
+      "base_location": "Location 419",
+      "player_id": 419
+    },
+    {
+      "faction_id": 420,
+      "name": "Faction 420",
+      "base_location": "Location 420",
+      "player_id": 420
+    },
+    {
+      "faction_id": 421,
+      "name": "Faction 421",
+      "base_location": "Location 421",
+      "player_id": 421
+    },
+    {
+      "faction_id": 422,
+      "name": "Faction 422",
+      "base_location": "Location 422",
+      "player_id": 422
+    },
+    {
+      "faction_id": 423,
+      "name": "Faction 423",
+      "base_location": "Location 423",
+      "player_id": 423
+    },
+    {
+      "faction_id": 424,
+      "name": "Faction 424",
+      "base_location": "Location 424",
+      "player_id": 424
+    },
+    {
+      "faction_id": 425,
+      "name": "Faction 425",
+      "base_location": "Location 425",
+      "player_id": 425
+    },
+    {
+      "faction_id": 426,
+      "name": "Faction 426",
+      "base_location": "Location 426",
+      "player_id": 426
+    },
+    {
+      "faction_id": 427,
+      "name": "Faction 427",
+      "base_location": "Location 427",
+      "player_id": 427
+    },
+    {
+      "faction_id": 428,
+      "name": "Faction 428",
+      "base_location": "Location 428",
+      "player_id": 428
+    },
+    {
+      "faction_id": 429,
+      "name": "Faction 429",
+      "base_location": "Location 429",
+      "player_id": 429
+    },
+    {
+      "faction_id": 430,
+      "name": "Faction 430",
+      "base_location": "Location 430",
+      "player_id": 430
+    },
+    {
+      "faction_id": 431,
+      "name": "Faction 431",
+      "base_location": "Location 431",
+      "player_id": 431
+    },
+    {
+      "faction_id": 432,
+      "name": "Faction 432",
+      "base_location": "Location 432",
+      "player_id": 432
+    },
+    {
+      "faction_id": 433,
+      "name": "Faction 433",
+      "base_location": "Location 433",
+      "player_id": 433
+    },
+    {
+      "faction_id": 434,
+      "name": "Faction 434",
+      "base_location": "Location 434",
+      "player_id": 434
+    },
+    {
+      "faction_id": 435,
+      "name": "Faction 435",
+      "base_location": "Location 435",
+      "player_id": 435
+    },
+    {
+      "faction_id": 436,
+      "name": "Faction 436",
+      "base_location": "Location 436",
+      "player_id": 436
+    },
+    {
+      "faction_id": 437,
+      "name": "Faction 437",
+      "base_location": "Location 437",
+      "player_id": 437
+    },
+    {
+      "faction_id": 438,
+      "name": "Faction 438",
+      "base_location": "Location 438",
+      "player_id": 438
+    },
+    {
+      "faction_id": 439,
+      "name": "Faction 439",
+      "base_location": "Location 439",
+      "player_id": 439
+    },
+    {
+      "faction_id": 440,
+      "name": "Faction 440",
+      "base_location": "Location 440",
+      "player_id": 440
+    },
+    {
+      "faction_id": 441,
+      "name": "Faction 441",
+      "base_location": "Location 441",
+      "player_id": 441
+    },
+    {
+      "faction_id": 442,
+      "name": "Faction 442",
+      "base_location": "Location 442",
+      "player_id": 442
+    },
+    {
+      "faction_id": 443,
+      "name": "Faction 443",
+      "base_location": "Location 443",
+      "player_id": 443
+    },
+    {
+      "faction_id": 444,
+      "name": "Faction 444",
+      "base_location": "Location 444",
+      "player_id": 444
+    },
+    {
+      "faction_id": 445,
+      "name": "Faction 445",
+      "base_location": "Location 445",
+      "player_id": 445
+    },
+    {
+      "faction_id": 446,
+      "name": "Faction 446",
+      "base_location": "Location 446",
+      "player_id": 446
+    },
+    {
+      "faction_id": 447,
+      "name": "Faction 447",
+      "base_location": "Location 447",
+      "player_id": 447
+    },
+    {
+      "faction_id": 448,
+      "name": "Faction 448",
+      "base_location": "Location 448",
+      "player_id": 448
+    },
+    {
+      "faction_id": 449,
+      "name": "Faction 449",
+      "base_location": "Location 449",
+      "player_id": 449
+    },
+    {
+      "faction_id": 450,
+      "name": "Faction 450",
+      "base_location": "Location 450",
+      "player_id": 450
+    },
+    {
+      "faction_id": 451,
+      "name": "Faction 451",
+      "base_location": "Location 451",
+      "player_id": 451
+    },
+    {
+      "faction_id": 452,
+      "name": "Faction 452",
+      "base_location": "Location 452",
+      "player_id": 452
+    },
+    {
+      "faction_id": 453,
+      "name": "Faction 453",
+      "base_location": "Location 453",
+      "player_id": 453
+    },
+    {
+      "faction_id": 454,
+      "name": "Faction 454",
+      "base_location": "Location 454",
+      "player_id": 454
+    },
+    {
+      "faction_id": 455,
+      "name": "Faction 455",
+      "base_location": "Location 455",
+      "player_id": 455
+    },
+    {
+      "faction_id": 456,
+      "name": "Faction 456",
+      "base_location": "Location 456",
+      "player_id": 456
+    },
+    {
+      "faction_id": 457,
+      "name": "Faction 457",
+      "base_location": "Location 457",
+      "player_id": 457
+    },
+    {
+      "faction_id": 458,
+      "name": "Faction 458",
+      "base_location": "Location 458",
+      "player_id": 458
+    },
+    {
+      "faction_id": 459,
+      "name": "Faction 459",
+      "base_location": "Location 459",
+      "player_id": 459
+    },
+    {
+      "faction_id": 460,
+      "name": "Faction 460",
+      "base_location": "Location 460",
+      "player_id": 460
+    },
+    {
+      "faction_id": 461,
+      "name": "Faction 461",
+      "base_location": "Location 461",
+      "player_id": 461
+    },
+    {
+      "faction_id": 462,
+      "name": "Faction 462",
+      "base_location": "Location 462",
+      "player_id": 462
+    },
+    {
+      "faction_id": 463,
+      "name": "Faction 463",
+      "base_location": "Location 463",
+      "player_id": 463
+    },
+    {
+      "faction_id": 464,
+      "name": "Faction 464",
+      "base_location": "Location 464",
+      "player_id": 464
+    },
+    {
+      "faction_id": 465,
+      "name": "Faction 465",
+      "base_location": "Location 465",
+      "player_id": 465
+    },
+    {
+      "faction_id": 466,
+      "name": "Faction 466",
+      "base_location": "Location 466",
+      "player_id": 466
+    },
+    {
+      "faction_id": 467,
+      "name": "Faction 467",
+      "base_location": "Location 467",
+      "player_id": 467
+    },
+    {
+      "faction_id": 468,
+      "name": "Faction 468",
+      "base_location": "Location 468",
+      "player_id": 468
+    },
+    {
+      "faction_id": 469,
+      "name": "Faction 469",
+      "base_location": "Location 469",
+      "player_id": 469
+    },
+    {
+      "faction_id": 470,
+      "name": "Faction 470",
+      "base_location": "Location 470",
+      "player_id": 470
+    },
+    {
+      "faction_id": 471,
+      "name": "Faction 471",
+      "base_location": "Location 471",
+      "player_id": 471
+    },
+    {
+      "faction_id": 472,
+      "name": "Faction 472",
+      "base_location": "Location 472",
+      "player_id": 472
+    },
+    {
+      "faction_id": 473,
+      "name": "Faction 473",
+      "base_location": "Location 473",
+      "player_id": 473
+    },
+    {
+      "faction_id": 474,
+      "name": "Faction 474",
+      "base_location": "Location 474",
+      "player_id": 474
+    },
+    {
+      "faction_id": 475,
+      "name": "Faction 475",
+      "base_location": "Location 475",
+      "player_id": 475
+    },
+    {
+      "faction_id": 476,
+      "name": "Faction 476",
+      "base_location": "Location 476",
+      "player_id": 476
+    },
+    {
+      "faction_id": 477,
+      "name": "Faction 477",
+      "base_location": "Location 477",
+      "player_id": 477
+    },
+    {
+      "faction_id": 478,
+      "name": "Faction 478",
+      "base_location": "Location 478",
+      "player_id": 478
+    },
+    {
+      "faction_id": 479,
+      "name": "Faction 479",
+      "base_location": "Location 479",
+      "player_id": 479
+    },
+    {
+      "faction_id": 480,
+      "name": "Faction 480",
+      "base_location": "Location 480",
+      "player_id": 480
+    },
+    {
+      "faction_id": 481,
+      "name": "Faction 481",
+      "base_location": "Location 481",
+      "player_id": 481
+    },
+    {
+      "faction_id": 482,
+      "name": "Faction 482",
+      "base_location": "Location 482",
+      "player_id": 482
+    },
+    {
+      "faction_id": 483,
+      "name": "Faction 483",
+      "base_location": "Location 483",
+      "player_id": 483
+    },
+    {
+      "faction_id": 484,
+      "name": "Faction 484",
+      "base_location": "Location 484",
+      "player_id": 484
+    },
+    {
+      "faction_id": 485,
+      "name": "Faction 485",
+      "base_location": "Location 485",
+      "player_id": 485
+    },
+    {
+      "faction_id": 486,
+      "name": "Faction 486",
+      "base_location": "Location 486",
+      "player_id": 486
+    },
+    {
+      "faction_id": 487,
+      "name": "Faction 487",
+      "base_location": "Location 487",
+      "player_id": 487
+    },
+    {
+      "faction_id": 488,
+      "name": "Faction 488",
+      "base_location": "Location 488",
+      "player_id": 488
+    },
+    {
+      "faction_id": 489,
+      "name": "Faction 489",
+      "base_location": "Location 489",
+      "player_id": 489
+    },
+    {
+      "faction_id": 490,
+      "name": "Faction 490",
+      "base_location": "Location 490",
+      "player_id": 490
+    },
+    {
+      "faction_id": 491,
+      "name": "Faction 491",
+      "base_location": "Location 491",
+      "player_id": 491
+    },
+    {
+      "faction_id": 492,
+      "name": "Faction 492",
+      "base_location": "Location 492",
+      "player_id": 492
+    },
+    {
+      "faction_id": 493,
+      "name": "Faction 493",
+      "base_location": "Location 493",
+      "player_id": 493
+    },
+    {
+      "faction_id": 494,
+      "name": "Faction 494",
+      "base_location": "Location 494",
+      "player_id": 494
+    },
+    {
+      "faction_id": 495,
+      "name": "Faction 495",
+      "base_location": "Location 495",
+      "player_id": 495
+    },
+    {
+      "faction_id": 496,
+      "name": "Faction 496",
+      "base_location": "Location 496",
+      "player_id": 496
+    },
+    {
+      "faction_id": 497,
+      "name": "Faction 497",
+      "base_location": "Location 497",
+      "player_id": 497
+    },
+    {
+      "faction_id": 498,
+      "name": "Faction 498",
+      "base_location": "Location 498",
+      "player_id": 498
+    },
+    {
+      "faction_id": 499,
+      "name": "Faction 499",
+      "base_location": "Location 499",
+      "player_id": 499
+    },
+    {
+      "faction_id": 500,
+      "name": "Faction 500",
+      "base_location": "Location 500",
+      "player_id": 500
+    },
+    {
+      "faction_id": 501,
+      "name": "Faction 501",
+      "base_location": "Location 501",
+      "player_id": 501
+    },
+    {
+      "faction_id": 502,
+      "name": "Faction 502",
+      "base_location": "Location 502",
+      "player_id": 502
+    },
+    {
+      "faction_id": 503,
+      "name": "Faction 503",
+      "base_location": "Location 503",
+      "player_id": 503
+    },
+    {
+      "faction_id": 504,
+      "name": "Faction 504",
+      "base_location": "Location 504",
+      "player_id": 504
+    },
+    {
+      "faction_id": 505,
+      "name": "Faction 505",
+      "base_location": "Location 505",
+      "player_id": 505
+    },
+    {
+      "faction_id": 506,
+      "name": "Faction 506",
+      "base_location": "Location 506",
+      "player_id": 506
+    },
+    {
+      "faction_id": 507,
+      "name": "Faction 507",
+      "base_location": "Location 507",
+      "player_id": 507
+    },
+    {
+      "faction_id": 508,
+      "name": "Faction 508",
+      "base_location": "Location 508",
+      "player_id": 508
+    },
+    {
+      "faction_id": 509,
+      "name": "Faction 509",
+      "base_location": "Location 509",
+      "player_id": 509
+    },
+    {
+      "faction_id": 510,
+      "name": "Faction 510",
+      "base_location": "Location 510",
+      "player_id": 510
+    },
+    {
+      "faction_id": 511,
+      "name": "Faction 511",
+      "base_location": "Location 511",
+      "player_id": 511
+    },
+    {
+      "faction_id": 512,
+      "name": "Faction 512",
+      "base_location": "Location 512",
+      "player_id": 512
+    },
+    {
+      "faction_id": 513,
+      "name": "Faction 513",
+      "base_location": "Location 513",
+      "player_id": 513
+    },
+    {
+      "faction_id": 514,
+      "name": "Faction 514",
+      "base_location": "Location 514",
+      "player_id": 514
+    },
+    {
+      "faction_id": 515,
+      "name": "Faction 515",
+      "base_location": "Location 515",
+      "player_id": 515
+    },
+    {
+      "faction_id": 516,
+      "name": "Faction 516",
+      "base_location": "Location 516",
+      "player_id": 516
+    },
+    {
+      "faction_id": 517,
+      "name": "Faction 517",
+      "base_location": "Location 517",
+      "player_id": 517
+    },
+    {
+      "faction_id": 518,
+      "name": "Faction 518",
+      "base_location": "Location 518",
+      "player_id": 518
+    },
+    {
+      "faction_id": 519,
+      "name": "Faction 519",
+      "base_location": "Location 519",
+      "player_id": 519
+    },
+    {
+      "faction_id": 520,
+      "name": "Faction 520",
+      "base_location": "Location 520",
+      "player_id": 520
+    },
+    {
+      "faction_id": 521,
+      "name": "Faction 521",
+      "base_location": "Location 521",
+      "player_id": 521
+    },
+    {
+      "faction_id": 522,
+      "name": "Faction 522",
+      "base_location": "Location 522",
+      "player_id": 522
+    },
+    {
+      "faction_id": 523,
+      "name": "Faction 523",
+      "base_location": "Location 523",
+      "player_id": 523
+    },
+    {
+      "faction_id": 524,
+      "name": "Faction 524",
+      "base_location": "Location 524",
+      "player_id": 524
+    },
+    {
+      "faction_id": 525,
+      "name": "Faction 525",
+      "base_location": "Location 525",
+      "player_id": 525
+    },
+    {
+      "faction_id": 526,
+      "name": "Faction 526",
+      "base_location": "Location 526",
+      "player_id": 526
+    },
+    {
+      "faction_id": 527,
+      "name": "Faction 527",
+      "base_location": "Location 527",
+      "player_id": 527
+    },
+    {
+      "faction_id": 528,
+      "name": "Faction 528",
+      "base_location": "Location 528",
+      "player_id": 528
+    },
+    {
+      "faction_id": 529,
+      "name": "Faction 529",
+      "base_location": "Location 529",
+      "player_id": 529
+    },
+    {
+      "faction_id": 530,
+      "name": "Faction 530",
+      "base_location": "Location 530",
+      "player_id": 530
+    },
+    {
+      "faction_id": 531,
+      "name": "Faction 531",
+      "base_location": "Location 531",
+      "player_id": 531
+    },
+    {
+      "faction_id": 532,
+      "name": "Faction 532",
+      "base_location": "Location 532",
+      "player_id": 532
+    },
+    {
+      "faction_id": 533,
+      "name": "Faction 533",
+      "base_location": "Location 533",
+      "player_id": 533
+    },
+    {
+      "faction_id": 534,
+      "name": "Faction 534",
+      "base_location": "Location 534",
+      "player_id": 534
+    },
+    {
+      "faction_id": 535,
+      "name": "Faction 535",
+      "base_location": "Location 535",
+      "player_id": 535
+    },
+    {
+      "faction_id": 536,
+      "name": "Faction 536",
+      "base_location": "Location 536",
+      "player_id": 536
+    },
+    {
+      "faction_id": 537,
+      "name": "Faction 537",
+      "base_location": "Location 537",
+      "player_id": 537
+    },
+    {
+      "faction_id": 538,
+      "name": "Faction 538",
+      "base_location": "Location 538",
+      "player_id": 538
+    },
+    {
+      "faction_id": 539,
+      "name": "Faction 539",
+      "base_location": "Location 539",
+      "player_id": 539
+    },
+    {
+      "faction_id": 540,
+      "name": "Faction 540",
+      "base_location": "Location 540",
+      "player_id": 540
+    },
+    {
+      "faction_id": 541,
+      "name": "Faction 541",
+      "base_location": "Location 541",
+      "player_id": 541
+    },
+    {
+      "faction_id": 542,
+      "name": "Faction 542",
+      "base_location": "Location 542",
+      "player_id": 542
+    },
+    {
+      "faction_id": 543,
+      "name": "Faction 543",
+      "base_location": "Location 543",
+      "player_id": 543
+    },
+    {
+      "faction_id": 544,
+      "name": "Faction 544",
+      "base_location": "Location 544",
+      "player_id": 544
+    },
+    {
+      "faction_id": 545,
+      "name": "Faction 545",
+      "base_location": "Location 545",
+      "player_id": 545
+    },
+    {
+      "faction_id": 546,
+      "name": "Faction 546",
+      "base_location": "Location 546",
+      "player_id": 546
+    },
+    {
+      "faction_id": 547,
+      "name": "Faction 547",
+      "base_location": "Location 547",
+      "player_id": 547
+    },
+    {
+      "faction_id": 548,
+      "name": "Faction 548",
+      "base_location": "Location 548",
+      "player_id": 548
+    },
+    {
+      "faction_id": 549,
+      "name": "Faction 549",
+      "base_location": "Location 549",
+      "player_id": 549
+    },
+    {
+      "faction_id": 550,
+      "name": "Faction 550",
+      "base_location": "Location 550",
+      "player_id": 550
+    },
+    {
+      "faction_id": 551,
+      "name": "Faction 551",
+      "base_location": "Location 551",
+      "player_id": 551
+    },
+    {
+      "faction_id": 552,
+      "name": "Faction 552",
+      "base_location": "Location 552",
+      "player_id": 552
+    },
+    {
+      "faction_id": 553,
+      "name": "Faction 553",
+      "base_location": "Location 553",
+      "player_id": 553
+    },
+    {
+      "faction_id": 554,
+      "name": "Faction 554",
+      "base_location": "Location 554",
+      "player_id": 554
+    },
+    {
+      "faction_id": 555,
+      "name": "Faction 555",
+      "base_location": "Location 555",
+      "player_id": 555
+    },
+    {
+      "faction_id": 556,
+      "name": "Faction 556",
+      "base_location": "Location 556",
+      "player_id": 556
+    },
+    {
+      "faction_id": 557,
+      "name": "Faction 557",
+      "base_location": "Location 557",
+      "player_id": 557
+    },
+    {
+      "faction_id": 558,
+      "name": "Faction 558",
+      "base_location": "Location 558",
+      "player_id": 558
+    },
+    {
+      "faction_id": 559,
+      "name": "Faction 559",
+      "base_location": "Location 559",
+      "player_id": 559
+    },
+    {
+      "faction_id": 560,
+      "name": "Faction 560",
+      "base_location": "Location 560",
+      "player_id": 560
+    },
+    {
+      "faction_id": 561,
+      "name": "Faction 561",
+      "base_location": "Location 561",
+      "player_id": 561
+    },
+    {
+      "faction_id": 562,
+      "name": "Faction 562",
+      "base_location": "Location 562",
+      "player_id": 562
+    },
+    {
+      "faction_id": 563,
+      "name": "Faction 563",
+      "base_location": "Location 563",
+      "player_id": 563
+    },
+    {
+      "faction_id": 564,
+      "name": "Faction 564",
+      "base_location": "Location 564",
+      "player_id": 564
+    },
+    {
+      "faction_id": 565,
+      "name": "Faction 565",
+      "base_location": "Location 565",
+      "player_id": 565
+    },
+    {
+      "faction_id": 566,
+      "name": "Faction 566",
+      "base_location": "Location 566",
+      "player_id": 566
+    },
+    {
+      "faction_id": 567,
+      "name": "Faction 567",
+      "base_location": "Location 567",
+      "player_id": 567
+    },
+    {
+      "faction_id": 568,
+      "name": "Faction 568",
+      "base_location": "Location 568",
+      "player_id": 568
+    },
+    {
+      "faction_id": 569,
+      "name": "Faction 569",
+      "base_location": "Location 569",
+      "player_id": 569
+    },
+    {
+      "faction_id": 570,
+      "name": "Faction 570",
+      "base_location": "Location 570",
+      "player_id": 570
+    },
+    {
+      "faction_id": 571,
+      "name": "Faction 571",
+      "base_location": "Location 571",
+      "player_id": 571
+    },
+    {
+      "faction_id": 572,
+      "name": "Faction 572",
+      "base_location": "Location 572",
+      "player_id": 572
+    },
+    {
+      "faction_id": 573,
+      "name": "Faction 573",
+      "base_location": "Location 573",
+      "player_id": 573
+    },
+    {
+      "faction_id": 574,
+      "name": "Faction 574",
+      "base_location": "Location 574",
+      "player_id": 574
+    },
+    {
+      "faction_id": 575,
+      "name": "Faction 575",
+      "base_location": "Location 575",
+      "player_id": 575
+    },
+    {
+      "faction_id": 576,
+      "name": "Faction 576",
+      "base_location": "Location 576",
+      "player_id": 576
+    },
+    {
+      "faction_id": 577,
+      "name": "Faction 577",
+      "base_location": "Location 577",
+      "player_id": 577
+    },
+    {
+      "faction_id": 578,
+      "name": "Faction 578",
+      "base_location": "Location 578",
+      "player_id": 578
+    },
+    {
+      "faction_id": 579,
+      "name": "Faction 579",
+      "base_location": "Location 579",
+      "player_id": 579
+    },
+    {
+      "faction_id": 580,
+      "name": "Faction 580",
+      "base_location": "Location 580",
+      "player_id": 580
+    },
+    {
+      "faction_id": 581,
+      "name": "Faction 581",
+      "base_location": "Location 581",
+      "player_id": 581
+    },
+    {
+      "faction_id": 582,
+      "name": "Faction 582",
+      "base_location": "Location 582",
+      "player_id": 582
+    },
+    {
+      "faction_id": 583,
+      "name": "Faction 583",
+      "base_location": "Location 583",
+      "player_id": 583
+    },
+    {
+      "faction_id": 584,
+      "name": "Faction 584",
+      "base_location": "Location 584",
+      "player_id": 584
+    },
+    {
+      "faction_id": 585,
+      "name": "Faction 585",
+      "base_location": "Location 585",
+      "player_id": 585
+    },
+    {
+      "faction_id": 586,
+      "name": "Faction 586",
+      "base_location": "Location 586",
+      "player_id": 586
+    },
+    {
+      "faction_id": 587,
+      "name": "Faction 587",
+      "base_location": "Location 587",
+      "player_id": 587
+    },
+    {
+      "faction_id": 588,
+      "name": "Faction 588",
+      "base_location": "Location 588",
+      "player_id": 588
+    },
+    {
+      "faction_id": 589,
+      "name": "Faction 589",
+      "base_location": "Location 589",
+      "player_id": 589
+    },
+    {
+      "faction_id": 590,
+      "name": "Faction 590",
+      "base_location": "Location 590",
+      "player_id": 590
+    },
+    {
+      "faction_id": 591,
+      "name": "Faction 591",
+      "base_location": "Location 591",
+      "player_id": 591
+    },
+    {
+      "faction_id": 592,
+      "name": "Faction 592",
+      "base_location": "Location 592",
+      "player_id": 592
+    },
+    {
+      "faction_id": 593,
+      "name": "Faction 593",
+      "base_location": "Location 593",
+      "player_id": 593
+    },
+    {
+      "faction_id": 594,
+      "name": "Faction 594",
+      "base_location": "Location 594",
+      "player_id": 594
+    },
+    {
+      "faction_id": 595,
+      "name": "Faction 595",
+      "base_location": "Location 595",
+      "player_id": 595
+    },
+    {
+      "faction_id": 596,
+      "name": "Faction 596",
+      "base_location": "Location 596",
+      "player_id": 596
+    },
+    {
+      "faction_id": 597,
+      "name": "Faction 597",
+      "base_location": "Location 597",
+      "player_id": 597
+    },
+    {
+      "faction_id": 598,
+      "name": "Faction 598",
+      "base_location": "Location 598",
+      "player_id": 598
+    },
+    {
+      "faction_id": 599,
+      "name": "Faction 599",
+      "base_location": "Location 599",
+      "player_id": 599
+    },
+    {
+      "faction_id": 600,
+      "name": "Faction 600",
+      "base_location": "Location 600",
+      "player_id": 600
+    },
+    {
+      "faction_id": 601,
+      "name": "Faction 601",
+      "base_location": "Location 601",
+      "player_id": 601
+    },
+    {
+      "faction_id": 602,
+      "name": "Faction 602",
+      "base_location": "Location 602",
+      "player_id": 602
+    },
+    {
+      "faction_id": 603,
+      "name": "Faction 603",
+      "base_location": "Location 603",
+      "player_id": 603
+    },
+    {
+      "faction_id": 604,
+      "name": "Faction 604",
+      "base_location": "Location 604",
+      "player_id": 604
+    },
+    {
+      "faction_id": 605,
+      "name": "Faction 605",
+      "base_location": "Location 605",
+      "player_id": 605
+    },
+    {
+      "faction_id": 606,
+      "name": "Faction 606",
+      "base_location": "Location 606",
+      "player_id": 606
+    },
+    {
+      "faction_id": 607,
+      "name": "Faction 607",
+      "base_location": "Location 607",
+      "player_id": 607
+    },
+    {
+      "faction_id": 608,
+      "name": "Faction 608",
+      "base_location": "Location 608",
+      "player_id": 608
+    },
+    {
+      "faction_id": 609,
+      "name": "Faction 609",
+      "base_location": "Location 609",
+      "player_id": 609
+    },
+    {
+      "faction_id": 610,
+      "name": "Faction 610",
+      "base_location": "Location 610",
+      "player_id": 610
+    },
+    {
+      "faction_id": 611,
+      "name": "Faction 611",
+      "base_location": "Location 611",
+      "player_id": 611
+    },
+    {
+      "faction_id": 612,
+      "name": "Faction 612",
+      "base_location": "Location 612",
+      "player_id": 612
+    },
+    {
+      "faction_id": 613,
+      "name": "Faction 613",
+      "base_location": "Location 613",
+      "player_id": 613
+    },
+    {
+      "faction_id": 614,
+      "name": "Faction 614",
+      "base_location": "Location 614",
+      "player_id": 614
+    },
+    {
+      "faction_id": 615,
+      "name": "Faction 615",
+      "base_location": "Location 615",
+      "player_id": 615
+    },
+    {
+      "faction_id": 616,
+      "name": "Faction 616",
+      "base_location": "Location 616",
+      "player_id": 616
+    },
+    {
+      "faction_id": 617,
+      "name": "Faction 617",
+      "base_location": "Location 617",
+      "player_id": 617
+    },
+    {
+      "faction_id": 618,
+      "name": "Faction 618",
+      "base_location": "Location 618",
+      "player_id": 618
+    },
+    {
+      "faction_id": 619,
+      "name": "Faction 619",
+      "base_location": "Location 619",
+      "player_id": 619
+    },
+    {
+      "faction_id": 620,
+      "name": "Faction 620",
+      "base_location": "Location 620",
+      "player_id": 620
+    },
+    {
+      "faction_id": 621,
+      "name": "Faction 621",
+      "base_location": "Location 621",
+      "player_id": 621
+    },
+    {
+      "faction_id": 622,
+      "name": "Faction 622",
+      "base_location": "Location 622",
+      "player_id": 622
+    },
+    {
+      "faction_id": 623,
+      "name": "Faction 623",
+      "base_location": "Location 623",
+      "player_id": 623
+    },
+    {
+      "faction_id": 624,
+      "name": "Faction 624",
+      "base_location": "Location 624",
+      "player_id": 624
+    },
+    {
+      "faction_id": 625,
+      "name": "Faction 625",
+      "base_location": "Location 625",
+      "player_id": 625
+    },
+    {
+      "faction_id": 626,
+      "name": "Faction 626",
+      "base_location": "Location 626",
+      "player_id": 626
+    },
+    {
+      "faction_id": 627,
+      "name": "Faction 627",
+      "base_location": "Location 627",
+      "player_id": 627
+    },
+    {
+      "faction_id": 628,
+      "name": "Faction 628",
+      "base_location": "Location 628",
+      "player_id": 628
+    },
+    {
+      "faction_id": 629,
+      "name": "Faction 629",
+      "base_location": "Location 629",
+      "player_id": 629
+    },
+    {
+      "faction_id": 630,
+      "name": "Faction 630",
+      "base_location": "Location 630",
+      "player_id": 630
+    },
+    {
+      "faction_id": 631,
+      "name": "Faction 631",
+      "base_location": "Location 631",
+      "player_id": 631
+    },
+    {
+      "faction_id": 632,
+      "name": "Faction 632",
+      "base_location": "Location 632",
+      "player_id": 632
+    },
+    {
+      "faction_id": 633,
+      "name": "Faction 633",
+      "base_location": "Location 633",
+      "player_id": 633
+    },
+    {
+      "faction_id": 634,
+      "name": "Faction 634",
+      "base_location": "Location 634",
+      "player_id": 634
+    },
+    {
+      "faction_id": 635,
+      "name": "Faction 635",
+      "base_location": "Location 635",
+      "player_id": 635
+    },
+    {
+      "faction_id": 636,
+      "name": "Faction 636",
+      "base_location": "Location 636",
+      "player_id": 636
+    },
+    {
+      "faction_id": 637,
+      "name": "Faction 637",
+      "base_location": "Location 637",
+      "player_id": 637
+    },
+    {
+      "faction_id": 638,
+      "name": "Faction 638",
+      "base_location": "Location 638",
+      "player_id": 638
+    },
+    {
+      "faction_id": 639,
+      "name": "Faction 639",
+      "base_location": "Location 639",
+      "player_id": 639
+    },
+    {
+      "faction_id": 640,
+      "name": "Faction 640",
+      "base_location": "Location 640",
+      "player_id": 640
+    },
+    {
+      "faction_id": 641,
+      "name": "Faction 641",
+      "base_location": "Location 641",
+      "player_id": 641
+    },
+    {
+      "faction_id": 642,
+      "name": "Faction 642",
+      "base_location": "Location 642",
+      "player_id": 642
+    },
+    {
+      "faction_id": 643,
+      "name": "Faction 643",
+      "base_location": "Location 643",
+      "player_id": 643
+    },
+    {
+      "faction_id": 644,
+      "name": "Faction 644",
+      "base_location": "Location 644",
+      "player_id": 644
+    },
+    {
+      "faction_id": 645,
+      "name": "Faction 645",
+      "base_location": "Location 645",
+      "player_id": 645
+    },
+    {
+      "faction_id": 646,
+      "name": "Faction 646",
+      "base_location": "Location 646",
+      "player_id": 646
+    },
+    {
+      "faction_id": 647,
+      "name": "Faction 647",
+      "base_location": "Location 647",
+      "player_id": 647
+    },
+    {
+      "faction_id": 648,
+      "name": "Faction 648",
+      "base_location": "Location 648",
+      "player_id": 648
+    },
+    {
+      "faction_id": 649,
+      "name": "Faction 649",
+      "base_location": "Location 649",
+      "player_id": 649
+    },
+    {
+      "faction_id": 650,
+      "name": "Faction 650",
+      "base_location": "Location 650",
+      "player_id": 650
+    },
+    {
+      "faction_id": 651,
+      "name": "Faction 651",
+      "base_location": "Location 651",
+      "player_id": 651
+    },
+    {
+      "faction_id": 652,
+      "name": "Faction 652",
+      "base_location": "Location 652",
+      "player_id": 652
+    },
+    {
+      "faction_id": 653,
+      "name": "Faction 653",
+      "base_location": "Location 653",
+      "player_id": 653
+    },
+    {
+      "faction_id": 654,
+      "name": "Faction 654",
+      "base_location": "Location 654",
+      "player_id": 654
+    },
+    {
+      "faction_id": 655,
+      "name": "Faction 655",
+      "base_location": "Location 655",
+      "player_id": 655
+    },
+    {
+      "faction_id": 656,
+      "name": "Faction 656",
+      "base_location": "Location 656",
+      "player_id": 656
+    },
+    {
+      "faction_id": 657,
+      "name": "Faction 657",
+      "base_location": "Location 657",
+      "player_id": 657
+    },
+    {
+      "faction_id": 658,
+      "name": "Faction 658",
+      "base_location": "Location 658",
+      "player_id": 658
+    },
+    {
+      "faction_id": 659,
+      "name": "Faction 659",
+      "base_location": "Location 659",
+      "player_id": 659
+    },
+    {
+      "faction_id": 660,
+      "name": "Faction 660",
+      "base_location": "Location 660",
+      "player_id": 660
+    },
+    {
+      "faction_id": 661,
+      "name": "Faction 661",
+      "base_location": "Location 661",
+      "player_id": 661
+    },
+    {
+      "faction_id": 662,
+      "name": "Faction 662",
+      "base_location": "Location 662",
+      "player_id": 662
+    },
+    {
+      "faction_id": 663,
+      "name": "Faction 663",
+      "base_location": "Location 663",
+      "player_id": 663
+    },
+    {
+      "faction_id": 664,
+      "name": "Faction 664",
+      "base_location": "Location 664",
+      "player_id": 664
+    },
+    {
+      "faction_id": 665,
+      "name": "Faction 665",
+      "base_location": "Location 665",
+      "player_id": 665
+    },
+    {
+      "faction_id": 666,
+      "name": "Faction 666",
+      "base_location": "Location 666",
+      "player_id": 666
+    },
+    {
+      "faction_id": 667,
+      "name": "Faction 667",
+      "base_location": "Location 667",
+      "player_id": 667
+    },
+    {
+      "faction_id": 668,
+      "name": "Faction 668",
+      "base_location": "Location 668",
+      "player_id": 668
+    },
+    {
+      "faction_id": 669,
+      "name": "Faction 669",
+      "base_location": "Location 669",
+      "player_id": 669
+    },
+    {
+      "faction_id": 670,
+      "name": "Faction 670",
+      "base_location": "Location 670",
+      "player_id": 670
+    },
+    {
+      "faction_id": 671,
+      "name": "Faction 671",
+      "base_location": "Location 671",
+      "player_id": 671
+    },
+    {
+      "faction_id": 672,
+      "name": "Faction 672",
+      "base_location": "Location 672",
+      "player_id": 672
+    },
+    {
+      "faction_id": 673,
+      "name": "Faction 673",
+      "base_location": "Location 673",
+      "player_id": 673
+    },
+    {
+      "faction_id": 674,
+      "name": "Faction 674",
+      "base_location": "Location 674",
+      "player_id": 674
+    },
+    {
+      "faction_id": 675,
+      "name": "Faction 675",
+      "base_location": "Location 675",
+      "player_id": 675
+    },
+    {
+      "faction_id": 676,
+      "name": "Faction 676",
+      "base_location": "Location 676",
+      "player_id": 676
+    },
+    {
+      "faction_id": 677,
+      "name": "Faction 677",
+      "base_location": "Location 677",
+      "player_id": 677
+    },
+    {
+      "faction_id": 678,
+      "name": "Faction 678",
+      "base_location": "Location 678",
+      "player_id": 678
+    },
+    {
+      "faction_id": 679,
+      "name": "Faction 679",
+      "base_location": "Location 679",
+      "player_id": 679
+    },
+    {
+      "faction_id": 680,
+      "name": "Faction 680",
+      "base_location": "Location 680",
+      "player_id": 680
+    },
+    {
+      "faction_id": 681,
+      "name": "Faction 681",
+      "base_location": "Location 681",
+      "player_id": 681
+    },
+    {
+      "faction_id": 682,
+      "name": "Faction 682",
+      "base_location": "Location 682",
+      "player_id": 682
+    },
+    {
+      "faction_id": 683,
+      "name": "Faction 683",
+      "base_location": "Location 683",
+      "player_id": 683
+    },
+    {
+      "faction_id": 684,
+      "name": "Faction 684",
+      "base_location": "Location 684",
+      "player_id": 684
+    },
+    {
+      "faction_id": 685,
+      "name": "Faction 685",
+      "base_location": "Location 685",
+      "player_id": 685
+    },
+    {
+      "faction_id": 686,
+      "name": "Faction 686",
+      "base_location": "Location 686",
+      "player_id": 686
+    },
+    {
+      "faction_id": 687,
+      "name": "Faction 687",
+      "base_location": "Location 687",
+      "player_id": 687
+    },
+    {
+      "faction_id": 688,
+      "name": "Faction 688",
+      "base_location": "Location 688",
+      "player_id": 688
+    },
+    {
+      "faction_id": 689,
+      "name": "Faction 689",
+      "base_location": "Location 689",
+      "player_id": 689
+    },
+    {
+      "faction_id": 690,
+      "name": "Faction 690",
+      "base_location": "Location 690",
+      "player_id": 690
+    },
+    {
+      "faction_id": 691,
+      "name": "Faction 691",
+      "base_location": "Location 691",
+      "player_id": 691
+    },
+    {
+      "faction_id": 692,
+      "name": "Faction 692",
+      "base_location": "Location 692",
+      "player_id": 692
+    },
+    {
+      "faction_id": 693,
+      "name": "Faction 693",
+      "base_location": "Location 693",
+      "player_id": 693
+    },
+    {
+      "faction_id": 694,
+      "name": "Faction 694",
+      "base_location": "Location 694",
+      "player_id": 694
+    },
+    {
+      "faction_id": 695,
+      "name": "Faction 695",
+      "base_location": "Location 695",
+      "player_id": 695
+    },
+    {
+      "faction_id": 696,
+      "name": "Faction 696",
+      "base_location": "Location 696",
+      "player_id": 696
+    },
+    {
+      "faction_id": 697,
+      "name": "Faction 697",
+      "base_location": "Location 697",
+      "player_id": 697
+    },
+    {
+      "faction_id": 698,
+      "name": "Faction 698",
+      "base_location": "Location 698",
+      "player_id": 698
+    },
+    {
+      "faction_id": 699,
+      "name": "Faction 699",
+      "base_location": "Location 699",
+      "player_id": 699
+    },
+    {
+      "faction_id": 700,
+      "name": "Faction 700",
+      "base_location": "Location 700",
+      "player_id": 700
+    },
+    {
+      "faction_id": 701,
+      "name": "Faction 701",
+      "base_location": "Location 701",
+      "player_id": 701
+    },
+    {
+      "faction_id": 702,
+      "name": "Faction 702",
+      "base_location": "Location 702",
+      "player_id": 702
+    },
+    {
+      "faction_id": 703,
+      "name": "Faction 703",
+      "base_location": "Location 703",
+      "player_id": 703
+    },
+    {
+      "faction_id": 704,
+      "name": "Faction 704",
+      "base_location": "Location 704",
+      "player_id": 704
+    },
+    {
+      "faction_id": 705,
+      "name": "Faction 705",
+      "base_location": "Location 705",
+      "player_id": 705
+    },
+    {
+      "faction_id": 706,
+      "name": "Faction 706",
+      "base_location": "Location 706",
+      "player_id": 706
+    },
+    {
+      "faction_id": 707,
+      "name": "Faction 707",
+      "base_location": "Location 707",
+      "player_id": 707
+    },
+    {
+      "faction_id": 708,
+      "name": "Faction 708",
+      "base_location": "Location 708",
+      "player_id": 708
+    },
+    {
+      "faction_id": 709,
+      "name": "Faction 709",
+      "base_location": "Location 709",
+      "player_id": 709
+    },
+    {
+      "faction_id": 710,
+      "name": "Faction 710",
+      "base_location": "Location 710",
+      "player_id": 710
+    },
+    {
+      "faction_id": 711,
+      "name": "Faction 711",
+      "base_location": "Location 711",
+      "player_id": 711
+    },
+    {
+      "faction_id": 712,
+      "name": "Faction 712",
+      "base_location": "Location 712",
+      "player_id": 712
+    },
+    {
+      "faction_id": 713,
+      "name": "Faction 713",
+      "base_location": "Location 713",
+      "player_id": 713
+    },
+    {
+      "faction_id": 714,
+      "name": "Faction 714",
+      "base_location": "Location 714",
+      "player_id": 714
+    },
+    {
+      "faction_id": 715,
+      "name": "Faction 715",
+      "base_location": "Location 715",
+      "player_id": 715
+    },
+    {
+      "faction_id": 716,
+      "name": "Faction 716",
+      "base_location": "Location 716",
+      "player_id": 716
+    },
+    {
+      "faction_id": 717,
+      "name": "Faction 717",
+      "base_location": "Location 717",
+      "player_id": 717
+    },
+    {
+      "faction_id": 718,
+      "name": "Faction 718",
+      "base_location": "Location 718",
+      "player_id": 718
+    },
+    {
+      "faction_id": 719,
+      "name": "Faction 719",
+      "base_location": "Location 719",
+      "player_id": 719
+    },
+    {
+      "faction_id": 720,
+      "name": "Faction 720",
+      "base_location": "Location 720",
+      "player_id": 720
+    },
+    {
+      "faction_id": 721,
+      "name": "Faction 721",
+      "base_location": "Location 721",
+      "player_id": 721
+    },
+    {
+      "faction_id": 722,
+      "name": "Faction 722",
+      "base_location": "Location 722",
+      "player_id": 722
+    },
+    {
+      "faction_id": 723,
+      "name": "Faction 723",
+      "base_location": "Location 723",
+      "player_id": 723
+    },
+    {
+      "faction_id": 724,
+      "name": "Faction 724",
+      "base_location": "Location 724",
+      "player_id": 724
+    },
+    {
+      "faction_id": 725,
+      "name": "Faction 725",
+      "base_location": "Location 725",
+      "player_id": 725
+    },
+    {
+      "faction_id": 726,
+      "name": "Faction 726",
+      "base_location": "Location 726",
+      "player_id": 726
+    },
+    {
+      "faction_id": 727,
+      "name": "Faction 727",
+      "base_location": "Location 727",
+      "player_id": 727
+    },
+    {
+      "faction_id": 728,
+      "name": "Faction 728",
+      "base_location": "Location 728",
+      "player_id": 728
+    },
+    {
+      "faction_id": 729,
+      "name": "Faction 729",
+      "base_location": "Location 729",
+      "player_id": 729
+    },
+    {
+      "faction_id": 730,
+      "name": "Faction 730",
+      "base_location": "Location 730",
+      "player_id": 730
+    },
+    {
+      "faction_id": 731,
+      "name": "Faction 731",
+      "base_location": "Location 731",
+      "player_id": 731
+    },
+    {
+      "faction_id": 732,
+      "name": "Faction 732",
+      "base_location": "Location 732",
+      "player_id": 732
+    },
+    {
+      "faction_id": 733,
+      "name": "Faction 733",
+      "base_location": "Location 733",
+      "player_id": 733
+    },
+    {
+      "faction_id": 734,
+      "name": "Faction 734",
+      "base_location": "Location 734",
+      "player_id": 734
+    },
+    {
+      "faction_id": 735,
+      "name": "Faction 735",
+      "base_location": "Location 735",
+      "player_id": 735
+    },
+    {
+      "faction_id": 736,
+      "name": "Faction 736",
+      "base_location": "Location 736",
+      "player_id": 736
+    },
+    {
+      "faction_id": 737,
+      "name": "Faction 737",
+      "base_location": "Location 737",
+      "player_id": 737
+    },
+    {
+      "faction_id": 738,
+      "name": "Faction 738",
+      "base_location": "Location 738",
+      "player_id": 738
+    },
+    {
+      "faction_id": 739,
+      "name": "Faction 739",
+      "base_location": "Location 739",
+      "player_id": 739
+    },
+    {
+      "faction_id": 740,
+      "name": "Faction 740",
+      "base_location": "Location 740",
+      "player_id": 740
+    },
+    {
+      "faction_id": 741,
+      "name": "Faction 741",
+      "base_location": "Location 741",
+      "player_id": 741
+    },
+    {
+      "faction_id": 742,
+      "name": "Faction 742",
+      "base_location": "Location 742",
+      "player_id": 742
+    },
+    {
+      "faction_id": 743,
+      "name": "Faction 743",
+      "base_location": "Location 743",
+      "player_id": 743
+    },
+    {
+      "faction_id": 744,
+      "name": "Faction 744",
+      "base_location": "Location 744",
+      "player_id": 744
+    },
+    {
+      "faction_id": 745,
+      "name": "Faction 745",
+      "base_location": "Location 745",
+      "player_id": 745
+    },
+    {
+      "faction_id": 746,
+      "name": "Faction 746",
+      "base_location": "Location 746",
+      "player_id": 746
+    },
+    {
+      "faction_id": 747,
+      "name": "Faction 747",
+      "base_location": "Location 747",
+      "player_id": 747
+    },
+    {
+      "faction_id": 748,
+      "name": "Faction 748",
+      "base_location": "Location 748",
+      "player_id": 748
+    },
+    {
+      "faction_id": 749,
+      "name": "Faction 749",
+      "base_location": "Location 749",
+      "player_id": 749
+    },
+    {
+      "faction_id": 750,
+      "name": "Faction 750",
+      "base_location": "Location 750",
+      "player_id": 750
+    },
+    {
+      "faction_id": 751,
+      "name": "Faction 751",
+      "base_location": "Location 751",
+      "player_id": 751
+    },
+    {
+      "faction_id": 752,
+      "name": "Faction 752",
+      "base_location": "Location 752",
+      "player_id": 752
+    },
+    {
+      "faction_id": 753,
+      "name": "Faction 753",
+      "base_location": "Location 753",
+      "player_id": 753
+    },
+    {
+      "faction_id": 754,
+      "name": "Faction 754",
+      "base_location": "Location 754",
+      "player_id": 754
+    },
+    {
+      "faction_id": 755,
+      "name": "Faction 755",
+      "base_location": "Location 755",
+      "player_id": 755
+    },
+    {
+      "faction_id": 756,
+      "name": "Faction 756",
+      "base_location": "Location 756",
+      "player_id": 756
+    },
+    {
+      "faction_id": 757,
+      "name": "Faction 757",
+      "base_location": "Location 757",
+      "player_id": 757
+    },
+    {
+      "faction_id": 758,
+      "name": "Faction 758",
+      "base_location": "Location 758",
+      "player_id": 758
+    },
+    {
+      "faction_id": 759,
+      "name": "Faction 759",
+      "base_location": "Location 759",
+      "player_id": 759
+    },
+    {
+      "faction_id": 760,
+      "name": "Faction 760",
+      "base_location": "Location 760",
+      "player_id": 760
+    },
+    {
+      "faction_id": 761,
+      "name": "Faction 761",
+      "base_location": "Location 761",
+      "player_id": 761
+    },
+    {
+      "faction_id": 762,
+      "name": "Faction 762",
+      "base_location": "Location 762",
+      "player_id": 762
+    },
+    {
+      "faction_id": 763,
+      "name": "Faction 763",
+      "base_location": "Location 763",
+      "player_id": 763
+    },
+    {
+      "faction_id": 764,
+      "name": "Faction 764",
+      "base_location": "Location 764",
+      "player_id": 764
+    },
+    {
+      "faction_id": 765,
+      "name": "Faction 765",
+      "base_location": "Location 765",
+      "player_id": 765
+    },
+    {
+      "faction_id": 766,
+      "name": "Faction 766",
+      "base_location": "Location 766",
+      "player_id": 766
+    },
+    {
+      "faction_id": 767,
+      "name": "Faction 767",
+      "base_location": "Location 767",
+      "player_id": 767
+    },
+    {
+      "faction_id": 768,
+      "name": "Faction 768",
+      "base_location": "Location 768",
+      "player_id": 768
+    },
+    {
+      "faction_id": 769,
+      "name": "Faction 769",
+      "base_location": "Location 769",
+      "player_id": 769
+    },
+    {
+      "faction_id": 770,
+      "name": "Faction 770",
+      "base_location": "Location 770",
+      "player_id": 770
+    },
+    {
+      "faction_id": 771,
+      "name": "Faction 771",
+      "base_location": "Location 771",
+      "player_id": 771
+    },
+    {
+      "faction_id": 772,
+      "name": "Faction 772",
+      "base_location": "Location 772",
+      "player_id": 772
+    },
+    {
+      "faction_id": 773,
+      "name": "Faction 773",
+      "base_location": "Location 773",
+      "player_id": 773
+    },
+    {
+      "faction_id": 774,
+      "name": "Faction 774",
+      "base_location": "Location 774",
+      "player_id": 774
+    },
+    {
+      "faction_id": 775,
+      "name": "Faction 775",
+      "base_location": "Location 775",
+      "player_id": 775
+    },
+    {
+      "faction_id": 776,
+      "name": "Faction 776",
+      "base_location": "Location 776",
+      "player_id": 776
+    },
+    {
+      "faction_id": 777,
+      "name": "Faction 777",
+      "base_location": "Location 777",
+      "player_id": 777
+    },
+    {
+      "faction_id": 778,
+      "name": "Faction 778",
+      "base_location": "Location 778",
+      "player_id": 778
+    },
+    {
+      "faction_id": 779,
+      "name": "Faction 779",
+      "base_location": "Location 779",
+      "player_id": 779
+    },
+    {
+      "faction_id": 780,
+      "name": "Faction 780",
+      "base_location": "Location 780",
+      "player_id": 780
+    },
+    {
+      "faction_id": 781,
+      "name": "Faction 781",
+      "base_location": "Location 781",
+      "player_id": 781
+    },
+    {
+      "faction_id": 782,
+      "name": "Faction 782",
+      "base_location": "Location 782",
+      "player_id": 782
+    },
+    {
+      "faction_id": 783,
+      "name": "Faction 783",
+      "base_location": "Location 783",
+      "player_id": 783
+    },
+    {
+      "faction_id": 784,
+      "name": "Faction 784",
+      "base_location": "Location 784",
+      "player_id": 784
+    },
+    {
+      "faction_id": 785,
+      "name": "Faction 785",
+      "base_location": "Location 785",
+      "player_id": 785
+    },
+    {
+      "faction_id": 786,
+      "name": "Faction 786",
+      "base_location": "Location 786",
+      "player_id": 786
+    },
+    {
+      "faction_id": 787,
+      "name": "Faction 787",
+      "base_location": "Location 787",
+      "player_id": 787
+    },
+    {
+      "faction_id": 788,
+      "name": "Faction 788",
+      "base_location": "Location 788",
+      "player_id": 788
+    },
+    {
+      "faction_id": 789,
+      "name": "Faction 789",
+      "base_location": "Location 789",
+      "player_id": 789
+    },
+    {
+      "faction_id": 790,
+      "name": "Faction 790",
+      "base_location": "Location 790",
+      "player_id": 790
+    },
+    {
+      "faction_id": 791,
+      "name": "Faction 791",
+      "base_location": "Location 791",
+      "player_id": 791
+    },
+    {
+      "faction_id": 792,
+      "name": "Faction 792",
+      "base_location": "Location 792",
+      "player_id": 792
+    },
+    {
+      "faction_id": 793,
+      "name": "Faction 793",
+      "base_location": "Location 793",
+      "player_id": 793
+    },
+    {
+      "faction_id": 794,
+      "name": "Faction 794",
+      "base_location": "Location 794",
+      "player_id": 794
+    },
+    {
+      "faction_id": 795,
+      "name": "Faction 795",
+      "base_location": "Location 795",
+      "player_id": 795
+    },
+    {
+      "faction_id": 796,
+      "name": "Faction 796",
+      "base_location": "Location 796",
+      "player_id": 796
+    },
+    {
+      "faction_id": 797,
+      "name": "Faction 797",
+      "base_location": "Location 797",
+      "player_id": 797
+    },
+    {
+      "faction_id": 798,
+      "name": "Faction 798",
+      "base_location": "Location 798",
+      "player_id": 798
+    },
+    {
+      "faction_id": 799,
+      "name": "Faction 799",
+      "base_location": "Location 799",
+      "player_id": 799
+    },
+    {
+      "faction_id": 800,
+      "name": "Faction 800",
+      "base_location": "Location 800",
+      "player_id": 800
+    },
+    {
+      "faction_id": 801,
+      "name": "Faction 801",
+      "base_location": "Location 801",
+      "player_id": 801
+    },
+    {
+      "faction_id": 802,
+      "name": "Faction 802",
+      "base_location": "Location 802",
+      "player_id": 802
+    },
+    {
+      "faction_id": 803,
+      "name": "Faction 803",
+      "base_location": "Location 803",
+      "player_id": 803
+    },
+    {
+      "faction_id": 804,
+      "name": "Faction 804",
+      "base_location": "Location 804",
+      "player_id": 804
+    },
+    {
+      "faction_id": 805,
+      "name": "Faction 805",
+      "base_location": "Location 805",
+      "player_id": 805
+    },
+    {
+      "faction_id": 806,
+      "name": "Faction 806",
+      "base_location": "Location 806",
+      "player_id": 806
+    },
+    {
+      "faction_id": 807,
+      "name": "Faction 807",
+      "base_location": "Location 807",
+      "player_id": 807
+    },
+    {
+      "faction_id": 808,
+      "name": "Faction 808",
+      "base_location": "Location 808",
+      "player_id": 808
+    },
+    {
+      "faction_id": 809,
+      "name": "Faction 809",
+      "base_location": "Location 809",
+      "player_id": 809
+    },
+    {
+      "faction_id": 810,
+      "name": "Faction 810",
+      "base_location": "Location 810",
+      "player_id": 810
+    },
+    {
+      "faction_id": 811,
+      "name": "Faction 811",
+      "base_location": "Location 811",
+      "player_id": 811
+    },
+    {
+      "faction_id": 812,
+      "name": "Faction 812",
+      "base_location": "Location 812",
+      "player_id": 812
+    },
+    {
+      "faction_id": 813,
+      "name": "Faction 813",
+      "base_location": "Location 813",
+      "player_id": 813
+    },
+    {
+      "faction_id": 814,
+      "name": "Faction 814",
+      "base_location": "Location 814",
+      "player_id": 814
+    },
+    {
+      "faction_id": 815,
+      "name": "Faction 815",
+      "base_location": "Location 815",
+      "player_id": 815
+    },
+    {
+      "faction_id": 816,
+      "name": "Faction 816",
+      "base_location": "Location 816",
+      "player_id": 816
+    },
+    {
+      "faction_id": 817,
+      "name": "Faction 817",
+      "base_location": "Location 817",
+      "player_id": 817
+    },
+    {
+      "faction_id": 818,
+      "name": "Faction 818",
+      "base_location": "Location 818",
+      "player_id": 818
+    },
+    {
+      "faction_id": 819,
+      "name": "Faction 819",
+      "base_location": "Location 819",
+      "player_id": 819
+    },
+    {
+      "faction_id": 820,
+      "name": "Faction 820",
+      "base_location": "Location 820",
+      "player_id": 820
+    },
+    {
+      "faction_id": 821,
+      "name": "Faction 821",
+      "base_location": "Location 821",
+      "player_id": 821
+    },
+    {
+      "faction_id": 822,
+      "name": "Faction 822",
+      "base_location": "Location 822",
+      "player_id": 822
+    },
+    {
+      "faction_id": 823,
+      "name": "Faction 823",
+      "base_location": "Location 823",
+      "player_id": 823
+    },
+    {
+      "faction_id": 824,
+      "name": "Faction 824",
+      "base_location": "Location 824",
+      "player_id": 824
+    },
+    {
+      "faction_id": 825,
+      "name": "Faction 825",
+      "base_location": "Location 825",
+      "player_id": 825
+    },
+    {
+      "faction_id": 826,
+      "name": "Faction 826",
+      "base_location": "Location 826",
+      "player_id": 826
+    },
+    {
+      "faction_id": 827,
+      "name": "Faction 827",
+      "base_location": "Location 827",
+      "player_id": 827
+    },
+    {
+      "faction_id": 828,
+      "name": "Faction 828",
+      "base_location": "Location 828",
+      "player_id": 828
+    },
+    {
+      "faction_id": 829,
+      "name": "Faction 829",
+      "base_location": "Location 829",
+      "player_id": 829
+    },
+    {
+      "faction_id": 830,
+      "name": "Faction 830",
+      "base_location": "Location 830",
+      "player_id": 830
+    },
+    {
+      "faction_id": 831,
+      "name": "Faction 831",
+      "base_location": "Location 831",
+      "player_id": 831
+    },
+    {
+      "faction_id": 832,
+      "name": "Faction 832",
+      "base_location": "Location 832",
+      "player_id": 832
+    },
+    {
+      "faction_id": 833,
+      "name": "Faction 833",
+      "base_location": "Location 833",
+      "player_id": 833
+    },
+    {
+      "faction_id": 834,
+      "name": "Faction 834",
+      "base_location": "Location 834",
+      "player_id": 834
+    },
+    {
+      "faction_id": 835,
+      "name": "Faction 835",
+      "base_location": "Location 835",
+      "player_id": 835
+    },
+    {
+      "faction_id": 836,
+      "name": "Faction 836",
+      "base_location": "Location 836",
+      "player_id": 836
+    },
+    {
+      "faction_id": 837,
+      "name": "Faction 837",
+      "base_location": "Location 837",
+      "player_id": 837
+    },
+    {
+      "faction_id": 838,
+      "name": "Faction 838",
+      "base_location": "Location 838",
+      "player_id": 838
+    },
+    {
+      "faction_id": 839,
+      "name": "Faction 839",
+      "base_location": "Location 839",
+      "player_id": 839
+    },
+    {
+      "faction_id": 840,
+      "name": "Faction 840",
+      "base_location": "Location 840",
+      "player_id": 840
+    },
+    {
+      "faction_id": 841,
+      "name": "Faction 841",
+      "base_location": "Location 841",
+      "player_id": 841
+    },
+    {
+      "faction_id": 842,
+      "name": "Faction 842",
+      "base_location": "Location 842",
+      "player_id": 842
+    },
+    {
+      "faction_id": 843,
+      "name": "Faction 843",
+      "base_location": "Location 843",
+      "player_id": 843
+    },
+    {
+      "faction_id": 844,
+      "name": "Faction 844",
+      "base_location": "Location 844",
+      "player_id": 844
+    },
+    {
+      "faction_id": 845,
+      "name": "Faction 845",
+      "base_location": "Location 845",
+      "player_id": 845
+    },
+    {
+      "faction_id": 846,
+      "name": "Faction 846",
+      "base_location": "Location 846",
+      "player_id": 846
+    },
+    {
+      "faction_id": 847,
+      "name": "Faction 847",
+      "base_location": "Location 847",
+      "player_id": 847
+    },
+    {
+      "faction_id": 848,
+      "name": "Faction 848",
+      "base_location": "Location 848",
+      "player_id": 848
+    },
+    {
+      "faction_id": 849,
+      "name": "Faction 849",
+      "base_location": "Location 849",
+      "player_id": 849
+    },
+    {
+      "faction_id": 850,
+      "name": "Faction 850",
+      "base_location": "Location 850",
+      "player_id": 850
+    },
+    {
+      "faction_id": 851,
+      "name": "Faction 851",
+      "base_location": "Location 851",
+      "player_id": 851
+    },
+    {
+      "faction_id": 852,
+      "name": "Faction 852",
+      "base_location": "Location 852",
+      "player_id": 852
+    },
+    {
+      "faction_id": 853,
+      "name": "Faction 853",
+      "base_location": "Location 853",
+      "player_id": 853
+    },
+    {
+      "faction_id": 854,
+      "name": "Faction 854",
+      "base_location": "Location 854",
+      "player_id": 854
+    },
+    {
+      "faction_id": 855,
+      "name": "Faction 855",
+      "base_location": "Location 855",
+      "player_id": 855
+    },
+    {
+      "faction_id": 856,
+      "name": "Faction 856",
+      "base_location": "Location 856",
+      "player_id": 856
+    },
+    {
+      "faction_id": 857,
+      "name": "Faction 857",
+      "base_location": "Location 857",
+      "player_id": 857
+    },
+    {
+      "faction_id": 858,
+      "name": "Faction 858",
+      "base_location": "Location 858",
+      "player_id": 858
+    },
+    {
+      "faction_id": 859,
+      "name": "Faction 859",
+      "base_location": "Location 859",
+      "player_id": 859
+    },
+    {
+      "faction_id": 860,
+      "name": "Faction 860",
+      "base_location": "Location 860",
+      "player_id": 860
+    },
+    {
+      "faction_id": 861,
+      "name": "Faction 861",
+      "base_location": "Location 861",
+      "player_id": 861
+    },
+    {
+      "faction_id": 862,
+      "name": "Faction 862",
+      "base_location": "Location 862",
+      "player_id": 862
+    },
+    {
+      "faction_id": 863,
+      "name": "Faction 863",
+      "base_location": "Location 863",
+      "player_id": 863
+    },
+    {
+      "faction_id": 864,
+      "name": "Faction 864",
+      "base_location": "Location 864",
+      "player_id": 864
+    },
+    {
+      "faction_id": 865,
+      "name": "Faction 865",
+      "base_location": "Location 865",
+      "player_id": 865
+    },
+    {
+      "faction_id": 866,
+      "name": "Faction 866",
+      "base_location": "Location 866",
+      "player_id": 866
+    },
+    {
+      "faction_id": 867,
+      "name": "Faction 867",
+      "base_location": "Location 867",
+      "player_id": 867
+    },
+    {
+      "faction_id": 868,
+      "name": "Faction 868",
+      "base_location": "Location 868",
+      "player_id": 868
+    },
+    {
+      "faction_id": 869,
+      "name": "Faction 869",
+      "base_location": "Location 869",
+      "player_id": 869
+    },
+    {
+      "faction_id": 870,
+      "name": "Faction 870",
+      "base_location": "Location 870",
+      "player_id": 870
+    },
+    {
+      "faction_id": 871,
+      "name": "Faction 871",
+      "base_location": "Location 871",
+      "player_id": 871
+    },
+    {
+      "faction_id": 872,
+      "name": "Faction 872",
+      "base_location": "Location 872",
+      "player_id": 872
+    },
+    {
+      "faction_id": 873,
+      "name": "Faction 873",
+      "base_location": "Location 873",
+      "player_id": 873
+    },
+    {
+      "faction_id": 874,
+      "name": "Faction 874",
+      "base_location": "Location 874",
+      "player_id": 874
+    },
+    {
+      "faction_id": 875,
+      "name": "Faction 875",
+      "base_location": "Location 875",
+      "player_id": 875
+    },
+    {
+      "faction_id": 876,
+      "name": "Faction 876",
+      "base_location": "Location 876",
+      "player_id": 876
+    },
+    {
+      "faction_id": 877,
+      "name": "Faction 877",
+      "base_location": "Location 877",
+      "player_id": 877
+    },
+    {
+      "faction_id": 878,
+      "name": "Faction 878",
+      "base_location": "Location 878",
+      "player_id": 878
+    },
+    {
+      "faction_id": 879,
+      "name": "Faction 879",
+      "base_location": "Location 879",
+      "player_id": 879
+    },
+    {
+      "faction_id": 880,
+      "name": "Faction 880",
+      "base_location": "Location 880",
+      "player_id": 880
+    },
+    {
+      "faction_id": 881,
+      "name": "Faction 881",
+      "base_location": "Location 881",
+      "player_id": 881
+    },
+    {
+      "faction_id": 882,
+      "name": "Faction 882",
+      "base_location": "Location 882",
+      "player_id": 882
+    },
+    {
+      "faction_id": 883,
+      "name": "Faction 883",
+      "base_location": "Location 883",
+      "player_id": 883
+    },
+    {
+      "faction_id": 884,
+      "name": "Faction 884",
+      "base_location": "Location 884",
+      "player_id": 884
+    },
+    {
+      "faction_id": 885,
+      "name": "Faction 885",
+      "base_location": "Location 885",
+      "player_id": 885
+    },
+    {
+      "faction_id": 886,
+      "name": "Faction 886",
+      "base_location": "Location 886",
+      "player_id": 886
+    },
+    {
+      "faction_id": 887,
+      "name": "Faction 887",
+      "base_location": "Location 887",
+      "player_id": 887
+    },
+    {
+      "faction_id": 888,
+      "name": "Faction 888",
+      "base_location": "Location 888",
+      "player_id": 888
+    },
+    {
+      "faction_id": 889,
+      "name": "Faction 889",
+      "base_location": "Location 889",
+      "player_id": 889
+    },
+    {
+      "faction_id": 890,
+      "name": "Faction 890",
+      "base_location": "Location 890",
+      "player_id": 890
+    },
+    {
+      "faction_id": 891,
+      "name": "Faction 891",
+      "base_location": "Location 891",
+      "player_id": 891
+    },
+    {
+      "faction_id": 892,
+      "name": "Faction 892",
+      "base_location": "Location 892",
+      "player_id": 892
+    },
+    {
+      "faction_id": 893,
+      "name": "Faction 893",
+      "base_location": "Location 893",
+      "player_id": 893
+    },
+    {
+      "faction_id": 894,
+      "name": "Faction 894",
+      "base_location": "Location 894",
+      "player_id": 894
+    },
+    {
+      "faction_id": 895,
+      "name": "Faction 895",
+      "base_location": "Location 895",
+      "player_id": 895
+    },
+    {
+      "faction_id": 896,
+      "name": "Faction 896",
+      "base_location": "Location 896",
+      "player_id": 896
+    },
+    {
+      "faction_id": 897,
+      "name": "Faction 897",
+      "base_location": "Location 897",
+      "player_id": 897
+    },
+    {
+      "faction_id": 898,
+      "name": "Faction 898",
+      "base_location": "Location 898",
+      "player_id": 898
+    },
+    {
+      "faction_id": 899,
+      "name": "Faction 899",
+      "base_location": "Location 899",
+      "player_id": 899
+    },
+    {
+      "faction_id": 900,
+      "name": "Faction 900",
+      "base_location": "Location 900",
+      "player_id": 900
+    },
+    {
+      "faction_id": 901,
+      "name": "Faction 901",
+      "base_location": "Location 901",
+      "player_id": 901
+    },
+    {
+      "faction_id": 902,
+      "name": "Faction 902",
+      "base_location": "Location 902",
+      "player_id": 902
+    },
+    {
+      "faction_id": 903,
+      "name": "Faction 903",
+      "base_location": "Location 903",
+      "player_id": 903
+    },
+    {
+      "faction_id": 904,
+      "name": "Faction 904",
+      "base_location": "Location 904",
+      "player_id": 904
+    },
+    {
+      "faction_id": 905,
+      "name": "Faction 905",
+      "base_location": "Location 905",
+      "player_id": 905
+    },
+    {
+      "faction_id": 906,
+      "name": "Faction 906",
+      "base_location": "Location 906",
+      "player_id": 906
+    },
+    {
+      "faction_id": 907,
+      "name": "Faction 907",
+      "base_location": "Location 907",
+      "player_id": 907
+    },
+    {
+      "faction_id": 908,
+      "name": "Faction 908",
+      "base_location": "Location 908",
+      "player_id": 908
+    },
+    {
+      "faction_id": 909,
+      "name": "Faction 909",
+      "base_location": "Location 909",
+      "player_id": 909
+    },
+    {
+      "faction_id": 910,
+      "name": "Faction 910",
+      "base_location": "Location 910",
+      "player_id": 910
+    },
+    {
+      "faction_id": 911,
+      "name": "Faction 911",
+      "base_location": "Location 911",
+      "player_id": 911
+    },
+    {
+      "faction_id": 912,
+      "name": "Faction 912",
+      "base_location": "Location 912",
+      "player_id": 912
+    },
+    {
+      "faction_id": 913,
+      "name": "Faction 913",
+      "base_location": "Location 913",
+      "player_id": 913
+    },
+    {
+      "faction_id": 914,
+      "name": "Faction 914",
+      "base_location": "Location 914",
+      "player_id": 914
+    },
+    {
+      "faction_id": 915,
+      "name": "Faction 915",
+      "base_location": "Location 915",
+      "player_id": 915
+    },
+    {
+      "faction_id": 916,
+      "name": "Faction 916",
+      "base_location": "Location 916",
+      "player_id": 916
+    },
+    {
+      "faction_id": 917,
+      "name": "Faction 917",
+      "base_location": "Location 917",
+      "player_id": 917
+    },
+    {
+      "faction_id": 918,
+      "name": "Faction 918",
+      "base_location": "Location 918",
+      "player_id": 918
+    },
+    {
+      "faction_id": 919,
+      "name": "Faction 919",
+      "base_location": "Location 919",
+      "player_id": 919
+    },
+    {
+      "faction_id": 920,
+      "name": "Faction 920",
+      "base_location": "Location 920",
+      "player_id": 920
+    },
+    {
+      "faction_id": 921,
+      "name": "Faction 921",
+      "base_location": "Location 921",
+      "player_id": 921
+    },
+    {
+      "faction_id": 922,
+      "name": "Faction 922",
+      "base_location": "Location 922",
+      "player_id": 922
+    },
+    {
+      "faction_id": 923,
+      "name": "Faction 923",
+      "base_location": "Location 923",
+      "player_id": 923
+    },
+    {
+      "faction_id": 924,
+      "name": "Faction 924",
+      "base_location": "Location 924",
+      "player_id": 924
+    },
+    {
+      "faction_id": 925,
+      "name": "Faction 925",
+      "base_location": "Location 925",
+      "player_id": 925
+    },
+    {
+      "faction_id": 926,
+      "name": "Faction 926",
+      "base_location": "Location 926",
+      "player_id": 926
+    },
+    {
+      "faction_id": 927,
+      "name": "Faction 927",
+      "base_location": "Location 927",
+      "player_id": 927
+    },
+    {
+      "faction_id": 928,
+      "name": "Faction 928",
+      "base_location": "Location 928",
+      "player_id": 928
+    },
+    {
+      "faction_id": 929,
+      "name": "Faction 929",
+      "base_location": "Location 929",
+      "player_id": 929
+    },
+    {
+      "faction_id": 930,
+      "name": "Faction 930",
+      "base_location": "Location 930",
+      "player_id": 930
+    },
+    {
+      "faction_id": 931,
+      "name": "Faction 931",
+      "base_location": "Location 931",
+      "player_id": 931
+    },
+    {
+      "faction_id": 932,
+      "name": "Faction 932",
+      "base_location": "Location 932",
+      "player_id": 932
+    },
+    {
+      "faction_id": 933,
+      "name": "Faction 933",
+      "base_location": "Location 933",
+      "player_id": 933
+    },
+    {
+      "faction_id": 934,
+      "name": "Faction 934",
+      "base_location": "Location 934",
+      "player_id": 934
+    },
+    {
+      "faction_id": 935,
+      "name": "Faction 935",
+      "base_location": "Location 935",
+      "player_id": 935
+    },
+    {
+      "faction_id": 936,
+      "name": "Faction 936",
+      "base_location": "Location 936",
+      "player_id": 936
+    },
+    {
+      "faction_id": 937,
+      "name": "Faction 937",
+      "base_location": "Location 937",
+      "player_id": 937
+    },
+    {
+      "faction_id": 938,
+      "name": "Faction 938",
+      "base_location": "Location 938",
+      "player_id": 938
+    },
+    {
+      "faction_id": 939,
+      "name": "Faction 939",
+      "base_location": "Location 939",
+      "player_id": 939
+    },
+    {
+      "faction_id": 940,
+      "name": "Faction 940",
+      "base_location": "Location 940",
+      "player_id": 940
+    },
+    {
+      "faction_id": 941,
+      "name": "Faction 941",
+      "base_location": "Location 941",
+      "player_id": 941
+    },
+    {
+      "faction_id": 942,
+      "name": "Faction 942",
+      "base_location": "Location 942",
+      "player_id": 942
+    },
+    {
+      "faction_id": 943,
+      "name": "Faction 943",
+      "base_location": "Location 943",
+      "player_id": 943
+    },
+    {
+      "faction_id": 944,
+      "name": "Faction 944",
+      "base_location": "Location 944",
+      "player_id": 944
+    },
+    {
+      "faction_id": 945,
+      "name": "Faction 945",
+      "base_location": "Location 945",
+      "player_id": 945
+    },
+    {
+      "faction_id": 946,
+      "name": "Faction 946",
+      "base_location": "Location 946",
+      "player_id": 946
+    },
+    {
+      "faction_id": 947,
+      "name": "Faction 947",
+      "base_location": "Location 947",
+      "player_id": 947
+    },
+    {
+      "faction_id": 948,
+      "name": "Faction 948",
+      "base_location": "Location 948",
+      "player_id": 948
+    },
+    {
+      "faction_id": 949,
+      "name": "Faction 949",
+      "base_location": "Location 949",
+      "player_id": 949
+    },
+    {
+      "faction_id": 950,
+      "name": "Faction 950",
+      "base_location": "Location 950",
+      "player_id": 950
+    },
+    {
+      "faction_id": 951,
+      "name": "Faction 951",
+      "base_location": "Location 951",
+      "player_id": 951
+    },
+    {
+      "faction_id": 952,
+      "name": "Faction 952",
+      "base_location": "Location 952",
+      "player_id": 952
+    },
+    {
+      "faction_id": 953,
+      "name": "Faction 953",
+      "base_location": "Location 953",
+      "player_id": 953
+    },
+    {
+      "faction_id": 954,
+      "name": "Faction 954",
+      "base_location": "Location 954",
+      "player_id": 954
+    },
+    {
+      "faction_id": 955,
+      "name": "Faction 955",
+      "base_location": "Location 955",
+      "player_id": 955
+    },
+    {
+      "faction_id": 956,
+      "name": "Faction 956",
+      "base_location": "Location 956",
+      "player_id": 956
+    },
+    {
+      "faction_id": 957,
+      "name": "Faction 957",
+      "base_location": "Location 957",
+      "player_id": 957
+    },
+    {
+      "faction_id": 958,
+      "name": "Faction 958",
+      "base_location": "Location 958",
+      "player_id": 958
+    },
+    {
+      "faction_id": 959,
+      "name": "Faction 959",
+      "base_location": "Location 959",
+      "player_id": 959
+    },
+    {
+      "faction_id": 960,
+      "name": "Faction 960",
+      "base_location": "Location 960",
+      "player_id": 960
+    },
+    {
+      "faction_id": 961,
+      "name": "Faction 961",
+      "base_location": "Location 961",
+      "player_id": 961
+    },
+    {
+      "faction_id": 962,
+      "name": "Faction 962",
+      "base_location": "Location 962",
+      "player_id": 962
+    },
+    {
+      "faction_id": 963,
+      "name": "Faction 963",
+      "base_location": "Location 963",
+      "player_id": 963
+    },
+    {
+      "faction_id": 964,
+      "name": "Faction 964",
+      "base_location": "Location 964",
+      "player_id": 964
+    },
+    {
+      "faction_id": 965,
+      "name": "Faction 965",
+      "base_location": "Location 965",
+      "player_id": 965
+    },
+    {
+      "faction_id": 966,
+      "name": "Faction 966",
+      "base_location": "Location 966",
+      "player_id": 966
+    },
+    {
+      "faction_id": 967,
+      "name": "Faction 967",
+      "base_location": "Location 967",
+      "player_id": 967
+    },
+    {
+      "faction_id": 968,
+      "name": "Faction 968",
+      "base_location": "Location 968",
+      "player_id": 968
+    },
+    {
+      "faction_id": 969,
+      "name": "Faction 969",
+      "base_location": "Location 969",
+      "player_id": 969
+    },
+    {
+      "faction_id": 970,
+      "name": "Faction 970",
+      "base_location": "Location 970",
+      "player_id": 970
+    },
+    {
+      "faction_id": 971,
+      "name": "Faction 971",
+      "base_location": "Location 971",
+      "player_id": 971
+    },
+    {
+      "faction_id": 972,
+      "name": "Faction 972",
+      "base_location": "Location 972",
+      "player_id": 972
+    },
+    {
+      "faction_id": 973,
+      "name": "Faction 973",
+      "base_location": "Location 973",
+      "player_id": 973
+    },
+    {
+      "faction_id": 974,
+      "name": "Faction 974",
+      "base_location": "Location 974",
+      "player_id": 974
+    },
+    {
+      "faction_id": 975,
+      "name": "Faction 975",
+      "base_location": "Location 975",
+      "player_id": 975
+    },
+    {
+      "faction_id": 976,
+      "name": "Faction 976",
+      "base_location": "Location 976",
+      "player_id": 976
+    },
+    {
+      "faction_id": 977,
+      "name": "Faction 977",
+      "base_location": "Location 977",
+      "player_id": 977
+    },
+    {
+      "faction_id": 978,
+      "name": "Faction 978",
+      "base_location": "Location 978",
+      "player_id": 978
+    },
+    {
+      "faction_id": 979,
+      "name": "Faction 979",
+      "base_location": "Location 979",
+      "player_id": 979
+    },
+    {
+      "faction_id": 980,
+      "name": "Faction 980",
+      "base_location": "Location 980",
+      "player_id": 980
+    },
+    {
+      "faction_id": 981,
+      "name": "Faction 981",
+      "base_location": "Location 981",
+      "player_id": 981
+    },
+    {
+      "faction_id": 982,
+      "name": "Faction 982",
+      "base_location": "Location 982",
+      "player_id": 982
+    },
+    {
+      "faction_id": 983,
+      "name": "Faction 983",
+      "base_location": "Location 983",
+      "player_id": 983
+    },
+    {
+      "faction_id": 984,
+      "name": "Faction 984",
+      "base_location": "Location 984",
+      "player_id": 984
+    },
+    {
+      "faction_id": 985,
+      "name": "Faction 985",
+      "base_location": "Location 985",
+      "player_id": 985
+    },
+    {
+      "faction_id": 986,
+      "name": "Faction 986",
+      "base_location": "Location 986",
+      "player_id": 986
+    },
+    {
+      "faction_id": 987,
+      "name": "Faction 987",
+      "base_location": "Location 987",
+      "player_id": 987
+    },
+    {
+      "faction_id": 988,
+      "name": "Faction 988",
+      "base_location": "Location 988",
+      "player_id": 988
+    },
+    {
+      "faction_id": 989,
+      "name": "Faction 989",
+      "base_location": "Location 989",
+      "player_id": 989
+    },
+    {
+      "faction_id": 990,
+      "name": "Faction 990",
+      "base_location": "Location 990",
+      "player_id": 990
+    },
+    {
+      "faction_id": 991,
+      "name": "Faction 991",
+      "base_location": "Location 991",
+      "player_id": 991
+    },
+    {
+      "faction_id": 992,
+      "name": "Faction 992",
+      "base_location": "Location 992",
+      "player_id": 992
+    },
+    {
+      "faction_id": 993,
+      "name": "Faction 993",
+      "base_location": "Location 993",
+      "player_id": 993
+    },
+    {
+      "faction_id": 994,
+      "name": "Faction 994",
+      "base_location": "Location 994",
+      "player_id": 994
+    },
+    {
+      "faction_id": 995,
+      "name": "Faction 995",
+      "base_location": "Location 995",
+      "player_id": 995
+    },
+    {
+      "faction_id": 996,
+      "name": "Faction 996",
+      "base_location": "Location 996",
+      "player_id": 996
+    },
+    {
+      "faction_id": 997,
+      "name": "Faction 997",
+      "base_location": "Location 997",
+      "player_id": 997
+    },
+    {
+      "faction_id": 998,
+      "name": "Faction 998",
+      "base_location": "Location 998",
+      "player_id": 998
+    },
+    {
+      "faction_id": 999,
+      "name": "Faction 999",
+      "base_location": "Location 999",
+      "player_id": 999
+    },
+    {
+      "faction_id": 1000,
+      "name": "Faction 1000",
+      "base_location": "Location 1000",
+      "player_id": 1000
+    }
+  ]
+}

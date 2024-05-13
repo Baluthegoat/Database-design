@@ -1,0 +1,8004 @@
+{
+  "buildings": [
+    {
+      "building_id": 1,
+      "name": "Building 1",
+      "damage": 88,
+      "hp": 780,
+      "type": "Farm",
+      "base_id": 600
+    },
+    {
+      "building_id": 2,
+      "name": "Building 2",
+      "damage": 93,
+      "hp": 1752,
+      "type": "Barracks",
+      "base_id": 976
+    },
+    {
+      "building_id": 3,
+      "name": "Building 3",
+      "damage": 60,
+      "hp": 1755,
+      "type": "Farm",
+      "base_id": 990
+    },
+    {
+      "building_id": 4,
+      "name": "Building 4",
+      "damage": 57,
+      "hp": 1460,
+      "type": "Tower",
+      "base_id": 612
+    },
+    {
+      "building_id": 5,
+      "name": "Building 5",
+      "damage": 12,
+      "hp": 697,
+      "type": "Farm",
+      "base_id": 657
+    },
+    {
+      "building_id": 6,
+      "name": "Building 6",
+      "damage": 29,
+      "hp": 1740,
+      "type": "Town Hall",
+      "base_id": 838
+    },
+    {
+      "building_id": 7,
+      "name": "Building 7",
+      "damage": 49,
+      "hp": 731,
+      "type": "Tower",
+      "base_id": 625
+    },
+    {
+      "building_id": 8,
+      "name": "Building 8",
+      "damage": 34,
+      "hp": 1887,
+      "type": "Barracks",
+      "base_id": 911
+    },
+    {
+      "building_id": 9,
+      "name": "Building 9",
+      "damage": 73,
+      "hp": 962,
+      "type": "Barracks",
+      "base_id": 479
+    },
+    {
+      "building_id": 10,
+      "name": "Building 10",
+      "damage": 20,
+      "hp": 1627,
+      "type": "Barracks",
+      "base_id": 674
+    },
+    {
+      "building_id": 11,
+      "name": "Building 11",
+      "damage": 69,
+      "hp": 661,
+      "type": "Town Hall",
+      "base_id": 492
+    },
+    {
+      "building_id": 12,
+      "name": "Building 12",
+      "damage": 13,
+      "hp": 1101,
+      "type": "Tower",
+      "base_id": 873
+    },
+    {
+      "building_id": 13,
+      "name": "Building 13",
+      "damage": 79,
+      "hp": 1981,
+      "type": "Barracks",
+      "base_id": 343
+    },
+    {
+      "building_id": 14,
+      "name": "Building 14",
+      "damage": 94,
+      "hp": 1265,
+      "type": "Tower",
+      "base_id": 959
+    },
+    {
+      "building_id": 15,
+      "name": "Building 15",
+      "damage": 23,
+      "hp": 906,
+      "type": "Town Hall",
+      "base_id": 154
+    },
+    {
+      "building_id": 16,
+      "name": "Building 16",
+      "damage": 31,
+      "hp": 750,
+      "type": "Barracks",
+      "base_id": 302
+    },
+    {
+      "building_id": 17,
+      "name": "Building 17",
+      "damage": 43,
+      "hp": 687,
+      "type": "Town Hall",
+      "base_id": 435
+    },
+    {
+      "building_id": 18,
+      "name": "Building 18",
+      "damage": 95,
+      "hp": 1700,
+      "type": "Farm",
+      "base_id": 291
+    },
+    {
+      "building_id": 19,
+      "name": "Building 19",
+      "damage": 18,
+      "hp": 1366,
+      "type": "Barracks",
+      "base_id": 916
+    },
+    {
+      "building_id": 20,
+      "name": "Building 20",
+      "damage": 76,
+      "hp": 1891,
+      "type": "Farm",
+      "base_id": 743
+    },
+    {
+      "building_id": 21,
+      "name": "Building 21",
+      "damage": 55,
+      "hp": 1630,
+      "type": "Tower",
+      "base_id": 676
+    },
+    {
+      "building_id": 22,
+      "name": "Building 22",
+      "damage": 23,
+      "hp": 1758,
+      "type": "Town Hall",
+      "base_id": 264
+    },
+    {
+      "building_id": 23,
+      "name": "Building 23",
+      "damage": 72,
+      "hp": 878,
+      "type": "Town Hall",
+      "base_id": 661
+    },
+    {
+      "building_id": 24,
+      "name": "Building 24",
+      "damage": 74,
+      "hp": 1814,
+      "type": "Barracks",
+      "base_id": 13
+    },
+    {
+      "building_id": 25,
+      "name": "Building 25",
+      "damage": 33,
+      "hp": 625,
+      "type": "Barracks",
+      "base_id": 369
+    },
+    {
+      "building_id": 26,
+      "name": "Building 26",
+      "damage": 10,
+      "hp": 1515,
+      "type": "Farm",
+      "base_id": 803
+    },
+    {
+      "building_id": 27,
+      "name": "Building 27",
+      "damage": 31,
+      "hp": 1075,
+      "type": "Farm",
+      "base_id": 636
+    },
+    {
+      "building_id": 28,
+      "name": "Building 28",
+      "damage": 79,
+      "hp": 856,
+      "type": "Barracks",
+      "base_id": 700
+    },
+    {
+      "building_id": 29,
+      "name": "Building 29",
+      "damage": 65,
+      "hp": 1007,
+      "type": "Town Hall",
+      "base_id": 137
+    },
+    {
+      "building_id": 30,
+      "name": "Building 30",
+      "damage": 70,
+      "hp": 1291,
+      "type": "Farm",
+      "base_id": 907
+    },
+    {
+      "building_id": 31,
+      "name": "Building 31",
+      "damage": 91,
+      "hp": 664,
+      "type": "Tower",
+      "base_id": 670
+    },
+    {
+      "building_id": 32,
+      "name": "Building 32",
+      "damage": 54,
+      "hp": 970,
+      "type": "Town Hall",
+      "base_id": 638
+    },
+    {
+      "building_id": 33,
+      "name": "Building 33",
+      "damage": 35,
+      "hp": 1047,
+      "type": "Barracks",
+      "base_id": 67
+    },
+    {
+      "building_id": 34,
+      "name": "Building 34",
+      "damage": 58,
+      "hp": 567,
+      "type": "Tower",
+      "base_id": 748
+    },
+    {
+      "building_id": 35,
+      "name": "Building 35",
+      "damage": 79,
+      "hp": 1196,
+      "type": "Tower",
+      "base_id": 906
+    },
+    {
+      "building_id": 36,
+      "name": "Building 36",
+      "damage": 17,
+      "hp": 1368,
+      "type": "Town Hall",
+      "base_id": 519
+    },
+    {
+      "building_id": 37,
+      "name": "Building 37",
+      "damage": 62,
+      "hp": 756,
+      "type": "Tower",
+      "base_id": 981
+    },
+    {
+      "building_id": 38,
+      "name": "Building 38",
+      "damage": 93,
+      "hp": 1444,
+      "type": "Farm",
+      "base_id": 470
+    },
+    {
+      "building_id": 39,
+      "name": "Building 39",
+      "damage": 53,
+      "hp": 1001,
+      "type": "Farm",
+      "base_id": 456
+    },
+    {
+      "building_id": 40,
+      "name": "Building 40",
+      "damage": 24,
+      "hp": 783,
+      "type": "Town Hall",
+      "base_id": 690
+    },
+    {
+      "building_id": 41,
+      "name": "Building 41",
+      "damage": 89,
+      "hp": 1308,
+      "type": "Barracks",
+      "base_id": 659
+    },
+    {
+      "building_id": 42,
+      "name": "Building 42",
+      "damage": 13,
+      "hp": 765,
+      "type": "Town Hall",
+      "base_id": 217
+    },
+    {
+      "building_id": 43,
+      "name": "Building 43",
+      "damage": 19,
+      "hp": 635,
+      "type": "Farm",
+      "base_id": 313
+    },
+    {
+      "building_id": 44,
+      "name": "Building 44",
+      "damage": 96,
+      "hp": 1388,
+      "type": "Farm",
+      "base_id": 785
+    },
+    {
+      "building_id": 45,
+      "name": "Building 45",
+      "damage": 97,
+      "hp": 556,
+      "type": "Farm",
+      "base_id": 826
+    },
+    {
+      "building_id": 46,
+      "name": "Building 46",
+      "damage": 59,
+      "hp": 834,
+      "type": "Tower",
+      "base_id": 702
+    },
+    {
+      "building_id": 47,
+      "name": "Building 47",
+      "damage": 54,
+      "hp": 1613,
+      "type": "Farm",
+      "base_id": 555
+    },
+    {
+      "building_id": 48,
+      "name": "Building 48",
+      "damage": 26,
+      "hp": 691,
+      "type": "Barracks",
+      "base_id": 981
+    },
+    {
+      "building_id": 49,
+      "name": "Building 49",
+      "damage": 43,
+      "hp": 988,
+      "type": "Tower",
+      "base_id": 259
+    },
+    {
+      "building_id": 50,
+      "name": "Building 50",
+      "damage": 11,
+      "hp": 1410,
+      "type": "Tower",
+      "base_id": 675
+    },
+    {
+      "building_id": 51,
+      "name": "Building 51",
+      "damage": 15,
+      "hp": 1680,
+      "type": "Tower",
+      "base_id": 539
+    },
+    {
+      "building_id": 52,
+      "name": "Building 52",
+      "damage": 45,
+      "hp": 1006,
+      "type": "Tower",
+      "base_id": 729
+    },
+    {
+      "building_id": 53,
+      "name": "Building 53",
+      "damage": 31,
+      "hp": 1947,
+      "type": "Farm",
+      "base_id": 254
+    },
+    {
+      "building_id": 54,
+      "name": "Building 54",
+      "damage": 95,
+      "hp": 1007,
+      "type": "Town Hall",
+      "base_id": 171
+    },
+    {
+      "building_id": 55,
+      "name": "Building 55",
+      "damage": 98,
+      "hp": 1295,
+      "type": "Farm",
+      "base_id": 21
+    },
+    {
+      "building_id": 56,
+      "name": "Building 56",
+      "damage": 35,
+      "hp": 1823,
+      "type": "Tower",
+      "base_id": 186
+    },
+    {
+      "building_id": 57,
+      "name": "Building 57",
+      "damage": 16,
+      "hp": 1426,
+      "type": "Tower",
+      "base_id": 616
+    },
+    {
+      "building_id": 58,
+      "name": "Building 58",
+      "damage": 37,
+      "hp": 1913,
+      "type": "Farm",
+      "base_id": 131
+    },
+    {
+      "building_id": 59,
+      "name": "Building 59",
+      "damage": 48,
+      "hp": 1720,
+      "type": "Tower",
+      "base_id": 587
+    },
+    {
+      "building_id": 60,
+      "name": "Building 60",
+      "damage": 13,
+      "hp": 577,
+      "type": "Tower",
+      "base_id": 38
+    },
+    {
+      "building_id": 61,
+      "name": "Building 61",
+      "damage": 92,
+      "hp": 1073,
+      "type": "Barracks",
+      "base_id": 366
+    },
+    {
+      "building_id": 62,
+      "name": "Building 62",
+      "damage": 56,
+      "hp": 1557,
+      "type": "Tower",
+      "base_id": 296
+    },
+    {
+      "building_id": 63,
+      "name": "Building 63",
+      "damage": 97,
+      "hp": 1896,
+      "type": "Tower",
+      "base_id": 915
+    },
+    {
+      "building_id": 64,
+      "name": "Building 64",
+      "damage": 55,
+      "hp": 1915,
+      "type": "Town Hall",
+      "base_id": 127
+    },
+    {
+      "building_id": 65,
+      "name": "Building 65",
+      "damage": 89,
+      "hp": 1512,
+      "type": "Barracks",
+      "base_id": 991
+    },
+    {
+      "building_id": 66,
+      "name": "Building 66",
+      "damage": 72,
+      "hp": 1103,
+      "type": "Farm",
+      "base_id": 188
+    },
+    {
+      "building_id": 67,
+      "name": "Building 67",
+      "damage": 51,
+      "hp": 776,
+      "type": "Town Hall",
+      "base_id": 379
+    },
+    {
+      "building_id": 68,
+      "name": "Building 68",
+      "damage": 81,
+      "hp": 1398,
+      "type": "Town Hall",
+      "base_id": 415
+    },
+    {
+      "building_id": 69,
+      "name": "Building 69",
+      "damage": 88,
+      "hp": 791,
+      "type": "Farm",
+      "base_id": 87
+    },
+    {
+      "building_id": 70,
+      "name": "Building 70",
+      "damage": 62,
+      "hp": 1285,
+      "type": "Farm",
+      "base_id": 900
+    },
+    {
+      "building_id": 71,
+      "name": "Building 71",
+      "damage": 82,
+      "hp": 1264,
+      "type": "Farm",
+      "base_id": 40
+    },
+    {
+      "building_id": 72,
+      "name": "Building 72",
+      "damage": 33,
+      "hp": 820,
+      "type": "Town Hall",
+      "base_id": 952
+    },
+    {
+      "building_id": 73,
+      "name": "Building 73",
+      "damage": 25,
+      "hp": 975,
+      "type": "Farm",
+      "base_id": 673
+    },
+    {
+      "building_id": 74,
+      "name": "Building 74",
+      "damage": 27,
+      "hp": 539,
+      "type": "Tower",
+      "base_id": 898
+    },
+    {
+      "building_id": 75,
+      "name": "Building 75",
+      "damage": 10,
+      "hp": 1328,
+      "type": "Barracks",
+      "base_id": 627
+    },
+    {
+      "building_id": 76,
+      "name": "Building 76",
+      "damage": 80,
+      "hp": 1042,
+      "type": "Farm",
+      "base_id": 747
+    },
+    {
+      "building_id": 77,
+      "name": "Building 77",
+      "damage": 61,
+      "hp": 1264,
+      "type": "Tower",
+      "base_id": 390
+    },
+    {
+      "building_id": 78,
+      "name": "Building 78",
+      "damage": 84,
+      "hp": 912,
+      "type": "Barracks",
+      "base_id": 267
+    },
+    {
+      "building_id": 79,
+      "name": "Building 79",
+      "damage": 10,
+      "hp": 826,
+      "type": "Town Hall",
+      "base_id": 638
+    },
+    {
+      "building_id": 80,
+      "name": "Building 80",
+      "damage": 49,
+      "hp": 1104,
+      "type": "Town Hall",
+      "base_id": 46
+    },
+    {
+      "building_id": 81,
+      "name": "Building 81",
+      "damage": 99,
+      "hp": 1465,
+      "type": "Town Hall",
+      "base_id": 542
+    },
+    {
+      "building_id": 82,
+      "name": "Building 82",
+      "damage": 67,
+      "hp": 1085,
+      "type": "Tower",
+      "base_id": 913
+    },
+    {
+      "building_id": 83,
+      "name": "Building 83",
+      "damage": 19,
+      "hp": 1559,
+      "type": "Barracks",
+      "base_id": 361
+    },
+    {
+      "building_id": 84,
+      "name": "Building 84",
+      "damage": 31,
+      "hp": 686,
+      "type": "Barracks",
+      "base_id": 981
+    },
+    {
+      "building_id": 85,
+      "name": "Building 85",
+      "damage": 81,
+      "hp": 538,
+      "type": "Farm",
+      "base_id": 105
+    },
+    {
+      "building_id": 86,
+      "name": "Building 86",
+      "damage": 15,
+      "hp": 1322,
+      "type": "Tower",
+      "base_id": 39
+    },
+    {
+      "building_id": 87,
+      "name": "Building 87",
+      "damage": 73,
+      "hp": 934,
+      "type": "Barracks",
+      "base_id": 425
+    },
+    {
+      "building_id": 88,
+      "name": "Building 88",
+      "damage": 86,
+      "hp": 1111,
+      "type": "Barracks",
+      "base_id": 398
+    },
+    {
+      "building_id": 89,
+      "name": "Building 89",
+      "damage": 93,
+      "hp": 841,
+      "type": "Barracks",
+      "base_id": 460
+    },
+    {
+      "building_id": 90,
+      "name": "Building 90",
+      "damage": 65,
+      "hp": 816,
+      "type": "Farm",
+      "base_id": 891
+    },
+    {
+      "building_id": 91,
+      "name": "Building 91",
+      "damage": 74,
+      "hp": 1638,
+      "type": "Farm",
+      "base_id": 147
+    },
+    {
+      "building_id": 92,
+      "name": "Building 92",
+      "damage": 66,
+      "hp": 1487,
+      "type": "Farm",
+      "base_id": 594
+    },
+    {
+      "building_id": 93,
+      "name": "Building 93",
+      "damage": 30,
+      "hp": 773,
+      "type": "Tower",
+      "base_id": 693
+    },
+    {
+      "building_id": 94,
+      "name": "Building 94",
+      "damage": 52,
+      "hp": 1693,
+      "type": "Town Hall",
+      "base_id": 110
+    },
+    {
+      "building_id": 95,
+      "name": "Building 95",
+      "damage": 28,
+      "hp": 1138,
+      "type": "Barracks",
+      "base_id": 523
+    },
+    {
+      "building_id": 96,
+      "name": "Building 96",
+      "damage": 26,
+      "hp": 1970,
+      "type": "Farm",
+      "base_id": 195
+    },
+    {
+      "building_id": 97,
+      "name": "Building 97",
+      "damage": 60,
+      "hp": 1393,
+      "type": "Town Hall",
+      "base_id": 465
+    },
+    {
+      "building_id": 98,
+      "name": "Building 98",
+      "damage": 65,
+      "hp": 643,
+      "type": "Barracks",
+      "base_id": 68
+    },
+    {
+      "building_id": 99,
+      "name": "Building 99",
+      "damage": 38,
+      "hp": 714,
+      "type": "Tower",
+      "base_id": 365
+    },
+    {
+      "building_id": 100,
+      "name": "Building 100",
+      "damage": 59,
+      "hp": 851,
+      "type": "Tower",
+      "base_id": 563
+    },
+    {
+      "building_id": 101,
+      "name": "Building 101",
+      "damage": 99,
+      "hp": 1191,
+      "type": "Town Hall",
+      "base_id": 847
+    },
+    {
+      "building_id": 102,
+      "name": "Building 102",
+      "damage": 61,
+      "hp": 1705,
+      "type": "Barracks",
+      "base_id": 225
+    },
+    {
+      "building_id": 103,
+      "name": "Building 103",
+      "damage": 74,
+      "hp": 1494,
+      "type": "Tower",
+      "base_id": 150
+    },
+    {
+      "building_id": 104,
+      "name": "Building 104",
+      "damage": 63,
+      "hp": 1965,
+      "type": "Town Hall",
+      "base_id": 479
+    },
+    {
+      "building_id": 105,
+      "name": "Building 105",
+      "damage": 31,
+      "hp": 1773,
+      "type": "Barracks",
+      "base_id": 86
+    },
+    {
+      "building_id": 106,
+      "name": "Building 106",
+      "damage": 79,
+      "hp": 602,
+      "type": "Town Hall",
+      "base_id": 765
+    },
+    {
+      "building_id": 107,
+      "name": "Building 107",
+      "damage": 38,
+      "hp": 1291,
+      "type": "Farm",
+      "base_id": 582
+    },
+    {
+      "building_id": 108,
+      "name": "Building 108",
+      "damage": 97,
+      "hp": 1639,
+      "type": "Town Hall",
+      "base_id": 405
+    },
+    {
+      "building_id": 109,
+      "name": "Building 109",
+      "damage": 17,
+      "hp": 986,
+      "type": "Tower",
+      "base_id": 389
+    },
+    {
+      "building_id": 110,
+      "name": "Building 110",
+      "damage": 86,
+      "hp": 1540,
+      "type": "Farm",
+      "base_id": 991
+    },
+    {
+      "building_id": 111,
+      "name": "Building 111",
+      "damage": 48,
+      "hp": 1486,
+      "type": "Tower",
+      "base_id": 724
+    },
+    {
+      "building_id": 112,
+      "name": "Building 112",
+      "damage": 52,
+      "hp": 1234,
+      "type": "Town Hall",
+      "base_id": 944
+    },
+    {
+      "building_id": 113,
+      "name": "Building 113",
+      "damage": 33,
+      "hp": 1136,
+      "type": "Farm",
+      "base_id": 94
+    },
+    {
+      "building_id": 114,
+      "name": "Building 114",
+      "damage": 89,
+      "hp": 1760,
+      "type": "Town Hall",
+      "base_id": 268
+    },
+    {
+      "building_id": 115,
+      "name": "Building 115",
+      "damage": 82,
+      "hp": 1946,
+      "type": "Town Hall",
+      "base_id": 847
+    },
+    {
+      "building_id": 116,
+      "name": "Building 116",
+      "damage": 17,
+      "hp": 1689,
+      "type": "Farm",
+      "base_id": 658
+    },
+    {
+      "building_id": 117,
+      "name": "Building 117",
+      "damage": 76,
+      "hp": 1042,
+      "type": "Town Hall",
+      "base_id": 202
+    },
+    {
+      "building_id": 118,
+      "name": "Building 118",
+      "damage": 40,
+      "hp": 1038,
+      "type": "Farm",
+      "base_id": 169
+    },
+    {
+      "building_id": 119,
+      "name": "Building 119",
+      "damage": 67,
+      "hp": 1083,
+      "type": "Tower",
+      "base_id": 1000
+    },
+    {
+      "building_id": 120,
+      "name": "Building 120",
+      "damage": 60,
+      "hp": 1570,
+      "type": "Barracks",
+      "base_id": 483
+    },
+    {
+      "building_id": 121,
+      "name": "Building 121",
+      "damage": 29,
+      "hp": 561,
+      "type": "Tower",
+      "base_id": 122
+    },
+    {
+      "building_id": 122,
+      "name": "Building 122",
+      "damage": 20,
+      "hp": 1954,
+      "type": "Farm",
+      "base_id": 949
+    },
+    {
+      "building_id": 123,
+      "name": "Building 123",
+      "damage": 58,
+      "hp": 1663,
+      "type": "Farm",
+      "base_id": 344
+    },
+    {
+      "building_id": 124,
+      "name": "Building 124",
+      "damage": 99,
+      "hp": 1244,
+      "type": "Farm",
+      "base_id": 106
+    },
+    {
+      "building_id": 125,
+      "name": "Building 125",
+      "damage": 88,
+      "hp": 1543,
+      "type": "Farm",
+      "base_id": 895
+    },
+    {
+      "building_id": 126,
+      "name": "Building 126",
+      "damage": 23,
+      "hp": 765,
+      "type": "Farm",
+      "base_id": 759
+    },
+    {
+      "building_id": 127,
+      "name": "Building 127",
+      "damage": 90,
+      "hp": 1062,
+      "type": "Tower",
+      "base_id": 176
+    },
+    {
+      "building_id": 128,
+      "name": "Building 128",
+      "damage": 14,
+      "hp": 1932,
+      "type": "Farm",
+      "base_id": 429
+    },
+    {
+      "building_id": 129,
+      "name": "Building 129",
+      "damage": 53,
+      "hp": 1464,
+      "type": "Tower",
+      "base_id": 68
+    },
+    {
+      "building_id": 130,
+      "name": "Building 130",
+      "damage": 70,
+      "hp": 878,
+      "type": "Town Hall",
+      "base_id": 622
+    },
+    {
+      "building_id": 131,
+      "name": "Building 131",
+      "damage": 47,
+      "hp": 1158,
+      "type": "Barracks",
+      "base_id": 332
+    },
+    {
+      "building_id": 132,
+      "name": "Building 132",
+      "damage": 95,
+      "hp": 1453,
+      "type": "Town Hall",
+      "base_id": 838
+    },
+    {
+      "building_id": 133,
+      "name": "Building 133",
+      "damage": 93,
+      "hp": 1207,
+      "type": "Barracks",
+      "base_id": 896
+    },
+    {
+      "building_id": 134,
+      "name": "Building 134",
+      "damage": 22,
+      "hp": 1093,
+      "type": "Barracks",
+      "base_id": 35
+    },
+    {
+      "building_id": 135,
+      "name": "Building 135",
+      "damage": 91,
+      "hp": 1929,
+      "type": "Tower",
+      "base_id": 500
+    },
+    {
+      "building_id": 136,
+      "name": "Building 136",
+      "damage": 36,
+      "hp": 1116,
+      "type": "Tower",
+      "base_id": 678
+    },
+    {
+      "building_id": 137,
+      "name": "Building 137",
+      "damage": 95,
+      "hp": 1577,
+      "type": "Tower",
+      "base_id": 83
+    },
+    {
+      "building_id": 138,
+      "name": "Building 138",
+      "damage": 94,
+      "hp": 1729,
+      "type": "Barracks",
+      "base_id": 585
+    },
+    {
+      "building_id": 139,
+      "name": "Building 139",
+      "damage": 90,
+      "hp": 1998,
+      "type": "Barracks",
+      "base_id": 18
+    },
+    {
+      "building_id": 140,
+      "name": "Building 140",
+      "damage": 98,
+      "hp": 1173,
+      "type": "Barracks",
+      "base_id": 199
+    },
+    {
+      "building_id": 141,
+      "name": "Building 141",
+      "damage": 78,
+      "hp": 1989,
+      "type": "Town Hall",
+      "base_id": 100
+    },
+    {
+      "building_id": 142,
+      "name": "Building 142",
+      "damage": 20,
+      "hp": 1186,
+      "type": "Town Hall",
+      "base_id": 982
+    },
+    {
+      "building_id": 143,
+      "name": "Building 143",
+      "damage": 77,
+      "hp": 1866,
+      "type": "Tower",
+      "base_id": 86
+    },
+    {
+      "building_id": 144,
+      "name": "Building 144",
+      "damage": 64,
+      "hp": 611,
+      "type": "Farm",
+      "base_id": 48
+    },
+    {
+      "building_id": 145,
+      "name": "Building 145",
+      "damage": 93,
+      "hp": 769,
+      "type": "Tower",
+      "base_id": 624
+    },
+    {
+      "building_id": 146,
+      "name": "Building 146",
+      "damage": 25,
+      "hp": 985,
+      "type": "Town Hall",
+      "base_id": 651
+    },
+    {
+      "building_id": 147,
+      "name": "Building 147",
+      "damage": 66,
+      "hp": 1185,
+      "type": "Barracks",
+      "base_id": 397
+    },
+    {
+      "building_id": 148,
+      "name": "Building 148",
+      "damage": 42,
+      "hp": 953,
+      "type": "Barracks",
+      "base_id": 743
+    },
+    {
+      "building_id": 149,
+      "name": "Building 149",
+      "damage": 60,
+      "hp": 1976,
+      "type": "Barracks",
+      "base_id": 539
+    },
+    {
+      "building_id": 150,
+      "name": "Building 150",
+      "damage": 79,
+      "hp": 1587,
+      "type": "Tower",
+      "base_id": 658
+    },
+    {
+      "building_id": 151,
+      "name": "Building 151",
+      "damage": 85,
+      "hp": 1877,
+      "type": "Barracks",
+      "base_id": 63
+    },
+    {
+      "building_id": 152,
+      "name": "Building 152",
+      "damage": 90,
+      "hp": 1106,
+      "type": "Farm",
+      "base_id": 283
+    },
+    {
+      "building_id": 153,
+      "name": "Building 153",
+      "damage": 48,
+      "hp": 605,
+      "type": "Farm",
+      "base_id": 434
+    },
+    {
+      "building_id": 154,
+      "name": "Building 154",
+      "damage": 95,
+      "hp": 1183,
+      "type": "Tower",
+      "base_id": 758
+    },
+    {
+      "building_id": 155,
+      "name": "Building 155",
+      "damage": 63,
+      "hp": 950,
+      "type": "Tower",
+      "base_id": 416
+    },
+    {
+      "building_id": 156,
+      "name": "Building 156",
+      "damage": 74,
+      "hp": 586,
+      "type": "Barracks",
+      "base_id": 659
+    },
+    {
+      "building_id": 157,
+      "name": "Building 157",
+      "damage": 81,
+      "hp": 692,
+      "type": "Barracks",
+      "base_id": 148
+    },
+    {
+      "building_id": 158,
+      "name": "Building 158",
+      "damage": 63,
+      "hp": 1470,
+      "type": "Barracks",
+      "base_id": 930
+    },
+    {
+      "building_id": 159,
+      "name": "Building 159",
+      "damage": 45,
+      "hp": 1923,
+      "type": "Town Hall",
+      "base_id": 748
+    },
+    {
+      "building_id": 160,
+      "name": "Building 160",
+      "damage": 32,
+      "hp": 1681,
+      "type": "Town Hall",
+      "base_id": 782
+    },
+    {
+      "building_id": 161,
+      "name": "Building 161",
+      "damage": 66,
+      "hp": 1335,
+      "type": "Farm",
+      "base_id": 796
+    },
+    {
+      "building_id": 162,
+      "name": "Building 162",
+      "damage": 34,
+      "hp": 525,
+      "type": "Town Hall",
+      "base_id": 864
+    },
+    {
+      "building_id": 163,
+      "name": "Building 163",
+      "damage": 82,
+      "hp": 1460,
+      "type": "Town Hall",
+      "base_id": 135
+    },
+    {
+      "building_id": 164,
+      "name": "Building 164",
+      "damage": 87,
+      "hp": 1911,
+      "type": "Town Hall",
+      "base_id": 793
+    },
+    {
+      "building_id": 165,
+      "name": "Building 165",
+      "damage": 97,
+      "hp": 792,
+      "type": "Tower",
+      "base_id": 97
+    },
+    {
+      "building_id": 166,
+      "name": "Building 166",
+      "damage": 28,
+      "hp": 580,
+      "type": "Town Hall",
+      "base_id": 584
+    },
+    {
+      "building_id": 167,
+      "name": "Building 167",
+      "damage": 55,
+      "hp": 1472,
+      "type": "Farm",
+      "base_id": 502
+    },
+    {
+      "building_id": 168,
+      "name": "Building 168",
+      "damage": 19,
+      "hp": 901,
+      "type": "Tower",
+      "base_id": 329
+    },
+    {
+      "building_id": 169,
+      "name": "Building 169",
+      "damage": 70,
+      "hp": 565,
+      "type": "Barracks",
+      "base_id": 586
+    },
+    {
+      "building_id": 170,
+      "name": "Building 170",
+      "damage": 79,
+      "hp": 1876,
+      "type": "Farm",
+      "base_id": 914
+    },
+    {
+      "building_id": 171,
+      "name": "Building 171",
+      "damage": 10,
+      "hp": 940,
+      "type": "Tower",
+      "base_id": 831
+    },
+    {
+      "building_id": 172,
+      "name": "Building 172",
+      "damage": 63,
+      "hp": 1669,
+      "type": "Farm",
+      "base_id": 647
+    },
+    {
+      "building_id": 173,
+      "name": "Building 173",
+      "damage": 62,
+      "hp": 544,
+      "type": "Tower",
+      "base_id": 955
+    },
+    {
+      "building_id": 174,
+      "name": "Building 174",
+      "damage": 27,
+      "hp": 1964,
+      "type": "Tower",
+      "base_id": 667
+    },
+    {
+      "building_id": 175,
+      "name": "Building 175",
+      "damage": 14,
+      "hp": 1249,
+      "type": "Barracks",
+      "base_id": 451
+    },
+    {
+      "building_id": 176,
+      "name": "Building 176",
+      "damage": 85,
+      "hp": 1926,
+      "type": "Tower",
+      "base_id": 410
+    },
+    {
+      "building_id": 177,
+      "name": "Building 177",
+      "damage": 20,
+      "hp": 1457,
+      "type": "Town Hall",
+      "base_id": 827
+    },
+    {
+      "building_id": 178,
+      "name": "Building 178",
+      "damage": 67,
+      "hp": 1775,
+      "type": "Farm",
+      "base_id": 686
+    },
+    {
+      "building_id": 179,
+      "name": "Building 179",
+      "damage": 99,
+      "hp": 714,
+      "type": "Tower",
+      "base_id": 457
+    },
+    {
+      "building_id": 180,
+      "name": "Building 180",
+      "damage": 24,
+      "hp": 993,
+      "type": "Town Hall",
+      "base_id": 774
+    },
+    {
+      "building_id": 181,
+      "name": "Building 181",
+      "damage": 13,
+      "hp": 1016,
+      "type": "Barracks",
+      "base_id": 666
+    },
+    {
+      "building_id": 182,
+      "name": "Building 182",
+      "damage": 36,
+      "hp": 1846,
+      "type": "Tower",
+      "base_id": 59
+    },
+    {
+      "building_id": 183,
+      "name": "Building 183",
+      "damage": 10,
+      "hp": 1340,
+      "type": "Town Hall",
+      "base_id": 820
+    },
+    {
+      "building_id": 184,
+      "name": "Building 184",
+      "damage": 38,
+      "hp": 1640,
+      "type": "Barracks",
+      "base_id": 535
+    },
+    {
+      "building_id": 185,
+      "name": "Building 185",
+      "damage": 90,
+      "hp": 1913,
+      "type": "Tower",
+      "base_id": 895
+    },
+    {
+      "building_id": 186,
+      "name": "Building 186",
+      "damage": 78,
+      "hp": 1849,
+      "type": "Barracks",
+      "base_id": 282
+    },
+    {
+      "building_id": 187,
+      "name": "Building 187",
+      "damage": 88,
+      "hp": 509,
+      "type": "Town Hall",
+      "base_id": 709
+    },
+    {
+      "building_id": 188,
+      "name": "Building 188",
+      "damage": 65,
+      "hp": 938,
+      "type": "Farm",
+      "base_id": 768
+    },
+    {
+      "building_id": 189,
+      "name": "Building 189",
+      "damage": 66,
+      "hp": 1456,
+      "type": "Town Hall",
+      "base_id": 674
+    },
+    {
+      "building_id": 190,
+      "name": "Building 190",
+      "damage": 88,
+      "hp": 1311,
+      "type": "Town Hall",
+      "base_id": 254
+    },
+    {
+      "building_id": 191,
+      "name": "Building 191",
+      "damage": 90,
+      "hp": 548,
+      "type": "Farm",
+      "base_id": 984
+    },
+    {
+      "building_id": 192,
+      "name": "Building 192",
+      "damage": 62,
+      "hp": 1677,
+      "type": "Tower",
+      "base_id": 942
+    },
+    {
+      "building_id": 193,
+      "name": "Building 193",
+      "damage": 25,
+      "hp": 1151,
+      "type": "Town Hall",
+      "base_id": 518
+    },
+    {
+      "building_id": 194,
+      "name": "Building 194",
+      "damage": 52,
+      "hp": 1923,
+      "type": "Town Hall",
+      "base_id": 344
+    },
+    {
+      "building_id": 195,
+      "name": "Building 195",
+      "damage": 27,
+      "hp": 1817,
+      "type": "Farm",
+      "base_id": 169
+    },
+    {
+      "building_id": 196,
+      "name": "Building 196",
+      "damage": 48,
+      "hp": 1169,
+      "type": "Farm",
+      "base_id": 357
+    },
+    {
+      "building_id": 197,
+      "name": "Building 197",
+      "damage": 34,
+      "hp": 966,
+      "type": "Farm",
+      "base_id": 953
+    },
+    {
+      "building_id": 198,
+      "name": "Building 198",
+      "damage": 82,
+      "hp": 984,
+      "type": "Town Hall",
+      "base_id": 175
+    },
+    {
+      "building_id": 199,
+      "name": "Building 199",
+      "damage": 77,
+      "hp": 1099,
+      "type": "Town Hall",
+      "base_id": 688
+    },
+    {
+      "building_id": 200,
+      "name": "Building 200",
+      "damage": 16,
+      "hp": 1313,
+      "type": "Town Hall",
+      "base_id": 603
+    },
+    {
+      "building_id": 201,
+      "name": "Building 201",
+      "damage": 57,
+      "hp": 643,
+      "type": "Barracks",
+      "base_id": 666
+    },
+    {
+      "building_id": 202,
+      "name": "Building 202",
+      "damage": 54,
+      "hp": 784,
+      "type": "Barracks",
+      "base_id": 469
+    },
+    {
+      "building_id": 203,
+      "name": "Building 203",
+      "damage": 100,
+      "hp": 754,
+      "type": "Town Hall",
+      "base_id": 972
+    },
+    {
+      "building_id": 204,
+      "name": "Building 204",
+      "damage": 15,
+      "hp": 1369,
+      "type": "Town Hall",
+      "base_id": 609
+    },
+    {
+      "building_id": 205,
+      "name": "Building 205",
+      "damage": 36,
+      "hp": 1214,
+      "type": "Barracks",
+      "base_id": 479
+    },
+    {
+      "building_id": 206,
+      "name": "Building 206",
+      "damage": 63,
+      "hp": 1356,
+      "type": "Barracks",
+      "base_id": 106
+    },
+    {
+      "building_id": 207,
+      "name": "Building 207",
+      "damage": 23,
+      "hp": 1436,
+      "type": "Town Hall",
+      "base_id": 772
+    },
+    {
+      "building_id": 208,
+      "name": "Building 208",
+      "damage": 25,
+      "hp": 1236,
+      "type": "Tower",
+      "base_id": 109
+    },
+    {
+      "building_id": 209,
+      "name": "Building 209",
+      "damage": 30,
+      "hp": 633,
+      "type": "Barracks",
+      "base_id": 536
+    },
+    {
+      "building_id": 210,
+      "name": "Building 210",
+      "damage": 60,
+      "hp": 1960,
+      "type": "Barracks",
+      "base_id": 627
+    },
+    {
+      "building_id": 211,
+      "name": "Building 211",
+      "damage": 98,
+      "hp": 1735,
+      "type": "Barracks",
+      "base_id": 911
+    },
+    {
+      "building_id": 212,
+      "name": "Building 212",
+      "damage": 54,
+      "hp": 1132,
+      "type": "Town Hall",
+      "base_id": 797
+    },
+    {
+      "building_id": 213,
+      "name": "Building 213",
+      "damage": 67,
+      "hp": 1220,
+      "type": "Barracks",
+      "base_id": 337
+    },
+    {
+      "building_id": 214,
+      "name": "Building 214",
+      "damage": 25,
+      "hp": 502,
+      "type": "Tower",
+      "base_id": 863
+    },
+    {
+      "building_id": 215,
+      "name": "Building 215",
+      "damage": 11,
+      "hp": 594,
+      "type": "Town Hall",
+      "base_id": 121
+    },
+    {
+      "building_id": 216,
+      "name": "Building 216",
+      "damage": 46,
+      "hp": 859,
+      "type": "Town Hall",
+      "base_id": 216
+    },
+    {
+      "building_id": 217,
+      "name": "Building 217",
+      "damage": 89,
+      "hp": 871,
+      "type": "Barracks",
+      "base_id": 309
+    },
+    {
+      "building_id": 218,
+      "name": "Building 218",
+      "damage": 73,
+      "hp": 1112,
+      "type": "Barracks",
+      "base_id": 588
+    },
+    {
+      "building_id": 219,
+      "name": "Building 219",
+      "damage": 13,
+      "hp": 1508,
+      "type": "Farm",
+      "base_id": 682
+    },
+    {
+      "building_id": 220,
+      "name": "Building 220",
+      "damage": 89,
+      "hp": 1826,
+      "type": "Barracks",
+      "base_id": 158
+    },
+    {
+      "building_id": 221,
+      "name": "Building 221",
+      "damage": 96,
+      "hp": 1450,
+      "type": "Barracks",
+      "base_id": 998
+    },
+    {
+      "building_id": 222,
+      "name": "Building 222",
+      "damage": 52,
+      "hp": 858,
+      "type": "Tower",
+      "base_id": 831
+    },
+    {
+      "building_id": 223,
+      "name": "Building 223",
+      "damage": 42,
+      "hp": 755,
+      "type": "Town Hall",
+      "base_id": 132
+    },
+    {
+      "building_id": 224,
+      "name": "Building 224",
+      "damage": 54,
+      "hp": 1540,
+      "type": "Barracks",
+      "base_id": 514
+    },
+    {
+      "building_id": 225,
+      "name": "Building 225",
+      "damage": 46,
+      "hp": 751,
+      "type": "Barracks",
+      "base_id": 244
+    },
+    {
+      "building_id": 226,
+      "name": "Building 226",
+      "damage": 26,
+      "hp": 1553,
+      "type": "Tower",
+      "base_id": 73
+    },
+    {
+      "building_id": 227,
+      "name": "Building 227",
+      "damage": 57,
+      "hp": 611,
+      "type": "Barracks",
+      "base_id": 807
+    },
+    {
+      "building_id": 228,
+      "name": "Building 228",
+      "damage": 15,
+      "hp": 574,
+      "type": "Barracks",
+      "base_id": 655
+    },
+    {
+      "building_id": 229,
+      "name": "Building 229",
+      "damage": 28,
+      "hp": 1636,
+      "type": "Barracks",
+      "base_id": 388
+    },
+    {
+      "building_id": 230,
+      "name": "Building 230",
+      "damage": 60,
+      "hp": 932,
+      "type": "Town Hall",
+      "base_id": 396
+    },
+    {
+      "building_id": 231,
+      "name": "Building 231",
+      "damage": 68,
+      "hp": 1192,
+      "type": "Farm",
+      "base_id": 986
+    },
+    {
+      "building_id": 232,
+      "name": "Building 232",
+      "damage": 63,
+      "hp": 801,
+      "type": "Tower",
+      "base_id": 844
+    },
+    {
+      "building_id": 233,
+      "name": "Building 233",
+      "damage": 39,
+      "hp": 1980,
+      "type": "Town Hall",
+      "base_id": 906
+    },
+    {
+      "building_id": 234,
+      "name": "Building 234",
+      "damage": 31,
+      "hp": 1871,
+      "type": "Tower",
+      "base_id": 209
+    },
+    {
+      "building_id": 235,
+      "name": "Building 235",
+      "damage": 39,
+      "hp": 1941,
+      "type": "Town Hall",
+      "base_id": 656
+    },
+    {
+      "building_id": 236,
+      "name": "Building 236",
+      "damage": 85,
+      "hp": 1021,
+      "type": "Tower",
+      "base_id": 798
+    },
+    {
+      "building_id": 237,
+      "name": "Building 237",
+      "damage": 22,
+      "hp": 974,
+      "type": "Tower",
+      "base_id": 121
+    },
+    {
+      "building_id": 238,
+      "name": "Building 238",
+      "damage": 95,
+      "hp": 635,
+      "type": "Barracks",
+      "base_id": 175
+    },
+    {
+      "building_id": 239,
+      "name": "Building 239",
+      "damage": 65,
+      "hp": 1938,
+      "type": "Barracks",
+      "base_id": 819
+    },
+    {
+      "building_id": 240,
+      "name": "Building 240",
+      "damage": 36,
+      "hp": 1779,
+      "type": "Town Hall",
+      "base_id": 962
+    },
+    {
+      "building_id": 241,
+      "name": "Building 241",
+      "damage": 71,
+      "hp": 933,
+      "type": "Farm",
+      "base_id": 781
+    },
+    {
+      "building_id": 242,
+      "name": "Building 242",
+      "damage": 34,
+      "hp": 559,
+      "type": "Tower",
+      "base_id": 747
+    },
+    {
+      "building_id": 243,
+      "name": "Building 243",
+      "damage": 29,
+      "hp": 926,
+      "type": "Tower",
+      "base_id": 39
+    },
+    {
+      "building_id": 244,
+      "name": "Building 244",
+      "damage": 94,
+      "hp": 1413,
+      "type": "Barracks",
+      "base_id": 312
+    },
+    {
+      "building_id": 245,
+      "name": "Building 245",
+      "damage": 67,
+      "hp": 1413,
+      "type": "Farm",
+      "base_id": 589
+    },
+    {
+      "building_id": 246,
+      "name": "Building 246",
+      "damage": 94,
+      "hp": 1741,
+      "type": "Tower",
+      "base_id": 862
+    },
+    {
+      "building_id": 247,
+      "name": "Building 247",
+      "damage": 45,
+      "hp": 1692,
+      "type": "Barracks",
+      "base_id": 56
+    },
+    {
+      "building_id": 248,
+      "name": "Building 248",
+      "damage": 52,
+      "hp": 1291,
+      "type": "Barracks",
+      "base_id": 347
+    },
+    {
+      "building_id": 249,
+      "name": "Building 249",
+      "damage": 92,
+      "hp": 1577,
+      "type": "Tower",
+      "base_id": 737
+    },
+    {
+      "building_id": 250,
+      "name": "Building 250",
+      "damage": 85,
+      "hp": 1678,
+      "type": "Barracks",
+      "base_id": 882
+    },
+    {
+      "building_id": 251,
+      "name": "Building 251",
+      "damage": 28,
+      "hp": 1414,
+      "type": "Farm",
+      "base_id": 346
+    },
+    {
+      "building_id": 252,
+      "name": "Building 252",
+      "damage": 13,
+      "hp": 1504,
+      "type": "Tower",
+      "base_id": 896
+    },
+    {
+      "building_id": 253,
+      "name": "Building 253",
+      "damage": 51,
+      "hp": 937,
+      "type": "Tower",
+      "base_id": 943
+    },
+    {
+      "building_id": 254,
+      "name": "Building 254",
+      "damage": 100,
+      "hp": 929,
+      "type": "Farm",
+      "base_id": 778
+    },
+    {
+      "building_id": 255,
+      "name": "Building 255",
+      "damage": 35,
+      "hp": 802,
+      "type": "Tower",
+      "base_id": 414
+    },
+    {
+      "building_id": 256,
+      "name": "Building 256",
+      "damage": 52,
+      "hp": 1954,
+      "type": "Tower",
+      "base_id": 71
+    },
+    {
+      "building_id": 257,
+      "name": "Building 257",
+      "damage": 99,
+      "hp": 1494,
+      "type": "Town Hall",
+      "base_id": 86
+    },
+    {
+      "building_id": 258,
+      "name": "Building 258",
+      "damage": 51,
+      "hp": 1569,
+      "type": "Farm",
+      "base_id": 78
+    },
+    {
+      "building_id": 259,
+      "name": "Building 259",
+      "damage": 86,
+      "hp": 1754,
+      "type": "Farm",
+      "base_id": 47
+    },
+    {
+      "building_id": 260,
+      "name": "Building 260",
+      "damage": 86,
+      "hp": 909,
+      "type": "Barracks",
+      "base_id": 738
+    },
+    {
+      "building_id": 261,
+      "name": "Building 261",
+      "damage": 55,
+      "hp": 1434,
+      "type": "Town Hall",
+      "base_id": 341
+    },
+    {
+      "building_id": 262,
+      "name": "Building 262",
+      "damage": 48,
+      "hp": 838,
+      "type": "Barracks",
+      "base_id": 273
+    },
+    {
+      "building_id": 263,
+      "name": "Building 263",
+      "damage": 92,
+      "hp": 861,
+      "type": "Barracks",
+      "base_id": 371
+    },
+    {
+      "building_id": 264,
+      "name": "Building 264",
+      "damage": 50,
+      "hp": 1696,
+      "type": "Town Hall",
+      "base_id": 959
+    },
+    {
+      "building_id": 265,
+      "name": "Building 265",
+      "damage": 61,
+      "hp": 1861,
+      "type": "Barracks",
+      "base_id": 54
+    },
+    {
+      "building_id": 266,
+      "name": "Building 266",
+      "damage": 32,
+      "hp": 508,
+      "type": "Town Hall",
+      "base_id": 96
+    },
+    {
+      "building_id": 267,
+      "name": "Building 267",
+      "damage": 53,
+      "hp": 1315,
+      "type": "Farm",
+      "base_id": 306
+    },
+    {
+      "building_id": 268,
+      "name": "Building 268",
+      "damage": 89,
+      "hp": 1048,
+      "type": "Tower",
+      "base_id": 34
+    },
+    {
+      "building_id": 269,
+      "name": "Building 269",
+      "damage": 98,
+      "hp": 1572,
+      "type": "Tower",
+      "base_id": 735
+    },
+    {
+      "building_id": 270,
+      "name": "Building 270",
+      "damage": 10,
+      "hp": 1459,
+      "type": "Barracks",
+      "base_id": 962
+    },
+    {
+      "building_id": 271,
+      "name": "Building 271",
+      "damage": 72,
+      "hp": 986,
+      "type": "Town Hall",
+      "base_id": 727
+    },
+    {
+      "building_id": 272,
+      "name": "Building 272",
+      "damage": 68,
+      "hp": 1792,
+      "type": "Barracks",
+      "base_id": 514
+    },
+    {
+      "building_id": 273,
+      "name": "Building 273",
+      "damage": 22,
+      "hp": 1309,
+      "type": "Farm",
+      "base_id": 566
+    },
+    {
+      "building_id": 274,
+      "name": "Building 274",
+      "damage": 27,
+      "hp": 1080,
+      "type": "Farm",
+      "base_id": 607
+    },
+    {
+      "building_id": 275,
+      "name": "Building 275",
+      "damage": 17,
+      "hp": 1783,
+      "type": "Farm",
+      "base_id": 13
+    },
+    {
+      "building_id": 276,
+      "name": "Building 276",
+      "damage": 12,
+      "hp": 1400,
+      "type": "Barracks",
+      "base_id": 520
+    },
+    {
+      "building_id": 277,
+      "name": "Building 277",
+      "damage": 74,
+      "hp": 1404,
+      "type": "Town Hall",
+      "base_id": 357
+    },
+    {
+      "building_id": 278,
+      "name": "Building 278",
+      "damage": 38,
+      "hp": 1924,
+      "type": "Tower",
+      "base_id": 207
+    },
+    {
+      "building_id": 279,
+      "name": "Building 279",
+      "damage": 46,
+      "hp": 1416,
+      "type": "Town Hall",
+      "base_id": 470
+    },
+    {
+      "building_id": 280,
+      "name": "Building 280",
+      "damage": 93,
+      "hp": 1462,
+      "type": "Farm",
+      "base_id": 352
+    },
+    {
+      "building_id": 281,
+      "name": "Building 281",
+      "damage": 96,
+      "hp": 984,
+      "type": "Barracks",
+      "base_id": 447
+    },
+    {
+      "building_id": 282,
+      "name": "Building 282",
+      "damage": 26,
+      "hp": 1519,
+      "type": "Tower",
+      "base_id": 686
+    },
+    {
+      "building_id": 283,
+      "name": "Building 283",
+      "damage": 12,
+      "hp": 1614,
+      "type": "Tower",
+      "base_id": 59
+    },
+    {
+      "building_id": 284,
+      "name": "Building 284",
+      "damage": 29,
+      "hp": 607,
+      "type": "Farm",
+      "base_id": 472
+    },
+    {
+      "building_id": 285,
+      "name": "Building 285",
+      "damage": 10,
+      "hp": 1096,
+      "type": "Tower",
+      "base_id": 505
+    },
+    {
+      "building_id": 286,
+      "name": "Building 286",
+      "damage": 19,
+      "hp": 741,
+      "type": "Tower",
+      "base_id": 762
+    },
+    {
+      "building_id": 287,
+      "name": "Building 287",
+      "damage": 72,
+      "hp": 1835,
+      "type": "Tower",
+      "base_id": 256
+    },
+    {
+      "building_id": 288,
+      "name": "Building 288",
+      "damage": 100,
+      "hp": 1431,
+      "type": "Barracks",
+      "base_id": 677
+    },
+    {
+      "building_id": 289,
+      "name": "Building 289",
+      "damage": 43,
+      "hp": 1664,
+      "type": "Barracks",
+      "base_id": 401
+    },
+    {
+      "building_id": 290,
+      "name": "Building 290",
+      "damage": 59,
+      "hp": 578,
+      "type": "Barracks",
+      "base_id": 580
+    },
+    {
+      "building_id": 291,
+      "name": "Building 291",
+      "damage": 62,
+      "hp": 1097,
+      "type": "Farm",
+      "base_id": 211
+    },
+    {
+      "building_id": 292,
+      "name": "Building 292",
+      "damage": 99,
+      "hp": 871,
+      "type": "Town Hall",
+      "base_id": 140
+    },
+    {
+      "building_id": 293,
+      "name": "Building 293",
+      "damage": 45,
+      "hp": 897,
+      "type": "Barracks",
+      "base_id": 373
+    },
+    {
+      "building_id": 294,
+      "name": "Building 294",
+      "damage": 47,
+      "hp": 1441,
+      "type": "Tower",
+      "base_id": 493
+    },
+    {
+      "building_id": 295,
+      "name": "Building 295",
+      "damage": 64,
+      "hp": 1657,
+      "type": "Town Hall",
+      "base_id": 582
+    },
+    {
+      "building_id": 296,
+      "name": "Building 296",
+      "damage": 31,
+      "hp": 1749,
+      "type": "Farm",
+      "base_id": 73
+    },
+    {
+      "building_id": 297,
+      "name": "Building 297",
+      "damage": 34,
+      "hp": 1157,
+      "type": "Farm",
+      "base_id": 269
+    },
+    {
+      "building_id": 298,
+      "name": "Building 298",
+      "damage": 83,
+      "hp": 1137,
+      "type": "Tower",
+      "base_id": 345
+    },
+    {
+      "building_id": 299,
+      "name": "Building 299",
+      "damage": 55,
+      "hp": 718,
+      "type": "Farm",
+      "base_id": 752
+    },
+    {
+      "building_id": 300,
+      "name": "Building 300",
+      "damage": 45,
+      "hp": 1878,
+      "type": "Farm",
+      "base_id": 391
+    },
+    {
+      "building_id": 301,
+      "name": "Building 301",
+      "damage": 20,
+      "hp": 1157,
+      "type": "Barracks",
+      "base_id": 682
+    },
+    {
+      "building_id": 302,
+      "name": "Building 302",
+      "damage": 54,
+      "hp": 1187,
+      "type": "Barracks",
+      "base_id": 255
+    },
+    {
+      "building_id": 303,
+      "name": "Building 303",
+      "damage": 47,
+      "hp": 821,
+      "type": "Farm",
+      "base_id": 963
+    },
+    {
+      "building_id": 304,
+      "name": "Building 304",
+      "damage": 54,
+      "hp": 1494,
+      "type": "Barracks",
+      "base_id": 551
+    },
+    {
+      "building_id": 305,
+      "name": "Building 305",
+      "damage": 24,
+      "hp": 1743,
+      "type": "Barracks",
+      "base_id": 723
+    },
+    {
+      "building_id": 306,
+      "name": "Building 306",
+      "damage": 12,
+      "hp": 1216,
+      "type": "Farm",
+      "base_id": 642
+    },
+    {
+      "building_id": 307,
+      "name": "Building 307",
+      "damage": 41,
+      "hp": 1870,
+      "type": "Farm",
+      "base_id": 2
+    },
+    {
+      "building_id": 308,
+      "name": "Building 308",
+      "damage": 72,
+      "hp": 514,
+      "type": "Farm",
+      "base_id": 169
+    },
+    {
+      "building_id": 309,
+      "name": "Building 309",
+      "damage": 28,
+      "hp": 1723,
+      "type": "Tower",
+      "base_id": 13
+    },
+    {
+      "building_id": 310,
+      "name": "Building 310",
+      "damage": 83,
+      "hp": 1732,
+      "type": "Town Hall",
+      "base_id": 170
+    },
+    {
+      "building_id": 311,
+      "name": "Building 311",
+      "damage": 21,
+      "hp": 524,
+      "type": "Town Hall",
+      "base_id": 351
+    },
+    {
+      "building_id": 312,
+      "name": "Building 312",
+      "damage": 61,
+      "hp": 843,
+      "type": "Farm",
+      "base_id": 466
+    },
+    {
+      "building_id": 313,
+      "name": "Building 313",
+      "damage": 36,
+      "hp": 1825,
+      "type": "Farm",
+      "base_id": 91
+    },
+    {
+      "building_id": 314,
+      "name": "Building 314",
+      "damage": 52,
+      "hp": 772,
+      "type": "Tower",
+      "base_id": 236
+    },
+    {
+      "building_id": 315,
+      "name": "Building 315",
+      "damage": 53,
+      "hp": 544,
+      "type": "Farm",
+      "base_id": 594
+    },
+    {
+      "building_id": 316,
+      "name": "Building 316",
+      "damage": 51,
+      "hp": 1085,
+      "type": "Tower",
+      "base_id": 447
+    },
+    {
+      "building_id": 317,
+      "name": "Building 317",
+      "damage": 46,
+      "hp": 1195,
+      "type": "Farm",
+      "base_id": 148
+    },
+    {
+      "building_id": 318,
+      "name": "Building 318",
+      "damage": 36,
+      "hp": 1630,
+      "type": "Barracks",
+      "base_id": 825
+    },
+    {
+      "building_id": 319,
+      "name": "Building 319",
+      "damage": 51,
+      "hp": 1344,
+      "type": "Farm",
+      "base_id": 93
+    },
+    {
+      "building_id": 320,
+      "name": "Building 320",
+      "damage": 24,
+      "hp": 1032,
+      "type": "Town Hall",
+      "base_id": 33
+    },
+    {
+      "building_id": 321,
+      "name": "Building 321",
+      "damage": 96,
+      "hp": 1259,
+      "type": "Tower",
+      "base_id": 526
+    },
+    {
+      "building_id": 322,
+      "name": "Building 322",
+      "damage": 69,
+      "hp": 1483,
+      "type": "Farm",
+      "base_id": 853
+    },
+    {
+      "building_id": 323,
+      "name": "Building 323",
+      "damage": 74,
+      "hp": 1941,
+      "type": "Town Hall",
+      "base_id": 385
+    },
+    {
+      "building_id": 324,
+      "name": "Building 324",
+      "damage": 44,
+      "hp": 1834,
+      "type": "Town Hall",
+      "base_id": 481
+    },
+    {
+      "building_id": 325,
+      "name": "Building 325",
+      "damage": 41,
+      "hp": 1388,
+      "type": "Barracks",
+      "base_id": 536
+    },
+    {
+      "building_id": 326,
+      "name": "Building 326",
+      "damage": 91,
+      "hp": 1728,
+      "type": "Tower",
+      "base_id": 330
+    },
+    {
+      "building_id": 327,
+      "name": "Building 327",
+      "damage": 85,
+      "hp": 752,
+      "type": "Barracks",
+      "base_id": 999
+    },
+    {
+      "building_id": 328,
+      "name": "Building 328",
+      "damage": 26,
+      "hp": 688,
+      "type": "Barracks",
+      "base_id": 741
+    },
+    {
+      "building_id": 329,
+      "name": "Building 329",
+      "damage": 29,
+      "hp": 1817,
+      "type": "Farm",
+      "base_id": 850
+    },
+    {
+      "building_id": 330,
+      "name": "Building 330",
+      "damage": 17,
+      "hp": 1841,
+      "type": "Town Hall",
+      "base_id": 728
+    },
+    {
+      "building_id": 331,
+      "name": "Building 331",
+      "damage": 87,
+      "hp": 1508,
+      "type": "Tower",
+      "base_id": 76
+    },
+    {
+      "building_id": 332,
+      "name": "Building 332",
+      "damage": 97,
+      "hp": 900,
+      "type": "Farm",
+      "base_id": 496
+    },
+    {
+      "building_id": 333,
+      "name": "Building 333",
+      "damage": 29,
+      "hp": 1683,
+      "type": "Tower",
+      "base_id": 669
+    },
+    {
+      "building_id": 334,
+      "name": "Building 334",
+      "damage": 46,
+      "hp": 757,
+      "type": "Farm",
+      "base_id": 715
+    },
+    {
+      "building_id": 335,
+      "name": "Building 335",
+      "damage": 95,
+      "hp": 1648,
+      "type": "Town Hall",
+      "base_id": 780
+    },
+    {
+      "building_id": 336,
+      "name": "Building 336",
+      "damage": 16,
+      "hp": 623,
+      "type": "Tower",
+      "base_id": 536
+    },
+    {
+      "building_id": 337,
+      "name": "Building 337",
+      "damage": 30,
+      "hp": 669,
+      "type": "Barracks",
+      "base_id": 360
+    },
+    {
+      "building_id": 338,
+      "name": "Building 338",
+      "damage": 44,
+      "hp": 1784,
+      "type": "Town Hall",
+      "base_id": 422
+    },
+    {
+      "building_id": 339,
+      "name": "Building 339",
+      "damage": 69,
+      "hp": 1957,
+      "type": "Farm",
+      "base_id": 993
+    },
+    {
+      "building_id": 340,
+      "name": "Building 340",
+      "damage": 53,
+      "hp": 1243,
+      "type": "Tower",
+      "base_id": 228
+    },
+    {
+      "building_id": 341,
+      "name": "Building 341",
+      "damage": 10,
+      "hp": 1820,
+      "type": "Farm",
+      "base_id": 41
+    },
+    {
+      "building_id": 342,
+      "name": "Building 342",
+      "damage": 46,
+      "hp": 942,
+      "type": "Tower",
+      "base_id": 95
+    },
+    {
+      "building_id": 343,
+      "name": "Building 343",
+      "damage": 17,
+      "hp": 1049,
+      "type": "Town Hall",
+      "base_id": 574
+    },
+    {
+      "building_id": 344,
+      "name": "Building 344",
+      "damage": 88,
+      "hp": 632,
+      "type": "Barracks",
+      "base_id": 933
+    },
+    {
+      "building_id": 345,
+      "name": "Building 345",
+      "damage": 64,
+      "hp": 579,
+      "type": "Tower",
+      "base_id": 122
+    },
+    {
+      "building_id": 346,
+      "name": "Building 346",
+      "damage": 63,
+      "hp": 1969,
+      "type": "Tower",
+      "base_id": 36
+    },
+    {
+      "building_id": 347,
+      "name": "Building 347",
+      "damage": 59,
+      "hp": 1236,
+      "type": "Town Hall",
+      "base_id": 717
+    },
+    {
+      "building_id": 348,
+      "name": "Building 348",
+      "damage": 86,
+      "hp": 1404,
+      "type": "Town Hall",
+      "base_id": 471
+    },
+    {
+      "building_id": 349,
+      "name": "Building 349",
+      "damage": 69,
+      "hp": 1673,
+      "type": "Town Hall",
+      "base_id": 329
+    },
+    {
+      "building_id": 350,
+      "name": "Building 350",
+      "damage": 50,
+      "hp": 1483,
+      "type": "Barracks",
+      "base_id": 906
+    },
+    {
+      "building_id": 351,
+      "name": "Building 351",
+      "damage": 30,
+      "hp": 610,
+      "type": "Tower",
+      "base_id": 544
+    },
+    {
+      "building_id": 352,
+      "name": "Building 352",
+      "damage": 71,
+      "hp": 854,
+      "type": "Barracks",
+      "base_id": 533
+    },
+    {
+      "building_id": 353,
+      "name": "Building 353",
+      "damage": 44,
+      "hp": 1820,
+      "type": "Tower",
+      "base_id": 354
+    },
+    {
+      "building_id": 354,
+      "name": "Building 354",
+      "damage": 68,
+      "hp": 1804,
+      "type": "Barracks",
+      "base_id": 92
+    },
+    {
+      "building_id": 355,
+      "name": "Building 355",
+      "damage": 56,
+      "hp": 1568,
+      "type": "Town Hall",
+      "base_id": 800
+    },
+    {
+      "building_id": 356,
+      "name": "Building 356",
+      "damage": 14,
+      "hp": 1079,
+      "type": "Farm",
+      "base_id": 651
+    },
+    {
+      "building_id": 357,
+      "name": "Building 357",
+      "damage": 89,
+      "hp": 566,
+      "type": "Barracks",
+      "base_id": 377
+    },
+    {
+      "building_id": 358,
+      "name": "Building 358",
+      "damage": 18,
+      "hp": 1549,
+      "type": "Town Hall",
+      "base_id": 624
+    },
+    {
+      "building_id": 359,
+      "name": "Building 359",
+      "damage": 55,
+      "hp": 584,
+      "type": "Tower",
+      "base_id": 243
+    },
+    {
+      "building_id": 360,
+      "name": "Building 360",
+      "damage": 30,
+      "hp": 849,
+      "type": "Tower",
+      "base_id": 601
+    },
+    {
+      "building_id": 361,
+      "name": "Building 361",
+      "damage": 88,
+      "hp": 1281,
+      "type": "Barracks",
+      "base_id": 774
+    },
+    {
+      "building_id": 362,
+      "name": "Building 362",
+      "damage": 82,
+      "hp": 872,
+      "type": "Barracks",
+      "base_id": 957
+    },
+    {
+      "building_id": 363,
+      "name": "Building 363",
+      "damage": 13,
+      "hp": 1764,
+      "type": "Barracks",
+      "base_id": 836
+    },
+    {
+      "building_id": 364,
+      "name": "Building 364",
+      "damage": 61,
+      "hp": 1421,
+      "type": "Tower",
+      "base_id": 957
+    },
+    {
+      "building_id": 365,
+      "name": "Building 365",
+      "damage": 71,
+      "hp": 614,
+      "type": "Tower",
+      "base_id": 243
+    },
+    {
+      "building_id": 366,
+      "name": "Building 366",
+      "damage": 29,
+      "hp": 549,
+      "type": "Town Hall",
+      "base_id": 312
+    },
+    {
+      "building_id": 367,
+      "name": "Building 367",
+      "damage": 21,
+      "hp": 1743,
+      "type": "Barracks",
+      "base_id": 989
+    },
+    {
+      "building_id": 368,
+      "name": "Building 368",
+      "damage": 52,
+      "hp": 1322,
+      "type": "Town Hall",
+      "base_id": 681
+    },
+    {
+      "building_id": 369,
+      "name": "Building 369",
+      "damage": 26,
+      "hp": 1416,
+      "type": "Farm",
+      "base_id": 705
+    },
+    {
+      "building_id": 370,
+      "name": "Building 370",
+      "damage": 83,
+      "hp": 1938,
+      "type": "Town Hall",
+      "base_id": 81
+    },
+    {
+      "building_id": 371,
+      "name": "Building 371",
+      "damage": 78,
+      "hp": 571,
+      "type": "Farm",
+      "base_id": 241
+    },
+    {
+      "building_id": 372,
+      "name": "Building 372",
+      "damage": 15,
+      "hp": 1173,
+      "type": "Town Hall",
+      "base_id": 715
+    },
+    {
+      "building_id": 373,
+      "name": "Building 373",
+      "damage": 53,
+      "hp": 1452,
+      "type": "Town Hall",
+      "base_id": 762
+    },
+    {
+      "building_id": 374,
+      "name": "Building 374",
+      "damage": 17,
+      "hp": 1434,
+      "type": "Town Hall",
+      "base_id": 154
+    },
+    {
+      "building_id": 375,
+      "name": "Building 375",
+      "damage": 96,
+      "hp": 1474,
+      "type": "Barracks",
+      "base_id": 372
+    },
+    {
+      "building_id": 376,
+      "name": "Building 376",
+      "damage": 79,
+      "hp": 692,
+      "type": "Farm",
+      "base_id": 613
+    },
+    {
+      "building_id": 377,
+      "name": "Building 377",
+      "damage": 93,
+      "hp": 564,
+      "type": "Tower",
+      "base_id": 346
+    },
+    {
+      "building_id": 378,
+      "name": "Building 378",
+      "damage": 64,
+      "hp": 644,
+      "type": "Farm",
+      "base_id": 949
+    },
+    {
+      "building_id": 379,
+      "name": "Building 379",
+      "damage": 63,
+      "hp": 1236,
+      "type": "Barracks",
+      "base_id": 351
+    },
+    {
+      "building_id": 380,
+      "name": "Building 380",
+      "damage": 56,
+      "hp": 1092,
+      "type": "Town Hall",
+      "base_id": 496
+    },
+    {
+      "building_id": 381,
+      "name": "Building 381",
+      "damage": 24,
+      "hp": 1618,
+      "type": "Town Hall",
+      "base_id": 370
+    },
+    {
+      "building_id": 382,
+      "name": "Building 382",
+      "damage": 15,
+      "hp": 1056,
+      "type": "Farm",
+      "base_id": 910
+    },
+    {
+      "building_id": 383,
+      "name": "Building 383",
+      "damage": 82,
+      "hp": 1043,
+      "type": "Farm",
+      "base_id": 29
+    },
+    {
+      "building_id": 384,
+      "name": "Building 384",
+      "damage": 75,
+      "hp": 1451,
+      "type": "Town Hall",
+      "base_id": 442
+    },
+    {
+      "building_id": 385,
+      "name": "Building 385",
+      "damage": 45,
+      "hp": 1031,
+      "type": "Town Hall",
+      "base_id": 625
+    },
+    {
+      "building_id": 386,
+      "name": "Building 386",
+      "damage": 63,
+      "hp": 1223,
+      "type": "Town Hall",
+      "base_id": 29
+    },
+    {
+      "building_id": 387,
+      "name": "Building 387",
+      "damage": 54,
+      "hp": 2000,
+      "type": "Farm",
+      "base_id": 777
+    },
+    {
+      "building_id": 388,
+      "name": "Building 388",
+      "damage": 40,
+      "hp": 1254,
+      "type": "Farm",
+      "base_id": 934
+    },
+    {
+      "building_id": 389,
+      "name": "Building 389",
+      "damage": 97,
+      "hp": 1424,
+      "type": "Town Hall",
+      "base_id": 188
+    },
+    {
+      "building_id": 390,
+      "name": "Building 390",
+      "damage": 68,
+      "hp": 1879,
+      "type": "Tower",
+      "base_id": 928
+    },
+    {
+      "building_id": 391,
+      "name": "Building 391",
+      "damage": 27,
+      "hp": 1169,
+      "type": "Tower",
+      "base_id": 742
+    },
+    {
+      "building_id": 392,
+      "name": "Building 392",
+      "damage": 52,
+      "hp": 1628,
+      "type": "Tower",
+      "base_id": 510
+    },
+    {
+      "building_id": 393,
+      "name": "Building 393",
+      "damage": 20,
+      "hp": 1102,
+      "type": "Tower",
+      "base_id": 179
+    },
+    {
+      "building_id": 394,
+      "name": "Building 394",
+      "damage": 14,
+      "hp": 1830,
+      "type": "Farm",
+      "base_id": 207
+    },
+    {
+      "building_id": 395,
+      "name": "Building 395",
+      "damage": 97,
+      "hp": 1670,
+      "type": "Tower",
+      "base_id": 462
+    },
+    {
+      "building_id": 396,
+      "name": "Building 396",
+      "damage": 72,
+      "hp": 1132,
+      "type": "Barracks",
+      "base_id": 294
+    },
+    {
+      "building_id": 397,
+      "name": "Building 397",
+      "damage": 17,
+      "hp": 721,
+      "type": "Farm",
+      "base_id": 98
+    },
+    {
+      "building_id": 398,
+      "name": "Building 398",
+      "damage": 79,
+      "hp": 1695,
+      "type": "Town Hall",
+      "base_id": 483
+    },
+    {
+      "building_id": 399,
+      "name": "Building 399",
+      "damage": 98,
+      "hp": 1752,
+      "type": "Town Hall",
+      "base_id": 109
+    },
+    {
+      "building_id": 400,
+      "name": "Building 400",
+      "damage": 61,
+      "hp": 1792,
+      "type": "Barracks",
+      "base_id": 845
+    },
+    {
+      "building_id": 401,
+      "name": "Building 401",
+      "damage": 59,
+      "hp": 1465,
+      "type": "Barracks",
+      "base_id": 425
+    },
+    {
+      "building_id": 402,
+      "name": "Building 402",
+      "damage": 32,
+      "hp": 1795,
+      "type": "Farm",
+      "base_id": 393
+    },
+    {
+      "building_id": 403,
+      "name": "Building 403",
+      "damage": 56,
+      "hp": 1448,
+      "type": "Tower",
+      "base_id": 315
+    },
+    {
+      "building_id": 404,
+      "name": "Building 404",
+      "damage": 82,
+      "hp": 1194,
+      "type": "Barracks",
+      "base_id": 463
+    },
+    {
+      "building_id": 405,
+      "name": "Building 405",
+      "damage": 13,
+      "hp": 1263,
+      "type": "Barracks",
+      "base_id": 89
+    },
+    {
+      "building_id": 406,
+      "name": "Building 406",
+      "damage": 22,
+      "hp": 1001,
+      "type": "Tower",
+      "base_id": 264
+    },
+    {
+      "building_id": 407,
+      "name": "Building 407",
+      "damage": 60,
+      "hp": 779,
+      "type": "Barracks",
+      "base_id": 349
+    },
+    {
+      "building_id": 408,
+      "name": "Building 408",
+      "damage": 16,
+      "hp": 652,
+      "type": "Farm",
+      "base_id": 324
+    },
+    {
+      "building_id": 409,
+      "name": "Building 409",
+      "damage": 42,
+      "hp": 738,
+      "type": "Barracks",
+      "base_id": 74
+    },
+    {
+      "building_id": 410,
+      "name": "Building 410",
+      "damage": 50,
+      "hp": 1676,
+      "type": "Tower",
+      "base_id": 187
+    },
+    {
+      "building_id": 411,
+      "name": "Building 411",
+      "damage": 63,
+      "hp": 1274,
+      "type": "Barracks",
+      "base_id": 705
+    },
+    {
+      "building_id": 412,
+      "name": "Building 412",
+      "damage": 86,
+      "hp": 1772,
+      "type": "Tower",
+      "base_id": 881
+    },
+    {
+      "building_id": 413,
+      "name": "Building 413",
+      "damage": 49,
+      "hp": 1128,
+      "type": "Tower",
+      "base_id": 216
+    },
+    {
+      "building_id": 414,
+      "name": "Building 414",
+      "damage": 89,
+      "hp": 579,
+      "type": "Tower",
+      "base_id": 90
+    },
+    {
+      "building_id": 415,
+      "name": "Building 415",
+      "damage": 20,
+      "hp": 1819,
+      "type": "Farm",
+      "base_id": 645
+    },
+    {
+      "building_id": 416,
+      "name": "Building 416",
+      "damage": 21,
+      "hp": 669,
+      "type": "Farm",
+      "base_id": 174
+    },
+    {
+      "building_id": 417,
+      "name": "Building 417",
+      "damage": 61,
+      "hp": 1347,
+      "type": "Tower",
+      "base_id": 773
+    },
+    {
+      "building_id": 418,
+      "name": "Building 418",
+      "damage": 10,
+      "hp": 1561,
+      "type": "Farm",
+      "base_id": 259
+    },
+    {
+      "building_id": 419,
+      "name": "Building 419",
+      "damage": 52,
+      "hp": 600,
+      "type": "Barracks",
+      "base_id": 665
+    },
+    {
+      "building_id": 420,
+      "name": "Building 420",
+      "damage": 60,
+      "hp": 1056,
+      "type": "Tower",
+      "base_id": 759
+    },
+    {
+      "building_id": 421,
+      "name": "Building 421",
+      "damage": 66,
+      "hp": 1048,
+      "type": "Tower",
+      "base_id": 300
+    },
+    {
+      "building_id": 422,
+      "name": "Building 422",
+      "damage": 77,
+      "hp": 1748,
+      "type": "Barracks",
+      "base_id": 38
+    },
+    {
+      "building_id": 423,
+      "name": "Building 423",
+      "damage": 33,
+      "hp": 1435,
+      "type": "Barracks",
+      "base_id": 714
+    },
+    {
+      "building_id": 424,
+      "name": "Building 424",
+      "damage": 48,
+      "hp": 1083,
+      "type": "Town Hall",
+      "base_id": 689
+    },
+    {
+      "building_id": 425,
+      "name": "Building 425",
+      "damage": 26,
+      "hp": 1221,
+      "type": "Farm",
+      "base_id": 886
+    },
+    {
+      "building_id": 426,
+      "name": "Building 426",
+      "damage": 36,
+      "hp": 619,
+      "type": "Farm",
+      "base_id": 147
+    },
+    {
+      "building_id": 427,
+      "name": "Building 427",
+      "damage": 50,
+      "hp": 1728,
+      "type": "Town Hall",
+      "base_id": 555
+    },
+    {
+      "building_id": 428,
+      "name": "Building 428",
+      "damage": 36,
+      "hp": 594,
+      "type": "Barracks",
+      "base_id": 204
+    },
+    {
+      "building_id": 429,
+      "name": "Building 429",
+      "damage": 34,
+      "hp": 1510,
+      "type": "Town Hall",
+      "base_id": 69
+    },
+    {
+      "building_id": 430,
+      "name": "Building 430",
+      "damage": 83,
+      "hp": 908,
+      "type": "Farm",
+      "base_id": 702
+    },
+    {
+      "building_id": 431,
+      "name": "Building 431",
+      "damage": 66,
+      "hp": 1759,
+      "type": "Barracks",
+      "base_id": 150
+    },
+    {
+      "building_id": 432,
+      "name": "Building 432",
+      "damage": 33,
+      "hp": 805,
+      "type": "Town Hall",
+      "base_id": 748
+    },
+    {
+      "building_id": 433,
+      "name": "Building 433",
+      "damage": 57,
+      "hp": 1653,
+      "type": "Town Hall",
+      "base_id": 277
+    },
+    {
+      "building_id": 434,
+      "name": "Building 434",
+      "damage": 53,
+      "hp": 954,
+      "type": "Barracks",
+      "base_id": 103
+    },
+    {
+      "building_id": 435,
+      "name": "Building 435",
+      "damage": 16,
+      "hp": 889,
+      "type": "Farm",
+      "base_id": 54
+    },
+    {
+      "building_id": 436,
+      "name": "Building 436",
+      "damage": 81,
+      "hp": 1607,
+      "type": "Tower",
+      "base_id": 737
+    },
+    {
+      "building_id": 437,
+      "name": "Building 437",
+      "damage": 50,
+      "hp": 836,
+      "type": "Barracks",
+      "base_id": 491
+    },
+    {
+      "building_id": 438,
+      "name": "Building 438",
+      "damage": 28,
+      "hp": 1902,
+      "type": "Farm",
+      "base_id": 843
+    },
+    {
+      "building_id": 439,
+      "name": "Building 439",
+      "damage": 89,
+      "hp": 1793,
+      "type": "Tower",
+      "base_id": 484
+    },
+    {
+      "building_id": 440,
+      "name": "Building 440",
+      "damage": 93,
+      "hp": 1353,
+      "type": "Barracks",
+      "base_id": 320
+    },
+    {
+      "building_id": 441,
+      "name": "Building 441",
+      "damage": 66,
+      "hp": 1870,
+      "type": "Town Hall",
+      "base_id": 947
+    },
+    {
+      "building_id": 442,
+      "name": "Building 442",
+      "damage": 47,
+      "hp": 1977,
+      "type": "Town Hall",
+      "base_id": 143
+    },
+    {
+      "building_id": 443,
+      "name": "Building 443",
+      "damage": 72,
+      "hp": 1796,
+      "type": "Tower",
+      "base_id": 789
+    },
+    {
+      "building_id": 444,
+      "name": "Building 444",
+      "damage": 71,
+      "hp": 1008,
+      "type": "Barracks",
+      "base_id": 350
+    },
+    {
+      "building_id": 445,
+      "name": "Building 445",
+      "damage": 97,
+      "hp": 1380,
+      "type": "Barracks",
+      "base_id": 901
+    },
+    {
+      "building_id": 446,
+      "name": "Building 446",
+      "damage": 98,
+      "hp": 1577,
+      "type": "Farm",
+      "base_id": 439
+    },
+    {
+      "building_id": 447,
+      "name": "Building 447",
+      "damage": 89,
+      "hp": 675,
+      "type": "Tower",
+      "base_id": 464
+    },
+    {
+      "building_id": 448,
+      "name": "Building 448",
+      "damage": 64,
+      "hp": 594,
+      "type": "Farm",
+      "base_id": 250
+    },
+    {
+      "building_id": 449,
+      "name": "Building 449",
+      "damage": 62,
+      "hp": 1589,
+      "type": "Town Hall",
+      "base_id": 271
+    },
+    {
+      "building_id": 450,
+      "name": "Building 450",
+      "damage": 37,
+      "hp": 1099,
+      "type": "Barracks",
+      "base_id": 431
+    },
+    {
+      "building_id": 451,
+      "name": "Building 451",
+      "damage": 75,
+      "hp": 1798,
+      "type": "Tower",
+      "base_id": 714
+    },
+    {
+      "building_id": 452,
+      "name": "Building 452",
+      "damage": 36,
+      "hp": 848,
+      "type": "Farm",
+      "base_id": 461
+    },
+    {
+      "building_id": 453,
+      "name": "Building 453",
+      "damage": 58,
+      "hp": 1155,
+      "type": "Town Hall",
+      "base_id": 26
+    },
+    {
+      "building_id": 454,
+      "name": "Building 454",
+      "damage": 43,
+      "hp": 1820,
+      "type": "Barracks",
+      "base_id": 385
+    },
+    {
+      "building_id": 455,
+      "name": "Building 455",
+      "damage": 66,
+      "hp": 1432,
+      "type": "Farm",
+      "base_id": 685
+    },
+    {
+      "building_id": 456,
+      "name": "Building 456",
+      "damage": 69,
+      "hp": 506,
+      "type": "Town Hall",
+      "base_id": 433
+    },
+    {
+      "building_id": 457,
+      "name": "Building 457",
+      "damage": 33,
+      "hp": 566,
+      "type": "Farm",
+      "base_id": 524
+    },
+    {
+      "building_id": 458,
+      "name": "Building 458",
+      "damage": 15,
+      "hp": 574,
+      "type": "Town Hall",
+      "base_id": 356
+    },
+    {
+      "building_id": 459,
+      "name": "Building 459",
+      "damage": 33,
+      "hp": 1648,
+      "type": "Tower",
+      "base_id": 798
+    },
+    {
+      "building_id": 460,
+      "name": "Building 460",
+      "damage": 33,
+      "hp": 992,
+      "type": "Town Hall",
+      "base_id": 693
+    },
+    {
+      "building_id": 461,
+      "name": "Building 461",
+      "damage": 41,
+      "hp": 909,
+      "type": "Farm",
+      "base_id": 672
+    },
+    {
+      "building_id": 462,
+      "name": "Building 462",
+      "damage": 87,
+      "hp": 1611,
+      "type": "Tower",
+      "base_id": 912
+    },
+    {
+      "building_id": 463,
+      "name": "Building 463",
+      "damage": 53,
+      "hp": 1931,
+      "type": "Farm",
+      "base_id": 495
+    },
+    {
+      "building_id": 464,
+      "name": "Building 464",
+      "damage": 73,
+      "hp": 577,
+      "type": "Farm",
+      "base_id": 711
+    },
+    {
+      "building_id": 465,
+      "name": "Building 465",
+      "damage": 64,
+      "hp": 803,
+      "type": "Farm",
+      "base_id": 322
+    },
+    {
+      "building_id": 466,
+      "name": "Building 466",
+      "damage": 20,
+      "hp": 719,
+      "type": "Barracks",
+      "base_id": 72
+    },
+    {
+      "building_id": 467,
+      "name": "Building 467",
+      "damage": 23,
+      "hp": 1143,
+      "type": "Barracks",
+      "base_id": 216
+    },
+    {
+      "building_id": 468,
+      "name": "Building 468",
+      "damage": 82,
+      "hp": 1819,
+      "type": "Town Hall",
+      "base_id": 734
+    },
+    {
+      "building_id": 469,
+      "name": "Building 469",
+      "damage": 29,
+      "hp": 1078,
+      "type": "Farm",
+      "base_id": 377
+    },
+    {
+      "building_id": 470,
+      "name": "Building 470",
+      "damage": 58,
+      "hp": 1810,
+      "type": "Town Hall",
+      "base_id": 598
+    },
+    {
+      "building_id": 471,
+      "name": "Building 471",
+      "damage": 13,
+      "hp": 1479,
+      "type": "Town Hall",
+      "base_id": 74
+    },
+    {
+      "building_id": 472,
+      "name": "Building 472",
+      "damage": 74,
+      "hp": 1137,
+      "type": "Tower",
+      "base_id": 811
+    },
+    {
+      "building_id": 473,
+      "name": "Building 473",
+      "damage": 39,
+      "hp": 1797,
+      "type": "Town Hall",
+      "base_id": 410
+    },
+    {
+      "building_id": 474,
+      "name": "Building 474",
+      "damage": 100,
+      "hp": 790,
+      "type": "Barracks",
+      "base_id": 384
+    },
+    {
+      "building_id": 475,
+      "name": "Building 475",
+      "damage": 69,
+      "hp": 1330,
+      "type": "Barracks",
+      "base_id": 551
+    },
+    {
+      "building_id": 476,
+      "name": "Building 476",
+      "damage": 17,
+      "hp": 1009,
+      "type": "Town Hall",
+      "base_id": 94
+    },
+    {
+      "building_id": 477,
+      "name": "Building 477",
+      "damage": 26,
+      "hp": 1915,
+      "type": "Town Hall",
+      "base_id": 284
+    },
+    {
+      "building_id": 478,
+      "name": "Building 478",
+      "damage": 15,
+      "hp": 1573,
+      "type": "Farm",
+      "base_id": 562
+    },
+    {
+      "building_id": 479,
+      "name": "Building 479",
+      "damage": 91,
+      "hp": 1944,
+      "type": "Town Hall",
+      "base_id": 654
+    },
+    {
+      "building_id": 480,
+      "name": "Building 480",
+      "damage": 61,
+      "hp": 1434,
+      "type": "Farm",
+      "base_id": 536
+    },
+    {
+      "building_id": 481,
+      "name": "Building 481",
+      "damage": 26,
+      "hp": 708,
+      "type": "Tower",
+      "base_id": 427
+    },
+    {
+      "building_id": 482,
+      "name": "Building 482",
+      "damage": 79,
+      "hp": 879,
+      "type": "Barracks",
+      "base_id": 695
+    },
+    {
+      "building_id": 483,
+      "name": "Building 483",
+      "damage": 90,
+      "hp": 639,
+      "type": "Barracks",
+      "base_id": 131
+    },
+    {
+      "building_id": 484,
+      "name": "Building 484",
+      "damage": 54,
+      "hp": 1964,
+      "type": "Farm",
+      "base_id": 750
+    },
+    {
+      "building_id": 485,
+      "name": "Building 485",
+      "damage": 60,
+      "hp": 549,
+      "type": "Town Hall",
+      "base_id": 343
+    },
+    {
+      "building_id": 486,
+      "name": "Building 486",
+      "damage": 86,
+      "hp": 822,
+      "type": "Barracks",
+      "base_id": 93
+    },
+    {
+      "building_id": 487,
+      "name": "Building 487",
+      "damage": 23,
+      "hp": 999,
+      "type": "Farm",
+      "base_id": 904
+    },
+    {
+      "building_id": 488,
+      "name": "Building 488",
+      "damage": 84,
+      "hp": 1060,
+      "type": "Farm",
+      "base_id": 930
+    },
+    {
+      "building_id": 489,
+      "name": "Building 489",
+      "damage": 81,
+      "hp": 571,
+      "type": "Barracks",
+      "base_id": 776
+    },
+    {
+      "building_id": 490,
+      "name": "Building 490",
+      "damage": 99,
+      "hp": 1837,
+      "type": "Farm",
+      "base_id": 728
+    },
+    {
+      "building_id": 491,
+      "name": "Building 491",
+      "damage": 62,
+      "hp": 1743,
+      "type": "Tower",
+      "base_id": 93
+    },
+    {
+      "building_id": 492,
+      "name": "Building 492",
+      "damage": 58,
+      "hp": 1414,
+      "type": "Tower",
+      "base_id": 838
+    },
+    {
+      "building_id": 493,
+      "name": "Building 493",
+      "damage": 53,
+      "hp": 704,
+      "type": "Tower",
+      "base_id": 51
+    },
+    {
+      "building_id": 494,
+      "name": "Building 494",
+      "damage": 93,
+      "hp": 1441,
+      "type": "Tower",
+      "base_id": 202
+    },
+    {
+      "building_id": 495,
+      "name": "Building 495",
+      "damage": 34,
+      "hp": 1770,
+      "type": "Barracks",
+      "base_id": 350
+    },
+    {
+      "building_id": 496,
+      "name": "Building 496",
+      "damage": 61,
+      "hp": 646,
+      "type": "Farm",
+      "base_id": 37
+    },
+    {
+      "building_id": 497,
+      "name": "Building 497",
+      "damage": 97,
+      "hp": 719,
+      "type": "Town Hall",
+      "base_id": 113
+    },
+    {
+      "building_id": 498,
+      "name": "Building 498",
+      "damage": 98,
+      "hp": 1848,
+      "type": "Farm",
+      "base_id": 883
+    },
+    {
+      "building_id": 499,
+      "name": "Building 499",
+      "damage": 91,
+      "hp": 591,
+      "type": "Tower",
+      "base_id": 688
+    },
+    {
+      "building_id": 500,
+      "name": "Building 500",
+      "damage": 20,
+      "hp": 1530,
+      "type": "Town Hall",
+      "base_id": 604
+    },
+    {
+      "building_id": 501,
+      "name": "Building 501",
+      "damage": 39,
+      "hp": 1287,
+      "type": "Town Hall",
+      "base_id": 305
+    },
+    {
+      "building_id": 502,
+      "name": "Building 502",
+      "damage": 76,
+      "hp": 1046,
+      "type": "Farm",
+      "base_id": 811
+    },
+    {
+      "building_id": 503,
+      "name": "Building 503",
+      "damage": 40,
+      "hp": 1729,
+      "type": "Farm",
+      "base_id": 384
+    },
+    {
+      "building_id": 504,
+      "name": "Building 504",
+      "damage": 54,
+      "hp": 884,
+      "type": "Tower",
+      "base_id": 409
+    },
+    {
+      "building_id": 505,
+      "name": "Building 505",
+      "damage": 38,
+      "hp": 1767,
+      "type": "Town Hall",
+      "base_id": 919
+    },
+    {
+      "building_id": 506,
+      "name": "Building 506",
+      "damage": 72,
+      "hp": 1647,
+      "type": "Town Hall",
+      "base_id": 928
+    },
+    {
+      "building_id": 507,
+      "name": "Building 507",
+      "damage": 81,
+      "hp": 1852,
+      "type": "Town Hall",
+      "base_id": 780
+    },
+    {
+      "building_id": 508,
+      "name": "Building 508",
+      "damage": 92,
+      "hp": 940,
+      "type": "Farm",
+      "base_id": 859
+    },
+    {
+      "building_id": 509,
+      "name": "Building 509",
+      "damage": 23,
+      "hp": 1101,
+      "type": "Town Hall",
+      "base_id": 712
+    },
+    {
+      "building_id": 510,
+      "name": "Building 510",
+      "damage": 56,
+      "hp": 1206,
+      "type": "Tower",
+      "base_id": 891
+    },
+    {
+      "building_id": 511,
+      "name": "Building 511",
+      "damage": 82,
+      "hp": 507,
+      "type": "Farm",
+      "base_id": 363
+    },
+    {
+      "building_id": 512,
+      "name": "Building 512",
+      "damage": 55,
+      "hp": 1333,
+      "type": "Tower",
+      "base_id": 695
+    },
+    {
+      "building_id": 513,
+      "name": "Building 513",
+      "damage": 52,
+      "hp": 1705,
+      "type": "Farm",
+      "base_id": 435
+    },
+    {
+      "building_id": 514,
+      "name": "Building 514",
+      "damage": 52,
+      "hp": 1748,
+      "type": "Town Hall",
+      "base_id": 286
+    },
+    {
+      "building_id": 515,
+      "name": "Building 515",
+      "damage": 20,
+      "hp": 1355,
+      "type": "Barracks",
+      "base_id": 148
+    },
+    {
+      "building_id": 516,
+      "name": "Building 516",
+      "damage": 39,
+      "hp": 1124,
+      "type": "Town Hall",
+      "base_id": 884
+    },
+    {
+      "building_id": 517,
+      "name": "Building 517",
+      "damage": 23,
+      "hp": 1775,
+      "type": "Town Hall",
+      "base_id": 287
+    },
+    {
+      "building_id": 518,
+      "name": "Building 518",
+      "damage": 100,
+      "hp": 1377,
+      "type": "Farm",
+      "base_id": 331
+    },
+    {
+      "building_id": 519,
+      "name": "Building 519",
+      "damage": 69,
+      "hp": 1927,
+      "type": "Town Hall",
+      "base_id": 136
+    },
+    {
+      "building_id": 520,
+      "name": "Building 520",
+      "damage": 83,
+      "hp": 1444,
+      "type": "Tower",
+      "base_id": 987
+    },
+    {
+      "building_id": 521,
+      "name": "Building 521",
+      "damage": 19,
+      "hp": 1599,
+      "type": "Tower",
+      "base_id": 524
+    },
+    {
+      "building_id": 522,
+      "name": "Building 522",
+      "damage": 31,
+      "hp": 1806,
+      "type": "Tower",
+      "base_id": 909
+    },
+    {
+      "building_id": 523,
+      "name": "Building 523",
+      "damage": 48,
+      "hp": 733,
+      "type": "Farm",
+      "base_id": 891
+    },
+    {
+      "building_id": 524,
+      "name": "Building 524",
+      "damage": 62,
+      "hp": 663,
+      "type": "Farm",
+      "base_id": 374
+    },
+    {
+      "building_id": 525,
+      "name": "Building 525",
+      "damage": 26,
+      "hp": 1611,
+      "type": "Barracks",
+      "base_id": 837
+    },
+    {
+      "building_id": 526,
+      "name": "Building 526",
+      "damage": 23,
+      "hp": 1752,
+      "type": "Barracks",
+      "base_id": 979
+    },
+    {
+      "building_id": 527,
+      "name": "Building 527",
+      "damage": 65,
+      "hp": 1639,
+      "type": "Town Hall",
+      "base_id": 683
+    },
+    {
+      "building_id": 528,
+      "name": "Building 528",
+      "damage": 52,
+      "hp": 912,
+      "type": "Town Hall",
+      "base_id": 266
+    },
+    {
+      "building_id": 529,
+      "name": "Building 529",
+      "damage": 11,
+      "hp": 803,
+      "type": "Barracks",
+      "base_id": 698
+    },
+    {
+      "building_id": 530,
+      "name": "Building 530",
+      "damage": 53,
+      "hp": 1312,
+      "type": "Farm",
+      "base_id": 43
+    },
+    {
+      "building_id": 531,
+      "name": "Building 531",
+      "damage": 86,
+      "hp": 1949,
+      "type": "Tower",
+      "base_id": 260
+    },
+    {
+      "building_id": 532,
+      "name": "Building 532",
+      "damage": 74,
+      "hp": 1886,
+      "type": "Farm",
+      "base_id": 169
+    },
+    {
+      "building_id": 533,
+      "name": "Building 533",
+      "damage": 57,
+      "hp": 1021,
+      "type": "Barracks",
+      "base_id": 470
+    },
+    {
+      "building_id": 534,
+      "name": "Building 534",
+      "damage": 100,
+      "hp": 927,
+      "type": "Town Hall",
+      "base_id": 161
+    },
+    {
+      "building_id": 535,
+      "name": "Building 535",
+      "damage": 84,
+      "hp": 1615,
+      "type": "Tower",
+      "base_id": 410
+    },
+    {
+      "building_id": 536,
+      "name": "Building 536",
+      "damage": 91,
+      "hp": 1966,
+      "type": "Farm",
+      "base_id": 235
+    },
+    {
+      "building_id": 537,
+      "name": "Building 537",
+      "damage": 43,
+      "hp": 1222,
+      "type": "Town Hall",
+      "base_id": 498
+    },
+    {
+      "building_id": 538,
+      "name": "Building 538",
+      "damage": 62,
+      "hp": 620,
+      "type": "Town Hall",
+      "base_id": 709
+    },
+    {
+      "building_id": 539,
+      "name": "Building 539",
+      "damage": 91,
+      "hp": 1210,
+      "type": "Farm",
+      "base_id": 161
+    },
+    {
+      "building_id": 540,
+      "name": "Building 540",
+      "damage": 93,
+      "hp": 1491,
+      "type": "Farm",
+      "base_id": 389
+    },
+    {
+      "building_id": 541,
+      "name": "Building 541",
+      "damage": 42,
+      "hp": 1529,
+      "type": "Farm",
+      "base_id": 72
+    },
+    {
+      "building_id": 542,
+      "name": "Building 542",
+      "damage": 25,
+      "hp": 1897,
+      "type": "Barracks",
+      "base_id": 853
+    },
+    {
+      "building_id": 543,
+      "name": "Building 543",
+      "damage": 46,
+      "hp": 1888,
+      "type": "Farm",
+      "base_id": 218
+    },
+    {
+      "building_id": 544,
+      "name": "Building 544",
+      "damage": 66,
+      "hp": 640,
+      "type": "Barracks",
+      "base_id": 567
+    },
+    {
+      "building_id": 545,
+      "name": "Building 545",
+      "damage": 83,
+      "hp": 939,
+      "type": "Tower",
+      "base_id": 241
+    },
+    {
+      "building_id": 546,
+      "name": "Building 546",
+      "damage": 86,
+      "hp": 1276,
+      "type": "Town Hall",
+      "base_id": 550
+    },
+    {
+      "building_id": 547,
+      "name": "Building 547",
+      "damage": 14,
+      "hp": 565,
+      "type": "Town Hall",
+      "base_id": 957
+    },
+    {
+      "building_id": 548,
+      "name": "Building 548",
+      "damage": 40,
+      "hp": 1903,
+      "type": "Farm",
+      "base_id": 946
+    },
+    {
+      "building_id": 549,
+      "name": "Building 549",
+      "damage": 22,
+      "hp": 1593,
+      "type": "Barracks",
+      "base_id": 734
+    },
+    {
+      "building_id": 550,
+      "name": "Building 550",
+      "damage": 24,
+      "hp": 641,
+      "type": "Tower",
+      "base_id": 796
+    },
+    {
+      "building_id": 551,
+      "name": "Building 551",
+      "damage": 92,
+      "hp": 1194,
+      "type": "Farm",
+      "base_id": 924
+    },
+    {
+      "building_id": 552,
+      "name": "Building 552",
+      "damage": 81,
+      "hp": 1315,
+      "type": "Tower",
+      "base_id": 225
+    },
+    {
+      "building_id": 553,
+      "name": "Building 553",
+      "damage": 11,
+      "hp": 1636,
+      "type": "Farm",
+      "base_id": 930
+    },
+    {
+      "building_id": 554,
+      "name": "Building 554",
+      "damage": 17,
+      "hp": 1258,
+      "type": "Barracks",
+      "base_id": 624
+    },
+    {
+      "building_id": 555,
+      "name": "Building 555",
+      "damage": 78,
+      "hp": 701,
+      "type": "Town Hall",
+      "base_id": 311
+    },
+    {
+      "building_id": 556,
+      "name": "Building 556",
+      "damage": 98,
+      "hp": 1552,
+      "type": "Farm",
+      "base_id": 142
+    },
+    {
+      "building_id": 557,
+      "name": "Building 557",
+      "damage": 72,
+      "hp": 1803,
+      "type": "Farm",
+      "base_id": 930
+    },
+    {
+      "building_id": 558,
+      "name": "Building 558",
+      "damage": 63,
+      "hp": 893,
+      "type": "Farm",
+      "base_id": 488
+    },
+    {
+      "building_id": 559,
+      "name": "Building 559",
+      "damage": 44,
+      "hp": 789,
+      "type": "Tower",
+      "base_id": 455
+    },
+    {
+      "building_id": 560,
+      "name": "Building 560",
+      "damage": 24,
+      "hp": 984,
+      "type": "Farm",
+      "base_id": 622
+    },
+    {
+      "building_id": 561,
+      "name": "Building 561",
+      "damage": 82,
+      "hp": 1467,
+      "type": "Barracks",
+      "base_id": 142
+    },
+    {
+      "building_id": 562,
+      "name": "Building 562",
+      "damage": 85,
+      "hp": 1860,
+      "type": "Town Hall",
+      "base_id": 559
+    },
+    {
+      "building_id": 563,
+      "name": "Building 563",
+      "damage": 59,
+      "hp": 1812,
+      "type": "Tower",
+      "base_id": 677
+    },
+    {
+      "building_id": 564,
+      "name": "Building 564",
+      "damage": 94,
+      "hp": 1499,
+      "type": "Tower",
+      "base_id": 496
+    },
+    {
+      "building_id": 565,
+      "name": "Building 565",
+      "damage": 45,
+      "hp": 541,
+      "type": "Farm",
+      "base_id": 138
+    },
+    {
+      "building_id": 566,
+      "name": "Building 566",
+      "damage": 96,
+      "hp": 979,
+      "type": "Barracks",
+      "base_id": 136
+    },
+    {
+      "building_id": 567,
+      "name": "Building 567",
+      "damage": 97,
+      "hp": 845,
+      "type": "Tower",
+      "base_id": 723
+    },
+    {
+      "building_id": 568,
+      "name": "Building 568",
+      "damage": 86,
+      "hp": 1089,
+      "type": "Barracks",
+      "base_id": 29
+    },
+    {
+      "building_id": 569,
+      "name": "Building 569",
+      "damage": 100,
+      "hp": 1126,
+      "type": "Barracks",
+      "base_id": 341
+    },
+    {
+      "building_id": 570,
+      "name": "Building 570",
+      "damage": 89,
+      "hp": 1428,
+      "type": "Barracks",
+      "base_id": 107
+    },
+    {
+      "building_id": 571,
+      "name": "Building 571",
+      "damage": 84,
+      "hp": 971,
+      "type": "Tower",
+      "base_id": 820
+    },
+    {
+      "building_id": 572,
+      "name": "Building 572",
+      "damage": 15,
+      "hp": 1701,
+      "type": "Farm",
+      "base_id": 171
+    },
+    {
+      "building_id": 573,
+      "name": "Building 573",
+      "damage": 22,
+      "hp": 1687,
+      "type": "Tower",
+      "base_id": 52
+    },
+    {
+      "building_id": 574,
+      "name": "Building 574",
+      "damage": 52,
+      "hp": 778,
+      "type": "Barracks",
+      "base_id": 927
+    },
+    {
+      "building_id": 575,
+      "name": "Building 575",
+      "damage": 43,
+      "hp": 1559,
+      "type": "Tower",
+      "base_id": 891
+    },
+    {
+      "building_id": 576,
+      "name": "Building 576",
+      "damage": 33,
+      "hp": 982,
+      "type": "Tower",
+      "base_id": 903
+    },
+    {
+      "building_id": 577,
+      "name": "Building 577",
+      "damage": 63,
+      "hp": 763,
+      "type": "Farm",
+      "base_id": 296
+    },
+    {
+      "building_id": 578,
+      "name": "Building 578",
+      "damage": 82,
+      "hp": 1124,
+      "type": "Tower",
+      "base_id": 573
+    },
+    {
+      "building_id": 579,
+      "name": "Building 579",
+      "damage": 24,
+      "hp": 554,
+      "type": "Farm",
+      "base_id": 425
+    },
+    {
+      "building_id": 580,
+      "name": "Building 580",
+      "damage": 64,
+      "hp": 1156,
+      "type": "Farm",
+      "base_id": 482
+    },
+    {
+      "building_id": 581,
+      "name": "Building 581",
+      "damage": 52,
+      "hp": 1987,
+      "type": "Town Hall",
+      "base_id": 487
+    },
+    {
+      "building_id": 582,
+      "name": "Building 582",
+      "damage": 10,
+      "hp": 710,
+      "type": "Barracks",
+      "base_id": 693
+    },
+    {
+      "building_id": 583,
+      "name": "Building 583",
+      "damage": 79,
+      "hp": 1109,
+      "type": "Barracks",
+      "base_id": 191
+    },
+    {
+      "building_id": 584,
+      "name": "Building 584",
+      "damage": 56,
+      "hp": 1540,
+      "type": "Tower",
+      "base_id": 594
+    },
+    {
+      "building_id": 585,
+      "name": "Building 585",
+      "damage": 11,
+      "hp": 1567,
+      "type": "Town Hall",
+      "base_id": 39
+    },
+    {
+      "building_id": 586,
+      "name": "Building 586",
+      "damage": 66,
+      "hp": 715,
+      "type": "Tower",
+      "base_id": 799
+    },
+    {
+      "building_id": 587,
+      "name": "Building 587",
+      "damage": 43,
+      "hp": 692,
+      "type": "Town Hall",
+      "base_id": 804
+    },
+    {
+      "building_id": 588,
+      "name": "Building 588",
+      "damage": 28,
+      "hp": 1109,
+      "type": "Town Hall",
+      "base_id": 846
+    },
+    {
+      "building_id": 589,
+      "name": "Building 589",
+      "damage": 56,
+      "hp": 1805,
+      "type": "Tower",
+      "base_id": 17
+    },
+    {
+      "building_id": 590,
+      "name": "Building 590",
+      "damage": 12,
+      "hp": 1227,
+      "type": "Tower",
+      "base_id": 142
+    },
+    {
+      "building_id": 591,
+      "name": "Building 591",
+      "damage": 95,
+      "hp": 1322,
+      "type": "Barracks",
+      "base_id": 308
+    },
+    {
+      "building_id": 592,
+      "name": "Building 592",
+      "damage": 42,
+      "hp": 1002,
+      "type": "Tower",
+      "base_id": 580
+    },
+    {
+      "building_id": 593,
+      "name": "Building 593",
+      "damage": 25,
+      "hp": 1052,
+      "type": "Town Hall",
+      "base_id": 261
+    },
+    {
+      "building_id": 594,
+      "name": "Building 594",
+      "damage": 80,
+      "hp": 1077,
+      "type": "Tower",
+      "base_id": 123
+    },
+    {
+      "building_id": 595,
+      "name": "Building 595",
+      "damage": 93,
+      "hp": 1433,
+      "type": "Tower",
+      "base_id": 486
+    },
+    {
+      "building_id": 596,
+      "name": "Building 596",
+      "damage": 98,
+      "hp": 1562,
+      "type": "Barracks",
+      "base_id": 488
+    },
+    {
+      "building_id": 597,
+      "name": "Building 597",
+      "damage": 24,
+      "hp": 657,
+      "type": "Barracks",
+      "base_id": 957
+    },
+    {
+      "building_id": 598,
+      "name": "Building 598",
+      "damage": 90,
+      "hp": 1295,
+      "type": "Farm",
+      "base_id": 958
+    },
+    {
+      "building_id": 599,
+      "name": "Building 599",
+      "damage": 27,
+      "hp": 953,
+      "type": "Barracks",
+      "base_id": 450
+    },
+    {
+      "building_id": 600,
+      "name": "Building 600",
+      "damage": 61,
+      "hp": 949,
+      "type": "Barracks",
+      "base_id": 927
+    },
+    {
+      "building_id": 601,
+      "name": "Building 601",
+      "damage": 20,
+      "hp": 1557,
+      "type": "Tower",
+      "base_id": 179
+    },
+    {
+      "building_id": 602,
+      "name": "Building 602",
+      "damage": 66,
+      "hp": 1333,
+      "type": "Town Hall",
+      "base_id": 511
+    },
+    {
+      "building_id": 603,
+      "name": "Building 603",
+      "damage": 52,
+      "hp": 735,
+      "type": "Town Hall",
+      "base_id": 130
+    },
+    {
+      "building_id": 604,
+      "name": "Building 604",
+      "damage": 65,
+      "hp": 1608,
+      "type": "Farm",
+      "base_id": 718
+    },
+    {
+      "building_id": 605,
+      "name": "Building 605",
+      "damage": 90,
+      "hp": 1625,
+      "type": "Farm",
+      "base_id": 174
+    },
+    {
+      "building_id": 606,
+      "name": "Building 606",
+      "damage": 31,
+      "hp": 998,
+      "type": "Town Hall",
+      "base_id": 190
+    },
+    {
+      "building_id": 607,
+      "name": "Building 607",
+      "damage": 70,
+      "hp": 1353,
+      "type": "Barracks",
+      "base_id": 209
+    },
+    {
+      "building_id": 608,
+      "name": "Building 608",
+      "damage": 57,
+      "hp": 531,
+      "type": "Farm",
+      "base_id": 115
+    },
+    {
+      "building_id": 609,
+      "name": "Building 609",
+      "damage": 18,
+      "hp": 536,
+      "type": "Farm",
+      "base_id": 404
+    },
+    {
+      "building_id": 610,
+      "name": "Building 610",
+      "damage": 90,
+      "hp": 1500,
+      "type": "Tower",
+      "base_id": 365
+    },
+    {
+      "building_id": 611,
+      "name": "Building 611",
+      "damage": 40,
+      "hp": 1486,
+      "type": "Tower",
+      "base_id": 652
+    },
+    {
+      "building_id": 612,
+      "name": "Building 612",
+      "damage": 22,
+      "hp": 1426,
+      "type": "Barracks",
+      "base_id": 12
+    },
+    {
+      "building_id": 613,
+      "name": "Building 613",
+      "damage": 28,
+      "hp": 809,
+      "type": "Farm",
+      "base_id": 795
+    },
+    {
+      "building_id": 614,
+      "name": "Building 614",
+      "damage": 72,
+      "hp": 896,
+      "type": "Farm",
+      "base_id": 790
+    },
+    {
+      "building_id": 615,
+      "name": "Building 615",
+      "damage": 29,
+      "hp": 1831,
+      "type": "Farm",
+      "base_id": 444
+    },
+    {
+      "building_id": 616,
+      "name": "Building 616",
+      "damage": 38,
+      "hp": 1219,
+      "type": "Farm",
+      "base_id": 268
+    },
+    {
+      "building_id": 617,
+      "name": "Building 617",
+      "damage": 29,
+      "hp": 656,
+      "type": "Town Hall",
+      "base_id": 893
+    },
+    {
+      "building_id": 618,
+      "name": "Building 618",
+      "damage": 66,
+      "hp": 1896,
+      "type": "Barracks",
+      "base_id": 365
+    },
+    {
+      "building_id": 619,
+      "name": "Building 619",
+      "damage": 52,
+      "hp": 924,
+      "type": "Town Hall",
+      "base_id": 367
+    },
+    {
+      "building_id": 620,
+      "name": "Building 620",
+      "damage": 39,
+      "hp": 1806,
+      "type": "Town Hall",
+      "base_id": 478
+    },
+    {
+      "building_id": 621,
+      "name": "Building 621",
+      "damage": 34,
+      "hp": 813,
+      "type": "Barracks",
+      "base_id": 698
+    },
+    {
+      "building_id": 622,
+      "name": "Building 622",
+      "damage": 37,
+      "hp": 1089,
+      "type": "Town Hall",
+      "base_id": 300
+    },
+    {
+      "building_id": 623,
+      "name": "Building 623",
+      "damage": 100,
+      "hp": 622,
+      "type": "Farm",
+      "base_id": 783
+    },
+    {
+      "building_id": 624,
+      "name": "Building 624",
+      "damage": 49,
+      "hp": 680,
+      "type": "Town Hall",
+      "base_id": 778
+    },
+    {
+      "building_id": 625,
+      "name": "Building 625",
+      "damage": 76,
+      "hp": 1448,
+      "type": "Tower",
+      "base_id": 280
+    },
+    {
+      "building_id": 626,
+      "name": "Building 626",
+      "damage": 35,
+      "hp": 1208,
+      "type": "Tower",
+      "base_id": 614
+    },
+    {
+      "building_id": 627,
+      "name": "Building 627",
+      "damage": 66,
+      "hp": 1535,
+      "type": "Barracks",
+      "base_id": 1000
+    },
+    {
+      "building_id": 628,
+      "name": "Building 628",
+      "damage": 67,
+      "hp": 630,
+      "type": "Barracks",
+      "base_id": 202
+    },
+    {
+      "building_id": 629,
+      "name": "Building 629",
+      "damage": 91,
+      "hp": 1887,
+      "type": "Barracks",
+      "base_id": 756
+    },
+    {
+      "building_id": 630,
+      "name": "Building 630",
+      "damage": 33,
+      "hp": 1987,
+      "type": "Farm",
+      "base_id": 654
+    },
+    {
+      "building_id": 631,
+      "name": "Building 631",
+      "damage": 75,
+      "hp": 1370,
+      "type": "Tower",
+      "base_id": 483
+    },
+    {
+      "building_id": 632,
+      "name": "Building 632",
+      "damage": 18,
+      "hp": 1424,
+      "type": "Tower",
+      "base_id": 798
+    },
+    {
+      "building_id": 633,
+      "name": "Building 633",
+      "damage": 44,
+      "hp": 1417,
+      "type": "Tower",
+      "base_id": 787
+    },
+    {
+      "building_id": 634,
+      "name": "Building 634",
+      "damage": 92,
+      "hp": 1267,
+      "type": "Farm",
+      "base_id": 423
+    },
+    {
+      "building_id": 635,
+      "name": "Building 635",
+      "damage": 12,
+      "hp": 1066,
+      "type": "Barracks",
+      "base_id": 361
+    },
+    {
+      "building_id": 636,
+      "name": "Building 636",
+      "damage": 54,
+      "hp": 1870,
+      "type": "Barracks",
+      "base_id": 197
+    },
+    {
+      "building_id": 637,
+      "name": "Building 637",
+      "damage": 22,
+      "hp": 1198,
+      "type": "Town Hall",
+      "base_id": 906
+    },
+    {
+      "building_id": 638,
+      "name": "Building 638",
+      "damage": 29,
+      "hp": 1123,
+      "type": "Town Hall",
+      "base_id": 328
+    },
+    {
+      "building_id": 639,
+      "name": "Building 639",
+      "damage": 87,
+      "hp": 1539,
+      "type": "Farm",
+      "base_id": 830
+    },
+    {
+      "building_id": 640,
+      "name": "Building 640",
+      "damage": 78,
+      "hp": 1389,
+      "type": "Tower",
+      "base_id": 380
+    },
+    {
+      "building_id": 641,
+      "name": "Building 641",
+      "damage": 70,
+      "hp": 1085,
+      "type": "Barracks",
+      "base_id": 392
+    },
+    {
+      "building_id": 642,
+      "name": "Building 642",
+      "damage": 79,
+      "hp": 1754,
+      "type": "Tower",
+      "base_id": 230
+    },
+    {
+      "building_id": 643,
+      "name": "Building 643",
+      "damage": 32,
+      "hp": 1224,
+      "type": "Farm",
+      "base_id": 15
+    },
+    {
+      "building_id": 644,
+      "name": "Building 644",
+      "damage": 38,
+      "hp": 1304,
+      "type": "Town Hall",
+      "base_id": 71
+    },
+    {
+      "building_id": 645,
+      "name": "Building 645",
+      "damage": 71,
+      "hp": 1905,
+      "type": "Tower",
+      "base_id": 319
+    },
+    {
+      "building_id": 646,
+      "name": "Building 646",
+      "damage": 36,
+      "hp": 1769,
+      "type": "Town Hall",
+      "base_id": 435
+    },
+    {
+      "building_id": 647,
+      "name": "Building 647",
+      "damage": 78,
+      "hp": 1420,
+      "type": "Town Hall",
+      "base_id": 546
+    },
+    {
+      "building_id": 648,
+      "name": "Building 648",
+      "damage": 53,
+      "hp": 1352,
+      "type": "Farm",
+      "base_id": 613
+    },
+    {
+      "building_id": 649,
+      "name": "Building 649",
+      "damage": 17,
+      "hp": 1458,
+      "type": "Tower",
+      "base_id": 180
+    },
+    {
+      "building_id": 650,
+      "name": "Building 650",
+      "damage": 83,
+      "hp": 525,
+      "type": "Town Hall",
+      "base_id": 593
+    },
+    {
+      "building_id": 651,
+      "name": "Building 651",
+      "damage": 39,
+      "hp": 1941,
+      "type": "Town Hall",
+      "base_id": 373
+    },
+    {
+      "building_id": 652,
+      "name": "Building 652",
+      "damage": 15,
+      "hp": 1389,
+      "type": "Farm",
+      "base_id": 972
+    },
+    {
+      "building_id": 653,
+      "name": "Building 653",
+      "damage": 10,
+      "hp": 1802,
+      "type": "Tower",
+      "base_id": 860
+    },
+    {
+      "building_id": 654,
+      "name": "Building 654",
+      "damage": 74,
+      "hp": 949,
+      "type": "Town Hall",
+      "base_id": 388
+    },
+    {
+      "building_id": 655,
+      "name": "Building 655",
+      "damage": 49,
+      "hp": 866,
+      "type": "Town Hall",
+      "base_id": 470
+    },
+    {
+      "building_id": 656,
+      "name": "Building 656",
+      "damage": 14,
+      "hp": 537,
+      "type": "Barracks",
+      "base_id": 798
+    },
+    {
+      "building_id": 657,
+      "name": "Building 657",
+      "damage": 52,
+      "hp": 500,
+      "type": "Farm",
+      "base_id": 302
+    },
+    {
+      "building_id": 658,
+      "name": "Building 658",
+      "damage": 85,
+      "hp": 1887,
+      "type": "Farm",
+      "base_id": 377
+    },
+    {
+      "building_id": 659,
+      "name": "Building 659",
+      "damage": 95,
+      "hp": 1044,
+      "type": "Town Hall",
+      "base_id": 609
+    },
+    {
+      "building_id": 660,
+      "name": "Building 660",
+      "damage": 65,
+      "hp": 906,
+      "type": "Barracks",
+      "base_id": 851
+    },
+    {
+      "building_id": 661,
+      "name": "Building 661",
+      "damage": 42,
+      "hp": 1137,
+      "type": "Barracks",
+      "base_id": 668
+    },
+    {
+      "building_id": 662,
+      "name": "Building 662",
+      "damage": 60,
+      "hp": 1549,
+      "type": "Barracks",
+      "base_id": 612
+    },
+    {
+      "building_id": 663,
+      "name": "Building 663",
+      "damage": 22,
+      "hp": 1466,
+      "type": "Town Hall",
+      "base_id": 36
+    },
+    {
+      "building_id": 664,
+      "name": "Building 664",
+      "damage": 99,
+      "hp": 1387,
+      "type": "Barracks",
+      "base_id": 518
+    },
+    {
+      "building_id": 665,
+      "name": "Building 665",
+      "damage": 25,
+      "hp": 929,
+      "type": "Farm",
+      "base_id": 883
+    },
+    {
+      "building_id": 666,
+      "name": "Building 666",
+      "damage": 90,
+      "hp": 1709,
+      "type": "Town Hall",
+      "base_id": 399
+    },
+    {
+      "building_id": 667,
+      "name": "Building 667",
+      "damage": 36,
+      "hp": 1708,
+      "type": "Town Hall",
+      "base_id": 557
+    },
+    {
+      "building_id": 668,
+      "name": "Building 668",
+      "damage": 38,
+      "hp": 1772,
+      "type": "Farm",
+      "base_id": 864
+    },
+    {
+      "building_id": 669,
+      "name": "Building 669",
+      "damage": 57,
+      "hp": 704,
+      "type": "Tower",
+      "base_id": 542
+    },
+    {
+      "building_id": 670,
+      "name": "Building 670",
+      "damage": 21,
+      "hp": 1252,
+      "type": "Barracks",
+      "base_id": 693
+    },
+    {
+      "building_id": 671,
+      "name": "Building 671",
+      "damage": 77,
+      "hp": 1826,
+      "type": "Barracks",
+      "base_id": 909
+    },
+    {
+      "building_id": 672,
+      "name": "Building 672",
+      "damage": 48,
+      "hp": 1991,
+      "type": "Town Hall",
+      "base_id": 792
+    },
+    {
+      "building_id": 673,
+      "name": "Building 673",
+      "damage": 36,
+      "hp": 1650,
+      "type": "Farm",
+      "base_id": 236
+    },
+    {
+      "building_id": 674,
+      "name": "Building 674",
+      "damage": 65,
+      "hp": 1833,
+      "type": "Farm",
+      "base_id": 17
+    },
+    {
+      "building_id": 675,
+      "name": "Building 675",
+      "damage": 88,
+      "hp": 1393,
+      "type": "Town Hall",
+      "base_id": 549
+    },
+    {
+      "building_id": 676,
+      "name": "Building 676",
+      "damage": 55,
+      "hp": 991,
+      "type": "Tower",
+      "base_id": 596
+    },
+    {
+      "building_id": 677,
+      "name": "Building 677",
+      "damage": 94,
+      "hp": 1032,
+      "type": "Barracks",
+      "base_id": 68
+    },
+    {
+      "building_id": 678,
+      "name": "Building 678",
+      "damage": 78,
+      "hp": 1541,
+      "type": "Barracks",
+      "base_id": 883
+    },
+    {
+      "building_id": 679,
+      "name": "Building 679",
+      "damage": 17,
+      "hp": 1159,
+      "type": "Farm",
+      "base_id": 666
+    },
+    {
+      "building_id": 680,
+      "name": "Building 680",
+      "damage": 53,
+      "hp": 739,
+      "type": "Tower",
+      "base_id": 182
+    },
+    {
+      "building_id": 681,
+      "name": "Building 681",
+      "damage": 16,
+      "hp": 901,
+      "type": "Barracks",
+      "base_id": 991
+    },
+    {
+      "building_id": 682,
+      "name": "Building 682",
+      "damage": 92,
+      "hp": 1153,
+      "type": "Barracks",
+      "base_id": 459
+    },
+    {
+      "building_id": 683,
+      "name": "Building 683",
+      "damage": 75,
+      "hp": 1074,
+      "type": "Tower",
+      "base_id": 420
+    },
+    {
+      "building_id": 684,
+      "name": "Building 684",
+      "damage": 10,
+      "hp": 1037,
+      "type": "Town Hall",
+      "base_id": 497
+    },
+    {
+      "building_id": 685,
+      "name": "Building 685",
+      "damage": 89,
+      "hp": 936,
+      "type": "Barracks",
+      "base_id": 744
+    },
+    {
+      "building_id": 686,
+      "name": "Building 686",
+      "damage": 55,
+      "hp": 942,
+      "type": "Town Hall",
+      "base_id": 134
+    },
+    {
+      "building_id": 687,
+      "name": "Building 687",
+      "damage": 75,
+      "hp": 839,
+      "type": "Town Hall",
+      "base_id": 1000
+    },
+    {
+      "building_id": 688,
+      "name": "Building 688",
+      "damage": 91,
+      "hp": 1010,
+      "type": "Farm",
+      "base_id": 870
+    },
+    {
+      "building_id": 689,
+      "name": "Building 689",
+      "damage": 90,
+      "hp": 1370,
+      "type": "Farm",
+      "base_id": 299
+    },
+    {
+      "building_id": 690,
+      "name": "Building 690",
+      "damage": 72,
+      "hp": 758,
+      "type": "Tower",
+      "base_id": 673
+    },
+    {
+      "building_id": 691,
+      "name": "Building 691",
+      "damage": 13,
+      "hp": 1212,
+      "type": "Tower",
+      "base_id": 488
+    },
+    {
+      "building_id": 692,
+      "name": "Building 692",
+      "damage": 22,
+      "hp": 1715,
+      "type": "Tower",
+      "base_id": 547
+    },
+    {
+      "building_id": 693,
+      "name": "Building 693",
+      "damage": 45,
+      "hp": 1571,
+      "type": "Tower",
+      "base_id": 98
+    },
+    {
+      "building_id": 694,
+      "name": "Building 694",
+      "damage": 96,
+      "hp": 1663,
+      "type": "Farm",
+      "base_id": 844
+    },
+    {
+      "building_id": 695,
+      "name": "Building 695",
+      "damage": 99,
+      "hp": 835,
+      "type": "Town Hall",
+      "base_id": 594
+    },
+    {
+      "building_id": 696,
+      "name": "Building 696",
+      "damage": 41,
+      "hp": 1983,
+      "type": "Barracks",
+      "base_id": 626
+    },
+    {
+      "building_id": 697,
+      "name": "Building 697",
+      "damage": 30,
+      "hp": 1053,
+      "type": "Town Hall",
+      "base_id": 430
+    },
+    {
+      "building_id": 698,
+      "name": "Building 698",
+      "damage": 30,
+      "hp": 1059,
+      "type": "Tower",
+      "base_id": 38
+    },
+    {
+      "building_id": 699,
+      "name": "Building 699",
+      "damage": 38,
+      "hp": 785,
+      "type": "Town Hall",
+      "base_id": 754
+    },
+    {
+      "building_id": 700,
+      "name": "Building 700",
+      "damage": 50,
+      "hp": 1874,
+      "type": "Town Hall",
+      "base_id": 396
+    },
+    {
+      "building_id": 701,
+      "name": "Building 701",
+      "damage": 12,
+      "hp": 590,
+      "type": "Town Hall",
+      "base_id": 991
+    },
+    {
+      "building_id": 702,
+      "name": "Building 702",
+      "damage": 40,
+      "hp": 1364,
+      "type": "Tower",
+      "base_id": 828
+    },
+    {
+      "building_id": 703,
+      "name": "Building 703",
+      "damage": 60,
+      "hp": 1335,
+      "type": "Farm",
+      "base_id": 284
+    },
+    {
+      "building_id": 704,
+      "name": "Building 704",
+      "damage": 64,
+      "hp": 676,
+      "type": "Town Hall",
+      "base_id": 312
+    },
+    {
+      "building_id": 705,
+      "name": "Building 705",
+      "damage": 48,
+      "hp": 1716,
+      "type": "Tower",
+      "base_id": 360
+    },
+    {
+      "building_id": 706,
+      "name": "Building 706",
+      "damage": 76,
+      "hp": 1115,
+      "type": "Barracks",
+      "base_id": 806
+    },
+    {
+      "building_id": 707,
+      "name": "Building 707",
+      "damage": 49,
+      "hp": 977,
+      "type": "Tower",
+      "base_id": 35
+    },
+    {
+      "building_id": 708,
+      "name": "Building 708",
+      "damage": 99,
+      "hp": 578,
+      "type": "Tower",
+      "base_id": 81
+    },
+    {
+      "building_id": 709,
+      "name": "Building 709",
+      "damage": 70,
+      "hp": 1298,
+      "type": "Farm",
+      "base_id": 472
+    },
+    {
+      "building_id": 710,
+      "name": "Building 710",
+      "damage": 52,
+      "hp": 1607,
+      "type": "Tower",
+      "base_id": 377
+    },
+    {
+      "building_id": 711,
+      "name": "Building 711",
+      "damage": 45,
+      "hp": 675,
+      "type": "Tower",
+      "base_id": 461
+    },
+    {
+      "building_id": 712,
+      "name": "Building 712",
+      "damage": 76,
+      "hp": 958,
+      "type": "Tower",
+      "base_id": 944
+    },
+    {
+      "building_id": 713,
+      "name": "Building 713",
+      "damage": 33,
+      "hp": 891,
+      "type": "Town Hall",
+      "base_id": 126
+    },
+    {
+      "building_id": 714,
+      "name": "Building 714",
+      "damage": 78,
+      "hp": 569,
+      "type": "Tower",
+      "base_id": 912
+    },
+    {
+      "building_id": 715,
+      "name": "Building 715",
+      "damage": 83,
+      "hp": 1118,
+      "type": "Town Hall",
+      "base_id": 429
+    },
+    {
+      "building_id": 716,
+      "name": "Building 716",
+      "damage": 89,
+      "hp": 759,
+      "type": "Tower",
+      "base_id": 756
+    },
+    {
+      "building_id": 717,
+      "name": "Building 717",
+      "damage": 43,
+      "hp": 1709,
+      "type": "Barracks",
+      "base_id": 335
+    },
+    {
+      "building_id": 718,
+      "name": "Building 718",
+      "damage": 59,
+      "hp": 1152,
+      "type": "Barracks",
+      "base_id": 303
+    },
+    {
+      "building_id": 719,
+      "name": "Building 719",
+      "damage": 27,
+      "hp": 692,
+      "type": "Farm",
+      "base_id": 206
+    },
+    {
+      "building_id": 720,
+      "name": "Building 720",
+      "damage": 29,
+      "hp": 1885,
+      "type": "Barracks",
+      "base_id": 930
+    },
+    {
+      "building_id": 721,
+      "name": "Building 721",
+      "damage": 67,
+      "hp": 1397,
+      "type": "Barracks",
+      "base_id": 112
+    },
+    {
+      "building_id": 722,
+      "name": "Building 722",
+      "damage": 91,
+      "hp": 654,
+      "type": "Town Hall",
+      "base_id": 968
+    },
+    {
+      "building_id": 723,
+      "name": "Building 723",
+      "damage": 63,
+      "hp": 1615,
+      "type": "Barracks",
+      "base_id": 160
+    },
+    {
+      "building_id": 724,
+      "name": "Building 724",
+      "damage": 97,
+      "hp": 692,
+      "type": "Barracks",
+      "base_id": 674
+    },
+    {
+      "building_id": 725,
+      "name": "Building 725",
+      "damage": 43,
+      "hp": 1111,
+      "type": "Town Hall",
+      "base_id": 151
+    },
+    {
+      "building_id": 726,
+      "name": "Building 726",
+      "damage": 73,
+      "hp": 1307,
+      "type": "Town Hall",
+      "base_id": 386
+    },
+    {
+      "building_id": 727,
+      "name": "Building 727",
+      "damage": 47,
+      "hp": 1983,
+      "type": "Farm",
+      "base_id": 226
+    },
+    {
+      "building_id": 728,
+      "name": "Building 728",
+      "damage": 38,
+      "hp": 731,
+      "type": "Barracks",
+      "base_id": 879
+    },
+    {
+      "building_id": 729,
+      "name": "Building 729",
+      "damage": 93,
+      "hp": 868,
+      "type": "Farm",
+      "base_id": 78
+    },
+    {
+      "building_id": 730,
+      "name": "Building 730",
+      "damage": 50,
+      "hp": 751,
+      "type": "Tower",
+      "base_id": 469
+    },
+    {
+      "building_id": 731,
+      "name": "Building 731",
+      "damage": 25,
+      "hp": 1684,
+      "type": "Barracks",
+      "base_id": 281
+    },
+    {
+      "building_id": 732,
+      "name": "Building 732",
+      "damage": 50,
+      "hp": 1975,
+      "type": "Tower",
+      "base_id": 941
+    },
+    {
+      "building_id": 733,
+      "name": "Building 733",
+      "damage": 81,
+      "hp": 521,
+      "type": "Town Hall",
+      "base_id": 77
+    },
+    {
+      "building_id": 734,
+      "name": "Building 734",
+      "damage": 60,
+      "hp": 837,
+      "type": "Farm",
+      "base_id": 347
+    },
+    {
+      "building_id": 735,
+      "name": "Building 735",
+      "damage": 12,
+      "hp": 1566,
+      "type": "Farm",
+      "base_id": 236
+    },
+    {
+      "building_id": 736,
+      "name": "Building 736",
+      "damage": 91,
+      "hp": 788,
+      "type": "Tower",
+      "base_id": 709
+    },
+    {
+      "building_id": 737,
+      "name": "Building 737",
+      "damage": 19,
+      "hp": 523,
+      "type": "Farm",
+      "base_id": 580
+    },
+    {
+      "building_id": 738,
+      "name": "Building 738",
+      "damage": 56,
+      "hp": 1725,
+      "type": "Farm",
+      "base_id": 758
+    },
+    {
+      "building_id": 739,
+      "name": "Building 739",
+      "damage": 50,
+      "hp": 950,
+      "type": "Town Hall",
+      "base_id": 916
+    },
+    {
+      "building_id": 740,
+      "name": "Building 740",
+      "damage": 46,
+      "hp": 1046,
+      "type": "Barracks",
+      "base_id": 7
+    },
+    {
+      "building_id": 741,
+      "name": "Building 741",
+      "damage": 14,
+      "hp": 1866,
+      "type": "Tower",
+      "base_id": 952
+    },
+    {
+      "building_id": 742,
+      "name": "Building 742",
+      "damage": 31,
+      "hp": 1818,
+      "type": "Tower",
+      "base_id": 947
+    },
+    {
+      "building_id": 743,
+      "name": "Building 743",
+      "damage": 69,
+      "hp": 776,
+      "type": "Barracks",
+      "base_id": 385
+    },
+    {
+      "building_id": 744,
+      "name": "Building 744",
+      "damage": 93,
+      "hp": 1804,
+      "type": "Tower",
+      "base_id": 953
+    },
+    {
+      "building_id": 745,
+      "name": "Building 745",
+      "damage": 98,
+      "hp": 1142,
+      "type": "Barracks",
+      "base_id": 736
+    },
+    {
+      "building_id": 746,
+      "name": "Building 746",
+      "damage": 66,
+      "hp": 907,
+      "type": "Tower",
+      "base_id": 227
+    },
+    {
+      "building_id": 747,
+      "name": "Building 747",
+      "damage": 67,
+      "hp": 825,
+      "type": "Farm",
+      "base_id": 245
+    },
+    {
+      "building_id": 748,
+      "name": "Building 748",
+      "damage": 77,
+      "hp": 1569,
+      "type": "Farm",
+      "base_id": 763
+    },
+    {
+      "building_id": 749,
+      "name": "Building 749",
+      "damage": 35,
+      "hp": 609,
+      "type": "Town Hall",
+      "base_id": 224
+    },
+    {
+      "building_id": 750,
+      "name": "Building 750",
+      "damage": 47,
+      "hp": 1735,
+      "type": "Farm",
+      "base_id": 832
+    },
+    {
+      "building_id": 751,
+      "name": "Building 751",
+      "damage": 60,
+      "hp": 1835,
+      "type": "Farm",
+      "base_id": 14
+    },
+    {
+      "building_id": 752,
+      "name": "Building 752",
+      "damage": 81,
+      "hp": 1292,
+      "type": "Barracks",
+      "base_id": 825
+    },
+    {
+      "building_id": 753,
+      "name": "Building 753",
+      "damage": 59,
+      "hp": 1939,
+      "type": "Tower",
+      "base_id": 134
+    },
+    {
+      "building_id": 754,
+      "name": "Building 754",
+      "damage": 96,
+      "hp": 633,
+      "type": "Farm",
+      "base_id": 682
+    },
+    {
+      "building_id": 755,
+      "name": "Building 755",
+      "damage": 21,
+      "hp": 1898,
+      "type": "Barracks",
+      "base_id": 365
+    },
+    {
+      "building_id": 756,
+      "name": "Building 756",
+      "damage": 62,
+      "hp": 1384,
+      "type": "Town Hall",
+      "base_id": 688
+    },
+    {
+      "building_id": 757,
+      "name": "Building 757",
+      "damage": 14,
+      "hp": 1903,
+      "type": "Barracks",
+      "base_id": 880
+    },
+    {
+      "building_id": 758,
+      "name": "Building 758",
+      "damage": 68,
+      "hp": 903,
+      "type": "Barracks",
+      "base_id": 451
+    },
+    {
+      "building_id": 759,
+      "name": "Building 759",
+      "damage": 95,
+      "hp": 1306,
+      "type": "Tower",
+      "base_id": 538
+    },
+    {
+      "building_id": 760,
+      "name": "Building 760",
+      "damage": 70,
+      "hp": 1680,
+      "type": "Barracks",
+      "base_id": 510
+    },
+    {
+      "building_id": 761,
+      "name": "Building 761",
+      "damage": 92,
+      "hp": 994,
+      "type": "Farm",
+      "base_id": 6
+    },
+    {
+      "building_id": 762,
+      "name": "Building 762",
+      "damage": 52,
+      "hp": 1803,
+      "type": "Town Hall",
+      "base_id": 916
+    },
+    {
+      "building_id": 763,
+      "name": "Building 763",
+      "damage": 46,
+      "hp": 1732,
+      "type": "Tower",
+      "base_id": 119
+    },
+    {
+      "building_id": 764,
+      "name": "Building 764",
+      "damage": 76,
+      "hp": 918,
+      "type": "Tower",
+      "base_id": 268
+    },
+    {
+      "building_id": 765,
+      "name": "Building 765",
+      "damage": 61,
+      "hp": 1003,
+      "type": "Tower",
+      "base_id": 910
+    },
+    {
+      "building_id": 766,
+      "name": "Building 766",
+      "damage": 49,
+      "hp": 1165,
+      "type": "Barracks",
+      "base_id": 695
+    },
+    {
+      "building_id": 767,
+      "name": "Building 767",
+      "damage": 100,
+      "hp": 1102,
+      "type": "Barracks",
+      "base_id": 125
+    },
+    {
+      "building_id": 768,
+      "name": "Building 768",
+      "damage": 23,
+      "hp": 739,
+      "type": "Town Hall",
+      "base_id": 885
+    },
+    {
+      "building_id": 769,
+      "name": "Building 769",
+      "damage": 25,
+      "hp": 752,
+      "type": "Town Hall",
+      "base_id": 502
+    },
+    {
+      "building_id": 770,
+      "name": "Building 770",
+      "damage": 45,
+      "hp": 1101,
+      "type": "Town Hall",
+      "base_id": 939
+    },
+    {
+      "building_id": 771,
+      "name": "Building 771",
+      "damage": 78,
+      "hp": 1458,
+      "type": "Town Hall",
+      "base_id": 562
+    },
+    {
+      "building_id": 772,
+      "name": "Building 772",
+      "damage": 87,
+      "hp": 1802,
+      "type": "Tower",
+      "base_id": 5
+    },
+    {
+      "building_id": 773,
+      "name": "Building 773",
+      "damage": 39,
+      "hp": 876,
+      "type": "Barracks",
+      "base_id": 996
+    },
+    {
+      "building_id": 774,
+      "name": "Building 774",
+      "damage": 88,
+      "hp": 1777,
+      "type": "Tower",
+      "base_id": 734
+    },
+    {
+      "building_id": 775,
+      "name": "Building 775",
+      "damage": 51,
+      "hp": 1265,
+      "type": "Farm",
+      "base_id": 294
+    },
+    {
+      "building_id": 776,
+      "name": "Building 776",
+      "damage": 61,
+      "hp": 1773,
+      "type": "Farm",
+      "base_id": 988
+    },
+    {
+      "building_id": 777,
+      "name": "Building 777",
+      "damage": 83,
+      "hp": 1656,
+      "type": "Barracks",
+      "base_id": 962
+    },
+    {
+      "building_id": 778,
+      "name": "Building 778",
+      "damage": 34,
+      "hp": 740,
+      "type": "Tower",
+      "base_id": 881
+    },
+    {
+      "building_id": 779,
+      "name": "Building 779",
+      "damage": 46,
+      "hp": 1372,
+      "type": "Barracks",
+      "base_id": 988
+    },
+    {
+      "building_id": 780,
+      "name": "Building 780",
+      "damage": 36,
+      "hp": 1431,
+      "type": "Tower",
+      "base_id": 17
+    },
+    {
+      "building_id": 781,
+      "name": "Building 781",
+      "damage": 75,
+      "hp": 1033,
+      "type": "Barracks",
+      "base_id": 589
+    },
+    {
+      "building_id": 782,
+      "name": "Building 782",
+      "damage": 97,
+      "hp": 575,
+      "type": "Tower",
+      "base_id": 84
+    },
+    {
+      "building_id": 783,
+      "name": "Building 783",
+      "damage": 44,
+      "hp": 1124,
+      "type": "Farm",
+      "base_id": 563
+    },
+    {
+      "building_id": 784,
+      "name": "Building 784",
+      "damage": 29,
+      "hp": 1942,
+      "type": "Barracks",
+      "base_id": 732
+    },
+    {
+      "building_id": 785,
+      "name": "Building 785",
+      "damage": 31,
+      "hp": 895,
+      "type": "Barracks",
+      "base_id": 731
+    },
+    {
+      "building_id": 786,
+      "name": "Building 786",
+      "damage": 89,
+      "hp": 617,
+      "type": "Farm",
+      "base_id": 14
+    },
+    {
+      "building_id": 787,
+      "name": "Building 787",
+      "damage": 19,
+      "hp": 1165,
+      "type": "Farm",
+      "base_id": 54
+    },
+    {
+      "building_id": 788,
+      "name": "Building 788",
+      "damage": 75,
+      "hp": 1190,
+      "type": "Barracks",
+      "base_id": 76
+    },
+    {
+      "building_id": 789,
+      "name": "Building 789",
+      "damage": 52,
+      "hp": 791,
+      "type": "Barracks",
+      "base_id": 672
+    },
+    {
+      "building_id": 790,
+      "name": "Building 790",
+      "damage": 20,
+      "hp": 1646,
+      "type": "Farm",
+      "base_id": 798
+    },
+    {
+      "building_id": 791,
+      "name": "Building 791",
+      "damage": 77,
+      "hp": 1883,
+      "type": "Farm",
+      "base_id": 605
+    },
+    {
+      "building_id": 792,
+      "name": "Building 792",
+      "damage": 49,
+      "hp": 1072,
+      "type": "Town Hall",
+      "base_id": 708
+    },
+    {
+      "building_id": 793,
+      "name": "Building 793",
+      "damage": 58,
+      "hp": 982,
+      "type": "Farm",
+      "base_id": 433
+    },
+    {
+      "building_id": 794,
+      "name": "Building 794",
+      "damage": 54,
+      "hp": 1552,
+      "type": "Town Hall",
+      "base_id": 708
+    },
+    {
+      "building_id": 795,
+      "name": "Building 795",
+      "damage": 46,
+      "hp": 1129,
+      "type": "Farm",
+      "base_id": 977
+    },
+    {
+      "building_id": 796,
+      "name": "Building 796",
+      "damage": 54,
+      "hp": 1734,
+      "type": "Town Hall",
+      "base_id": 490
+    },
+    {
+      "building_id": 797,
+      "name": "Building 797",
+      "damage": 79,
+      "hp": 705,
+      "type": "Barracks",
+      "base_id": 868
+    },
+    {
+      "building_id": 798,
+      "name": "Building 798",
+      "damage": 62,
+      "hp": 1364,
+      "type": "Barracks",
+      "base_id": 790
+    },
+    {
+      "building_id": 799,
+      "name": "Building 799",
+      "damage": 63,
+      "hp": 869,
+      "type": "Farm",
+      "base_id": 209
+    },
+    {
+      "building_id": 800,
+      "name": "Building 800",
+      "damage": 20,
+      "hp": 1725,
+      "type": "Barracks",
+      "base_id": 785
+    },
+    {
+      "building_id": 801,
+      "name": "Building 801",
+      "damage": 90,
+      "hp": 640,
+      "type": "Tower",
+      "base_id": 895
+    },
+    {
+      "building_id": 802,
+      "name": "Building 802",
+      "damage": 43,
+      "hp": 1002,
+      "type": "Farm",
+      "base_id": 387
+    },
+    {
+      "building_id": 803,
+      "name": "Building 803",
+      "damage": 33,
+      "hp": 1566,
+      "type": "Tower",
+      "base_id": 460
+    },
+    {
+      "building_id": 804,
+      "name": "Building 804",
+      "damage": 84,
+      "hp": 1508,
+      "type": "Town Hall",
+      "base_id": 522
+    },
+    {
+      "building_id": 805,
+      "name": "Building 805",
+      "damage": 46,
+      "hp": 1606,
+      "type": "Barracks",
+      "base_id": 175
+    },
+    {
+      "building_id": 806,
+      "name": "Building 806",
+      "damage": 93,
+      "hp": 1300,
+      "type": "Tower",
+      "base_id": 177
+    },
+    {
+      "building_id": 807,
+      "name": "Building 807",
+      "damage": 10,
+      "hp": 1367,
+      "type": "Farm",
+      "base_id": 191
+    },
+    {
+      "building_id": 808,
+      "name": "Building 808",
+      "damage": 53,
+      "hp": 1871,
+      "type": "Barracks",
+      "base_id": 495
+    },
+    {
+      "building_id": 809,
+      "name": "Building 809",
+      "damage": 45,
+      "hp": 1902,
+      "type": "Barracks",
+      "base_id": 938
+    },
+    {
+      "building_id": 810,
+      "name": "Building 810",
+      "damage": 61,
+      "hp": 1347,
+      "type": "Town Hall",
+      "base_id": 527
+    },
+    {
+      "building_id": 811,
+      "name": "Building 811",
+      "damage": 98,
+      "hp": 1777,
+      "type": "Barracks",
+      "base_id": 940
+    },
+    {
+      "building_id": 812,
+      "name": "Building 812",
+      "damage": 37,
+      "hp": 1403,
+      "type": "Farm",
+      "base_id": 170
+    },
+    {
+      "building_id": 813,
+      "name": "Building 813",
+      "damage": 28,
+      "hp": 731,
+      "type": "Barracks",
+      "base_id": 312
+    },
+    {
+      "building_id": 814,
+      "name": "Building 814",
+      "damage": 58,
+      "hp": 675,
+      "type": "Farm",
+      "base_id": 77
+    },
+    {
+      "building_id": 815,
+      "name": "Building 815",
+      "damage": 48,
+      "hp": 631,
+      "type": "Farm",
+      "base_id": 618
+    },
+    {
+      "building_id": 816,
+      "name": "Building 816",
+      "damage": 42,
+      "hp": 538,
+      "type": "Tower",
+      "base_id": 58
+    },
+    {
+      "building_id": 817,
+      "name": "Building 817",
+      "damage": 31,
+      "hp": 1316,
+      "type": "Barracks",
+      "base_id": 402
+    },
+    {
+      "building_id": 818,
+      "name": "Building 818",
+      "damage": 73,
+      "hp": 979,
+      "type": "Tower",
+      "base_id": 161
+    },
+    {
+      "building_id": 819,
+      "name": "Building 819",
+      "damage": 68,
+      "hp": 591,
+      "type": "Tower",
+      "base_id": 602
+    },
+    {
+      "building_id": 820,
+      "name": "Building 820",
+      "damage": 82,
+      "hp": 1939,
+      "type": "Farm",
+      "base_id": 249
+    },
+    {
+      "building_id": 821,
+      "name": "Building 821",
+      "damage": 47,
+      "hp": 907,
+      "type": "Town Hall",
+      "base_id": 664
+    },
+    {
+      "building_id": 822,
+      "name": "Building 822",
+      "damage": 82,
+      "hp": 1117,
+      "type": "Tower",
+      "base_id": 894
+    },
+    {
+      "building_id": 823,
+      "name": "Building 823",
+      "damage": 79,
+      "hp": 1931,
+      "type": "Barracks",
+      "base_id": 824
+    },
+    {
+      "building_id": 824,
+      "name": "Building 824",
+      "damage": 23,
+      "hp": 702,
+      "type": "Town Hall",
+      "base_id": 84
+    },
+    {
+      "building_id": 825,
+      "name": "Building 825",
+      "damage": 27,
+      "hp": 1914,
+      "type": "Barracks",
+      "base_id": 967
+    },
+    {
+      "building_id": 826,
+      "name": "Building 826",
+      "damage": 10,
+      "hp": 1567,
+      "type": "Farm",
+      "base_id": 443
+    },
+    {
+      "building_id": 827,
+      "name": "Building 827",
+      "damage": 29,
+      "hp": 773,
+      "type": "Farm",
+      "base_id": 22
+    },
+    {
+      "building_id": 828,
+      "name": "Building 828",
+      "damage": 35,
+      "hp": 1101,
+      "type": "Barracks",
+      "base_id": 506
+    },
+    {
+      "building_id": 829,
+      "name": "Building 829",
+      "damage": 90,
+      "hp": 1809,
+      "type": "Tower",
+      "base_id": 219
+    },
+    {
+      "building_id": 830,
+      "name": "Building 830",
+      "damage": 84,
+      "hp": 1398,
+      "type": "Barracks",
+      "base_id": 344
+    },
+    {
+      "building_id": 831,
+      "name": "Building 831",
+      "damage": 47,
+      "hp": 614,
+      "type": "Farm",
+      "base_id": 835
+    },
+    {
+      "building_id": 832,
+      "name": "Building 832",
+      "damage": 87,
+      "hp": 861,
+      "type": "Tower",
+      "base_id": 849
+    },
+    {
+      "building_id": 833,
+      "name": "Building 833",
+      "damage": 17,
+      "hp": 629,
+      "type": "Farm",
+      "base_id": 255
+    },
+    {
+      "building_id": 834,
+      "name": "Building 834",
+      "damage": 79,
+      "hp": 1160,
+      "type": "Farm",
+      "base_id": 329
+    },
+    {
+      "building_id": 835,
+      "name": "Building 835",
+      "damage": 47,
+      "hp": 1643,
+      "type": "Farm",
+      "base_id": 3
+    },
+    {
+      "building_id": 836,
+      "name": "Building 836",
+      "damage": 64,
+      "hp": 599,
+      "type": "Barracks",
+      "base_id": 685
+    },
+    {
+      "building_id": 837,
+      "name": "Building 837",
+      "damage": 40,
+      "hp": 653,
+      "type": "Barracks",
+      "base_id": 590
+    },
+    {
+      "building_id": 838,
+      "name": "Building 838",
+      "damage": 40,
+      "hp": 1315,
+      "type": "Farm",
+      "base_id": 334
+    },
+    {
+      "building_id": 839,
+      "name": "Building 839",
+      "damage": 43,
+      "hp": 680,
+      "type": "Town Hall",
+      "base_id": 984
+    },
+    {
+      "building_id": 840,
+      "name": "Building 840",
+      "damage": 100,
+      "hp": 511,
+      "type": "Farm",
+      "base_id": 898
+    },
+    {
+      "building_id": 841,
+      "name": "Building 841",
+      "damage": 45,
+      "hp": 1643,
+      "type": "Barracks",
+      "base_id": 745
+    },
+    {
+      "building_id": 842,
+      "name": "Building 842",
+      "damage": 66,
+      "hp": 969,
+      "type": "Tower",
+      "base_id": 531
+    },
+    {
+      "building_id": 843,
+      "name": "Building 843",
+      "damage": 57,
+      "hp": 1628,
+      "type": "Tower",
+      "base_id": 60
+    },
+    {
+      "building_id": 844,
+      "name": "Building 844",
+      "damage": 81,
+      "hp": 1660,
+      "type": "Farm",
+      "base_id": 623
+    },
+    {
+      "building_id": 845,
+      "name": "Building 845",
+      "damage": 45,
+      "hp": 1366,
+      "type": "Tower",
+      "base_id": 507
+    },
+    {
+      "building_id": 846,
+      "name": "Building 846",
+      "damage": 21,
+      "hp": 1393,
+      "type": "Town Hall",
+      "base_id": 714
+    },
+    {
+      "building_id": 847,
+      "name": "Building 847",
+      "damage": 42,
+      "hp": 759,
+      "type": "Farm",
+      "base_id": 78
+    },
+    {
+      "building_id": 848,
+      "name": "Building 848",
+      "damage": 72,
+      "hp": 674,
+      "type": "Tower",
+      "base_id": 558
+    },
+    {
+      "building_id": 849,
+      "name": "Building 849",
+      "damage": 93,
+      "hp": 1619,
+      "type": "Farm",
+      "base_id": 206
+    },
+    {
+      "building_id": 850,
+      "name": "Building 850",
+      "damage": 20,
+      "hp": 1632,
+      "type": "Farm",
+      "base_id": 220
+    },
+    {
+      "building_id": 851,
+      "name": "Building 851",
+      "damage": 53,
+      "hp": 1310,
+      "type": "Tower",
+      "base_id": 69
+    },
+    {
+      "building_id": 852,
+      "name": "Building 852",
+      "damage": 88,
+      "hp": 1704,
+      "type": "Town Hall",
+      "base_id": 950
+    },
+    {
+      "building_id": 853,
+      "name": "Building 853",
+      "damage": 11,
+      "hp": 1313,
+      "type": "Farm",
+      "base_id": 796
+    },
+    {
+      "building_id": 854,
+      "name": "Building 854",
+      "damage": 21,
+      "hp": 1413,
+      "type": "Farm",
+      "base_id": 438
+    },
+    {
+      "building_id": 855,
+      "name": "Building 855",
+      "damage": 16,
+      "hp": 609,
+      "type": "Tower",
+      "base_id": 612
+    },
+    {
+      "building_id": 856,
+      "name": "Building 856",
+      "damage": 26,
+      "hp": 1070,
+      "type": "Farm",
+      "base_id": 605
+    },
+    {
+      "building_id": 857,
+      "name": "Building 857",
+      "damage": 45,
+      "hp": 843,
+      "type": "Barracks",
+      "base_id": 297
+    },
+    {
+      "building_id": 858,
+      "name": "Building 858",
+      "damage": 10,
+      "hp": 864,
+      "type": "Barracks",
+      "base_id": 56
+    },
+    {
+      "building_id": 859,
+      "name": "Building 859",
+      "damage": 99,
+      "hp": 1413,
+      "type": "Tower",
+      "base_id": 942
+    },
+    {
+      "building_id": 860,
+      "name": "Building 860",
+      "damage": 64,
+      "hp": 756,
+      "type": "Farm",
+      "base_id": 76
+    },
+    {
+      "building_id": 861,
+      "name": "Building 861",
+      "damage": 78,
+      "hp": 1292,
+      "type": "Barracks",
+      "base_id": 489
+    },
+    {
+      "building_id": 862,
+      "name": "Building 862",
+      "damage": 31,
+      "hp": 640,
+      "type": "Barracks",
+      "base_id": 551
+    },
+    {
+      "building_id": 863,
+      "name": "Building 863",
+      "damage": 43,
+      "hp": 1539,
+      "type": "Tower",
+      "base_id": 664
+    },
+    {
+      "building_id": 864,
+      "name": "Building 864",
+      "damage": 47,
+      "hp": 1946,
+      "type": "Town Hall",
+      "base_id": 39
+    },
+    {
+      "building_id": 865,
+      "name": "Building 865",
+      "damage": 24,
+      "hp": 1594,
+      "type": "Tower",
+      "base_id": 186
+    },
+    {
+      "building_id": 866,
+      "name": "Building 866",
+      "damage": 48,
+      "hp": 1309,
+      "type": "Farm",
+      "base_id": 710
+    },
+    {
+      "building_id": 867,
+      "name": "Building 867",
+      "damage": 18,
+      "hp": 956,
+      "type": "Farm",
+      "base_id": 760
+    },
+    {
+      "building_id": 868,
+      "name": "Building 868",
+      "damage": 67,
+      "hp": 1667,
+      "type": "Town Hall",
+      "base_id": 970
+    },
+    {
+      "building_id": 869,
+      "name": "Building 869",
+      "damage": 43,
+      "hp": 1859,
+      "type": "Town Hall",
+      "base_id": 235
+    },
+    {
+      "building_id": 870,
+      "name": "Building 870",
+      "damage": 51,
+      "hp": 661,
+      "type": "Tower",
+      "base_id": 678
+    },
+    {
+      "building_id": 871,
+      "name": "Building 871",
+      "damage": 24,
+      "hp": 1792,
+      "type": "Tower",
+      "base_id": 608
+    },
+    {
+      "building_id": 872,
+      "name": "Building 872",
+      "damage": 45,
+      "hp": 1422,
+      "type": "Barracks",
+      "base_id": 519
+    },
+    {
+      "building_id": 873,
+      "name": "Building 873",
+      "damage": 59,
+      "hp": 1825,
+      "type": "Farm",
+      "base_id": 682
+    },
+    {
+      "building_id": 874,
+      "name": "Building 874",
+      "damage": 62,
+      "hp": 1256,
+      "type": "Tower",
+      "base_id": 561
+    },
+    {
+      "building_id": 875,
+      "name": "Building 875",
+      "damage": 96,
+      "hp": 1765,
+      "type": "Town Hall",
+      "base_id": 715
+    },
+    {
+      "building_id": 876,
+      "name": "Building 876",
+      "damage": 61,
+      "hp": 1100,
+      "type": "Farm",
+      "base_id": 174
+    },
+    {
+      "building_id": 877,
+      "name": "Building 877",
+      "damage": 17,
+      "hp": 1700,
+      "type": "Barracks",
+      "base_id": 203
+    },
+    {
+      "building_id": 878,
+      "name": "Building 878",
+      "damage": 99,
+      "hp": 1620,
+      "type": "Barracks",
+      "base_id": 912
+    },
+    {
+      "building_id": 879,
+      "name": "Building 879",
+      "damage": 26,
+      "hp": 1736,
+      "type": "Town Hall",
+      "base_id": 324
+    },
+    {
+      "building_id": 880,
+      "name": "Building 880",
+      "damage": 84,
+      "hp": 1069,
+      "type": "Barracks",
+      "base_id": 508
+    },
+    {
+      "building_id": 881,
+      "name": "Building 881",
+      "damage": 15,
+      "hp": 695,
+      "type": "Tower",
+      "base_id": 476
+    },
+    {
+      "building_id": 882,
+      "name": "Building 882",
+      "damage": 80,
+      "hp": 874,
+      "type": "Tower",
+      "base_id": 92
+    },
+    {
+      "building_id": 883,
+      "name": "Building 883",
+      "damage": 56,
+      "hp": 690,
+      "type": "Town Hall",
+      "base_id": 437
+    },
+    {
+      "building_id": 884,
+      "name": "Building 884",
+      "damage": 44,
+      "hp": 532,
+      "type": "Tower",
+      "base_id": 133
+    },
+    {
+      "building_id": 885,
+      "name": "Building 885",
+      "damage": 69,
+      "hp": 714,
+      "type": "Town Hall",
+      "base_id": 236
+    },
+    {
+      "building_id": 886,
+      "name": "Building 886",
+      "damage": 46,
+      "hp": 949,
+      "type": "Farm",
+      "base_id": 480
+    },
+    {
+      "building_id": 887,
+      "name": "Building 887",
+      "damage": 43,
+      "hp": 1041,
+      "type": "Town Hall",
+      "base_id": 681
+    },
+    {
+      "building_id": 888,
+      "name": "Building 888",
+      "damage": 90,
+      "hp": 1668,
+      "type": "Farm",
+      "base_id": 289
+    },
+    {
+      "building_id": 889,
+      "name": "Building 889",
+      "damage": 58,
+      "hp": 612,
+      "type": "Town Hall",
+      "base_id": 288
+    },
+    {
+      "building_id": 890,
+      "name": "Building 890",
+      "damage": 71,
+      "hp": 779,
+      "type": "Tower",
+      "base_id": 308
+    },
+    {
+      "building_id": 891,
+      "name": "Building 891",
+      "damage": 40,
+      "hp": 1264,
+      "type": "Town Hall",
+      "base_id": 219
+    },
+    {
+      "building_id": 892,
+      "name": "Building 892",
+      "damage": 89,
+      "hp": 1210,
+      "type": "Tower",
+      "base_id": 123
+    },
+    {
+      "building_id": 893,
+      "name": "Building 893",
+      "damage": 11,
+      "hp": 1823,
+      "type": "Barracks",
+      "base_id": 705
+    },
+    {
+      "building_id": 894,
+      "name": "Building 894",
+      "damage": 27,
+      "hp": 1044,
+      "type": "Tower",
+      "base_id": 67
+    },
+    {
+      "building_id": 895,
+      "name": "Building 895",
+      "damage": 98,
+      "hp": 991,
+      "type": "Farm",
+      "base_id": 217
+    },
+    {
+      "building_id": 896,
+      "name": "Building 896",
+      "damage": 67,
+      "hp": 1879,
+      "type": "Farm",
+      "base_id": 246
+    },
+    {
+      "building_id": 897,
+      "name": "Building 897",
+      "damage": 51,
+      "hp": 1112,
+      "type": "Tower",
+      "base_id": 836
+    },
+    {
+      "building_id": 898,
+      "name": "Building 898",
+      "damage": 55,
+      "hp": 838,
+      "type": "Barracks",
+      "base_id": 299
+    },
+    {
+      "building_id": 899,
+      "name": "Building 899",
+      "damage": 13,
+      "hp": 1592,
+      "type": "Tower",
+      "base_id": 609
+    },
+    {
+      "building_id": 900,
+      "name": "Building 900",
+      "damage": 97,
+      "hp": 1055,
+      "type": "Tower",
+      "base_id": 339
+    },
+    {
+      "building_id": 901,
+      "name": "Building 901",
+      "damage": 26,
+      "hp": 1234,
+      "type": "Barracks",
+      "base_id": 187
+    },
+    {
+      "building_id": 902,
+      "name": "Building 902",
+      "damage": 57,
+      "hp": 871,
+      "type": "Barracks",
+      "base_id": 623
+    },
+    {
+      "building_id": 903,
+      "name": "Building 903",
+      "damage": 38,
+      "hp": 1173,
+      "type": "Tower",
+      "base_id": 291
+    },
+    {
+      "building_id": 904,
+      "name": "Building 904",
+      "damage": 87,
+      "hp": 1754,
+      "type": "Town Hall",
+      "base_id": 703
+    },
+    {
+      "building_id": 905,
+      "name": "Building 905",
+      "damage": 53,
+      "hp": 884,
+      "type": "Barracks",
+      "base_id": 74
+    },
+    {
+      "building_id": 906,
+      "name": "Building 906",
+      "damage": 81,
+      "hp": 1118,
+      "type": "Tower",
+      "base_id": 613
+    },
+    {
+      "building_id": 907,
+      "name": "Building 907",
+      "damage": 65,
+      "hp": 1929,
+      "type": "Farm",
+      "base_id": 280
+    },
+    {
+      "building_id": 908,
+      "name": "Building 908",
+      "damage": 91,
+      "hp": 621,
+      "type": "Barracks",
+      "base_id": 35
+    },
+    {
+      "building_id": 909,
+      "name": "Building 909",
+      "damage": 72,
+      "hp": 1523,
+      "type": "Tower",
+      "base_id": 678
+    },
+    {
+      "building_id": 910,
+      "name": "Building 910",
+      "damage": 76,
+      "hp": 721,
+      "type": "Barracks",
+      "base_id": 125
+    },
+    {
+      "building_id": 911,
+      "name": "Building 911",
+      "damage": 86,
+      "hp": 1620,
+      "type": "Barracks",
+      "base_id": 456
+    },
+    {
+      "building_id": 912,
+      "name": "Building 912",
+      "damage": 21,
+      "hp": 651,
+      "type": "Town Hall",
+      "base_id": 6
+    },
+    {
+      "building_id": 913,
+      "name": "Building 913",
+      "damage": 96,
+      "hp": 778,
+      "type": "Tower",
+      "base_id": 523
+    },
+    {
+      "building_id": 914,
+      "name": "Building 914",
+      "damage": 83,
+      "hp": 1306,
+      "type": "Farm",
+      "base_id": 586
+    },
+    {
+      "building_id": 915,
+      "name": "Building 915",
+      "damage": 45,
+      "hp": 740,
+      "type": "Farm",
+      "base_id": 93
+    },
+    {
+      "building_id": 916,
+      "name": "Building 916",
+      "damage": 64,
+      "hp": 844,
+      "type": "Barracks",
+      "base_id": 139
+    },
+    {
+      "building_id": 917,
+      "name": "Building 917",
+      "damage": 11,
+      "hp": 905,
+      "type": "Town Hall",
+      "base_id": 695
+    },
+    {
+      "building_id": 918,
+      "name": "Building 918",
+      "damage": 32,
+      "hp": 1325,
+      "type": "Barracks",
+      "base_id": 83
+    },
+    {
+      "building_id": 919,
+      "name": "Building 919",
+      "damage": 18,
+      "hp": 1534,
+      "type": "Barracks",
+      "base_id": 189
+    },
+    {
+      "building_id": 920,
+      "name": "Building 920",
+      "damage": 15,
+      "hp": 1646,
+      "type": "Tower",
+      "base_id": 189
+    },
+    {
+      "building_id": 921,
+      "name": "Building 921",
+      "damage": 55,
+      "hp": 1509,
+      "type": "Barracks",
+      "base_id": 951
+    },
+    {
+      "building_id": 922,
+      "name": "Building 922",
+      "damage": 58,
+      "hp": 1066,
+      "type": "Barracks",
+      "base_id": 725
+    },
+    {
+      "building_id": 923,
+      "name": "Building 923",
+      "damage": 21,
+      "hp": 1834,
+      "type": "Town Hall",
+      "base_id": 186
+    },
+    {
+      "building_id": 924,
+      "name": "Building 924",
+      "damage": 57,
+      "hp": 1908,
+      "type": "Town Hall",
+      "base_id": 80
+    },
+    {
+      "building_id": 925,
+      "name": "Building 925",
+      "damage": 30,
+      "hp": 563,
+      "type": "Barracks",
+      "base_id": 894
+    },
+    {
+      "building_id": 926,
+      "name": "Building 926",
+      "damage": 14,
+      "hp": 1680,
+      "type": "Farm",
+      "base_id": 982
+    },
+    {
+      "building_id": 927,
+      "name": "Building 927",
+      "damage": 48,
+      "hp": 1789,
+      "type": "Farm",
+      "base_id": 674
+    },
+    {
+      "building_id": 928,
+      "name": "Building 928",
+      "damage": 87,
+      "hp": 872,
+      "type": "Tower",
+      "base_id": 266
+    },
+    {
+      "building_id": 929,
+      "name": "Building 929",
+      "damage": 15,
+      "hp": 720,
+      "type": "Tower",
+      "base_id": 268
+    },
+    {
+      "building_id": 930,
+      "name": "Building 930",
+      "damage": 24,
+      "hp": 1596,
+      "type": "Tower",
+      "base_id": 286
+    },
+    {
+      "building_id": 931,
+      "name": "Building 931",
+      "damage": 21,
+      "hp": 1661,
+      "type": "Tower",
+      "base_id": 463
+    },
+    {
+      "building_id": 932,
+      "name": "Building 932",
+      "damage": 28,
+      "hp": 1992,
+      "type": "Tower",
+      "base_id": 450
+    },
+    {
+      "building_id": 933,
+      "name": "Building 933",
+      "damage": 91,
+      "hp": 956,
+      "type": "Barracks",
+      "base_id": 375
+    },
+    {
+      "building_id": 934,
+      "name": "Building 934",
+      "damage": 59,
+      "hp": 1496,
+      "type": "Tower",
+      "base_id": 751
+    },
+    {
+      "building_id": 935,
+      "name": "Building 935",
+      "damage": 89,
+      "hp": 1782,
+      "type": "Barracks",
+      "base_id": 455
+    },
+    {
+      "building_id": 936,
+      "name": "Building 936",
+      "damage": 90,
+      "hp": 1041,
+      "type": "Town Hall",
+      "base_id": 333
+    },
+    {
+      "building_id": 937,
+      "name": "Building 937",
+      "damage": 51,
+      "hp": 806,
+      "type": "Town Hall",
+      "base_id": 14
+    },
+    {
+      "building_id": 938,
+      "name": "Building 938",
+      "damage": 33,
+      "hp": 569,
+      "type": "Farm",
+      "base_id": 545
+    },
+    {
+      "building_id": 939,
+      "name": "Building 939",
+      "damage": 79,
+      "hp": 914,
+      "type": "Town Hall",
+      "base_id": 571
+    },
+    {
+      "building_id": 940,
+      "name": "Building 940",
+      "damage": 54,
+      "hp": 1576,
+      "type": "Farm",
+      "base_id": 192
+    },
+    {
+      "building_id": 941,
+      "name": "Building 941",
+      "damage": 71,
+      "hp": 1037,
+      "type": "Town Hall",
+      "base_id": 584
+    },
+    {
+      "building_id": 942,
+      "name": "Building 942",
+      "damage": 57,
+      "hp": 1034,
+      "type": "Barracks",
+      "base_id": 715
+    },
+    {
+      "building_id": 943,
+      "name": "Building 943",
+      "damage": 50,
+      "hp": 565,
+      "type": "Farm",
+      "base_id": 122
+    },
+    {
+      "building_id": 944,
+      "name": "Building 944",
+      "damage": 80,
+      "hp": 1415,
+      "type": "Barracks",
+      "base_id": 902
+    },
+    {
+      "building_id": 945,
+      "name": "Building 945",
+      "damage": 88,
+      "hp": 512,
+      "type": "Barracks",
+      "base_id": 342
+    },
+    {
+      "building_id": 946,
+      "name": "Building 946",
+      "damage": 66,
+      "hp": 1436,
+      "type": "Farm",
+      "base_id": 815
+    },
+    {
+      "building_id": 947,
+      "name": "Building 947",
+      "damage": 25,
+      "hp": 801,
+      "type": "Farm",
+      "base_id": 487
+    },
+    {
+      "building_id": 948,
+      "name": "Building 948",
+      "damage": 63,
+      "hp": 594,
+      "type": "Farm",
+      "base_id": 808
+    },
+    {
+      "building_id": 949,
+      "name": "Building 949",
+      "damage": 86,
+      "hp": 1610,
+      "type": "Tower",
+      "base_id": 408
+    },
+    {
+      "building_id": 950,
+      "name": "Building 950",
+      "damage": 39,
+      "hp": 698,
+      "type": "Town Hall",
+      "base_id": 50
+    },
+    {
+      "building_id": 951,
+      "name": "Building 951",
+      "damage": 23,
+      "hp": 1403,
+      "type": "Barracks",
+      "base_id": 299
+    },
+    {
+      "building_id": 952,
+      "name": "Building 952",
+      "damage": 93,
+      "hp": 687,
+      "type": "Farm",
+      "base_id": 230
+    },
+    {
+      "building_id": 953,
+      "name": "Building 953",
+      "damage": 61,
+      "hp": 1217,
+      "type": "Tower",
+      "base_id": 983
+    },
+    {
+      "building_id": 954,
+      "name": "Building 954",
+      "damage": 60,
+      "hp": 741,
+      "type": "Tower",
+      "base_id": 867
+    },
+    {
+      "building_id": 955,
+      "name": "Building 955",
+      "damage": 46,
+      "hp": 1459,
+      "type": "Farm",
+      "base_id": 764
+    },
+    {
+      "building_id": 956,
+      "name": "Building 956",
+      "damage": 63,
+      "hp": 1453,
+      "type": "Farm",
+      "base_id": 794
+    },
+    {
+      "building_id": 957,
+      "name": "Building 957",
+      "damage": 15,
+      "hp": 764,
+      "type": "Tower",
+      "base_id": 842
+    },
+    {
+      "building_id": 958,
+      "name": "Building 958",
+      "damage": 11,
+      "hp": 931,
+      "type": "Town Hall",
+      "base_id": 708
+    },
+    {
+      "building_id": 959,
+      "name": "Building 959",
+      "damage": 72,
+      "hp": 1278,
+      "type": "Farm",
+      "base_id": 710
+    },
+    {
+      "building_id": 960,
+      "name": "Building 960",
+      "damage": 56,
+      "hp": 1863,
+      "type": "Town Hall",
+      "base_id": 687
+    },
+    {
+      "building_id": 961,
+      "name": "Building 961",
+      "damage": 74,
+      "hp": 1006,
+      "type": "Tower",
+      "base_id": 139
+    },
+    {
+      "building_id": 962,
+      "name": "Building 962",
+      "damage": 97,
+      "hp": 1515,
+      "type": "Farm",
+      "base_id": 281
+    },
+    {
+      "building_id": 963,
+      "name": "Building 963",
+      "damage": 47,
+      "hp": 1960,
+      "type": "Town Hall",
+      "base_id": 556
+    },
+    {
+      "building_id": 964,
+      "name": "Building 964",
+      "damage": 14,
+      "hp": 1022,
+      "type": "Farm",
+      "base_id": 238
+    },
+    {
+      "building_id": 965,
+      "name": "Building 965",
+      "damage": 37,
+      "hp": 633,
+      "type": "Farm",
+      "base_id": 358
+    },
+    {
+      "building_id": 966,
+      "name": "Building 966",
+      "damage": 24,
+      "hp": 1665,
+      "type": "Tower",
+      "base_id": 943
+    },
+    {
+      "building_id": 967,
+      "name": "Building 967",
+      "damage": 88,
+      "hp": 1185,
+      "type": "Town Hall",
+      "base_id": 300
+    },
+    {
+      "building_id": 968,
+      "name": "Building 968",
+      "damage": 95,
+      "hp": 1680,
+      "type": "Barracks",
+      "base_id": 423
+    },
+    {
+      "building_id": 969,
+      "name": "Building 969",
+      "damage": 19,
+      "hp": 1882,
+      "type": "Tower",
+      "base_id": 278
+    },
+    {
+      "building_id": 970,
+      "name": "Building 970",
+      "damage": 27,
+      "hp": 1179,
+      "type": "Town Hall",
+      "base_id": 982
+    },
+    {
+      "building_id": 971,
+      "name": "Building 971",
+      "damage": 71,
+      "hp": 1849,
+      "type": "Tower",
+      "base_id": 358
+    },
+    {
+      "building_id": 972,
+      "name": "Building 972",
+      "damage": 92,
+      "hp": 763,
+      "type": "Barracks",
+      "base_id": 966
+    },
+    {
+      "building_id": 973,
+      "name": "Building 973",
+      "damage": 29,
+      "hp": 1778,
+      "type": "Town Hall",
+      "base_id": 917
+    },
+    {
+      "building_id": 974,
+      "name": "Building 974",
+      "damage": 74,
+      "hp": 1216,
+      "type": "Tower",
+      "base_id": 197
+    },
+    {
+      "building_id": 975,
+      "name": "Building 975",
+      "damage": 86,
+      "hp": 1869,
+      "type": "Town Hall",
+      "base_id": 98
+    },
+    {
+      "building_id": 976,
+      "name": "Building 976",
+      "damage": 55,
+      "hp": 1374,
+      "type": "Farm",
+      "base_id": 226
+    },
+    {
+      "building_id": 977,
+      "name": "Building 977",
+      "damage": 64,
+      "hp": 509,
+      "type": "Town Hall",
+      "base_id": 620
+    },
+    {
+      "building_id": 978,
+      "name": "Building 978",
+      "damage": 77,
+      "hp": 786,
+      "type": "Tower",
+      "base_id": 52
+    },
+    {
+      "building_id": 979,
+      "name": "Building 979",
+      "damage": 17,
+      "hp": 1180,
+      "type": "Barracks",
+      "base_id": 140
+    },
+    {
+      "building_id": 980,
+      "name": "Building 980",
+      "damage": 30,
+      "hp": 795,
+      "type": "Barracks",
+      "base_id": 833
+    },
+    {
+      "building_id": 981,
+      "name": "Building 981",
+      "damage": 81,
+      "hp": 1509,
+      "type": "Town Hall",
+      "base_id": 612
+    },
+    {
+      "building_id": 982,
+      "name": "Building 982",
+      "damage": 16,
+      "hp": 820,
+      "type": "Tower",
+      "base_id": 511
+    },
+    {
+      "building_id": 983,
+      "name": "Building 983",
+      "damage": 10,
+      "hp": 1325,
+      "type": "Farm",
+      "base_id": 43
+    },
+    {
+      "building_id": 984,
+      "name": "Building 984",
+      "damage": 49,
+      "hp": 1747,
+      "type": "Farm",
+      "base_id": 20
+    },
+    {
+      "building_id": 985,
+      "name": "Building 985",
+      "damage": 15,
+      "hp": 742,
+      "type": "Town Hall",
+      "base_id": 25
+    },
+    {
+      "building_id": 986,
+      "name": "Building 986",
+      "damage": 92,
+      "hp": 744,
+      "type": "Tower",
+      "base_id": 159
+    },
+    {
+      "building_id": 987,
+      "name": "Building 987",
+      "damage": 88,
+      "hp": 746,
+      "type": "Town Hall",
+      "base_id": 659
+    },
+    {
+      "building_id": 988,
+      "name": "Building 988",
+      "damage": 64,
+      "hp": 1477,
+      "type": "Barracks",
+      "base_id": 361
+    },
+    {
+      "building_id": 989,
+      "name": "Building 989",
+      "damage": 87,
+      "hp": 599,
+      "type": "Tower",
+      "base_id": 70
+    },
+    {
+      "building_id": 990,
+      "name": "Building 990",
+      "damage": 59,
+      "hp": 1766,
+      "type": "Farm",
+      "base_id": 432
+    },
+    {
+      "building_id": 991,
+      "name": "Building 991",
+      "damage": 48,
+      "hp": 1142,
+      "type": "Barracks",
+      "base_id": 729
+    },
+    {
+      "building_id": 992,
+      "name": "Building 992",
+      "damage": 83,
+      "hp": 562,
+      "type": "Barracks",
+      "base_id": 713
+    },
+    {
+      "building_id": 993,
+      "name": "Building 993",
+      "damage": 84,
+      "hp": 1501,
+      "type": "Farm",
+      "base_id": 781
+    },
+    {
+      "building_id": 994,
+      "name": "Building 994",
+      "damage": 13,
+      "hp": 1027,
+      "type": "Tower",
+      "base_id": 338
+    },
+    {
+      "building_id": 995,
+      "name": "Building 995",
+      "damage": 21,
+      "hp": 1133,
+      "type": "Farm",
+      "base_id": 615
+    },
+    {
+      "building_id": 996,
+      "name": "Building 996",
+      "damage": 46,
+      "hp": 1818,
+      "type": "Barracks",
+      "base_id": 985
+    },
+    {
+      "building_id": 997,
+      "name": "Building 997",
+      "damage": 29,
+      "hp": 1077,
+      "type": "Tower",
+      "base_id": 256
+    },
+    {
+      "building_id": 998,
+      "name": "Building 998",
+      "damage": 49,
+      "hp": 1049,
+      "type": "Farm",
+      "base_id": 460
+    },
+    {
+      "building_id": 999,
+      "name": "Building 999",
+      "damage": 28,
+      "hp": 1777,
+      "type": "Tower",
+      "base_id": 727
+    },
+    {
+      "building_id": 1000,
+      "name": "Building 1000",
+      "damage": 70,
+      "hp": 1422,
+      "type": "Town Hall",
+      "base_id": 771
+    }
+  ]
+}
