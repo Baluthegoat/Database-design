@@ -1,8 +1,4 @@
-[{
-  "_id": {
-    "$oid": "6642081e9faa20133a287fbb"
-  },
-  "narrative_elements": [
+[
     {
       "NarrativeElementID": 17617,
       "Name": "Narrative Element 5788",
@@ -100004,4 +100000,3 @@
       "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
-}]

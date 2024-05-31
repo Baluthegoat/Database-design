@@ -1,8 +1,4 @@
-[{
-  "_id": {
-    "$oid": "664207689faa20133a287fb4"
-  },
-  "buildings": [
+[
     {
       "building_id": 1,
       "name": "Building 1",
@@ -160003,5 +159999,4 @@
       "type": "Tower",
       "base_id": 9941
     }
-  ]
-}]
+]

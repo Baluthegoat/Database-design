@@ -1,8 +1,4 @@
-[{
-  "_id": {
-    "$oid": "664208959faa20133a287fc1"
-  },
-  "objectives": [
+[
     {
       "objective_id": 1,
       "name": "Objective 1",
@@ -120004,4 +120000,3 @@
       "act_id": 20000
     }
   ]
-}]

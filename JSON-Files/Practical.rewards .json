@@ -1,8 +1,4 @@
-[{
-  "_id": {
-    "$oid": "6642085b9faa20133a287fbf"
-  },
-  "rewards": [
+[
     {
       "reward_id": 1,
       "name": "Reward 1",
@@ -140004,4 +140000,3 @@
       "session_id": 1
     }
   ]
-}]

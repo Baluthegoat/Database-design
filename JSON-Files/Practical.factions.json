@@ -1,8 +1,4 @@
-[{
-  "_id": {
-    "$oid": "664207839faa20133a287fb6"
-  },
-  "factions": [
+[
     {
       "faction_id": 1,
       "name": "Faction 1",
@@ -120004,4 +120000,3 @@
       "player_id": 20000
     }
   ]
-}]
